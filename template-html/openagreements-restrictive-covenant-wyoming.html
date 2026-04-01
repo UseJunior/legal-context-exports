@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenAgreements Employee Restrictive Covenant (Wyoming)</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: 'Georgia', 'Times New Roman', serif; line-height: 1.7; color: #1a1a1a; display: flex; min-height: 100vh; }
+
+.left-panel { width: 240px; min-width: 240px; background: #fafafa; border-right: 1px solid #e5e7eb; padding: 1.5rem 1rem; position: sticky; top: 0; height: 100vh; overflow-y: auto; font-family: -apple-system, sans-serif; }
+.left-panel h2 { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.08em; color: #9ca3af; margin-bottom: 1rem; }
+.toc-item { display: block; padding: 5px 10px; font-size: 0.82rem; color: #6b7280; text-decoration: none; border-left: 2px solid transparent; margin-bottom: 1px; transition: all 0.15s; }
+.toc-item:hover { color: #111; background: #f3f4f6; }
+.toc-item.active { color: #1e40af; border-left-color: #3b82f6; font-weight: 600; }
+
+.main { flex: 1; max-width: 700px; padding: 2.5rem 3rem; }
+.main h1 { font-size: 1.6rem; margin-bottom: 0.25rem; text-align: center; }
+.main .template-meta { text-align: center; color: #9ca3af; font-size: 0.85rem; margin-bottom: 2rem; font-family: -apple-system, sans-serif; }
+
+#cover-terms { margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid #e5e7eb; }
+#cover-terms h2 { font-size: 1.1rem; margin-bottom: 1rem; }
+#cover-terms table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+#cover-terms td { padding: 6px 10px; border-bottom: 1px solid #f3f4f6; vertical-align: top; }
+#cover-terms td:first-child { width: 45%; }
+
+.field { background: #fefce8; padding: 2px 6px; border-radius: 3px; font-size: 0.9em; cursor: help; border-bottom: 1px dashed #d4a017; }
+.field:hover { background: #fef3c7; }
+
+.clause { margin-bottom: 1.5rem; }
+.clause-heading { font-size: 1.05rem; margin-bottom: 0.5rem; padding-top: 1rem; }
+.clause-text { font-size: 0.95rem; }
+.clause-text p { margin: 0.5rem 0; }
+
+.drafting-toggle { font-family: -apple-system, sans-serif; font-size: 0.8rem; color: #3b82f6; cursor: pointer; padding: 6px 0; margin-top: 0.5rem; user-select: none; }
+.drafting-toggle:hover { color: #1d4ed8; }
+.drafting-toggle .toggle-icon { transition: transform 0.2s; display: inline-block; }
+.drafting-toggle.open .toggle-icon { transform: rotate(90deg); }
+.drafting-note { display: none; background: #f8fafc; border-left: 3px solid #3b82f6; padding: 12px 16px; margin: 8px 0 16px; border-radius: 0 6px 6px 0; font-family: -apple-system, sans-serif; }
+.drafting-note.open { display: block; }
+.drafting-note p { font-size: 0.9rem; color: #334155; margin: 6px 0; }
+.read-more { display: inline-block; margin-top: 6px; font-size: 0.85rem; color: #2563eb; text-decoration: none; }
+.read-more:hover { text-decoration: underline; }
+
+.constraints-section { background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px; padding: 1rem; margin: 1.5rem 0; }
+.constraints-heading { font-size: 0.95rem; margin-bottom: 0.75rem; color: #92400e; font-family: -apple-system, sans-serif; }
+.constraint-note { display: flex; gap: 8px; padding: 6px 0; font-size: 0.9rem; color: #78350f; border-bottom: 1px solid #fef3c7; font-family: -apple-system, sans-serif; }
+.constraint-note:last-child { border-bottom: none; }
+.constraint-icon { flex-shrink: 0; }
+
+.right-panel { width: 280px; min-width: 280px; padding: 1.5rem 1rem; position: sticky; top: 0; height: 100vh; overflow-y: auto; font-family: -apple-system, sans-serif; border-left: 1px solid #e5e7eb; }
+.download-card { background: #f0f9ff; border: 1px solid #bae6fd; border-radius: 8px; padding: 1rem; margin-bottom: 1.5rem; }
+.download-card h3 { font-size: 0.95rem; color: #0369a1; margin-bottom: 4px; }
+.download-card p { font-size: 0.8rem; color: #64748b; margin-bottom: 8px; }
+.action-btn { display: block; background: #2563eb; color: white; padding: 8px; border-radius: 6px; text-align: center; text-decoration: none; font-weight: 600; font-size: 0.9rem; border: none; width: 100%; cursor: pointer; }
+.action-btn:hover { background: #1d4ed8; }
+
+.query-card { background: #fafafa; border: 1px solid #e5e7eb; border-radius: 8px; padding: 1rem; margin-bottom: 1.5rem; }
+.query-card h3 { font-size: 0.95rem; color: #374151; margin-bottom: 4px; }
+.query-card p { font-size: 0.8rem; color: #9ca3af; margin-bottom: 8px; }
+.query-card textarea { width: 100%; height: 80px; border: 1px solid #d1d5db; border-radius: 6px; padding: 8px; font-size: 0.85rem; resize: vertical; font-family: -apple-system, sans-serif; }
+.query-card textarea:focus { outline: none; border-color: #3b82f6; }
+
+.related-card { display: block; padding: 10px 12px; background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; margin-bottom: 8px; text-decoration: none; }
+.related-card:hover { background: #f8fafc; border-color: #3b82f6; }
+.related-type { font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.05em; color: #3b82f6; margin-bottom: 2px; }
+.related-title { font-size: 0.9rem; color: #1e40af; font-weight: 600; }
+.related-sub { font-size: 0.8rem; color: #6b7280; margin-top: 2px; }
+
+.disclaimer { color: #9ca3af; font-size: 0.75rem; margin-top: 2rem; padding-top: 0.75rem; border-top: 1px solid #e5e7eb; line-height: 1.4; }
+</style>
+</head>
+<body>
+
+<nav class="left-panel">
+    <h2>Sections</h2>
+    <a href="#cover-terms" class="toc-item">Cover Terms</a><a href="#clause-1-defined-terms" class="toc-item">1. Defined Terms</a><a href="#clause-2-timing-and-employee-acknowledgements" class="toc-item">2. Timing and Employee Acknowledgements</a><a href="#clause-3-confidential-information-and-trade-secret-protection" class="toc-item">3. Confidential Information and Trade Secret Protection</a><a href="#clause-4-permitted-disclosures-and-protected-conduct" class="toc-item">4. Permitted Disclosures and Protected Conduct</a><a href="#clause-5-return-deletion-and-certification-of-company-property" class="toc-item">5. Return, Deletion, and Certification of Company Property</a><a href="#clause-6-non-solicitation-of-employees" class="toc-item">6. Non-Solicitation of Employees</a><a href="#clause-7-non-solicitation-of-customers-vendors-referral-sources-and-business-partners" class="toc-item">7. Non-Solicitation of Customers, Vendors, Referral Sources, and Business Partners</a><a href="#clause-8-no-business-with-covered-customers" class="toc-item">8. No Business with Covered Customers</a><a href="#clause-9-non-competition" class="toc-item">9. Non-Competition</a><a href="#clause-10-non-investment" class="toc-item">10. Non-Investment</a><a href="#clause-11-non-disparagement" class="toc-item">11. Non-Disparagement</a><a href="#clause-12-physician-specific-rights-and-notices" class="toc-item">12. Physician-Specific Rights and Notices</a><a href="#clause-13-no-conflicting-obligations" class="toc-item">13. No Conflicting Obligations</a><a href="#clause-14-notice-to-future-employers-and-other-third-parties" class="toc-item">14. Notice to Future Employers and Other Third Parties</a><a href="#clause-15-tolling-during-breach" class="toc-item">15. Tolling During Breach</a><a href="#clause-16-remedies" class="toc-item">16. Remedies</a><a href="#clause-17-enforceability-severability-and-no-reformation-request" class="toc-item">17. Enforceability, Severability, and No Reformation Request</a><a href="#clause-18-survival-and-expiration-of-each-covenant" class="toc-item">18. Survival and Expiration of Each Covenant</a><a href="#clause-19-assignment-and-successors" class="toc-item">19. Assignment and Successors</a><a href="#clause-20-governing-law-venue-and-dispute-process" class="toc-item">20. Governing Law, Venue, and Dispute Process</a><a href="#clause-21-entire-agreement-amendment-waiver-and-electronic-signatures" class="toc-item">21. Entire Agreement, Amendment, Waiver, and Electronic Signatures</a><a href="#clause-signatures" class="toc-item">Signatures</a>
+</nav>
+
+<main class="main">
+    <h1>OpenAgreements Employee Restrictive Covenant (Wyoming)</h1>
+    <p class="template-meta">CC BY 4.0 · OpenAgreements v2.0 · Drafter's starting point</p>
+
+    
+
+    <div id="cover-terms">
+        <h2>Cover Terms</h2>
+        <p>The terms below are incorporated into and form part of this agreement.</p>
+<table>
+<thead>
+<tr>
+<th>Term</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Employer</strong></td>
+<td><span class="field" title="Legal name of the employer">[Employer Name]</span></td>
+</tr>
+<tr>
+<td><strong>Employee</strong></td>
+<td><span class="field" title="Full legal name of the employee">[Employee Name]</span></td>
+</tr>
+<tr>
+<td><strong>Employee Title / Position</strong></td>
+<td><span class="field" title="Employee job title or position (optional)">[Employee Title]</span></td>
+</tr>
+<tr>
+<td><strong>Effective Date</strong></td>
+<td><span class="field" title="Effective date of this agreement">[Effective Date]</span></td>
+</tr>
+<tr>
+<td><strong>Governing Law</strong></td>
+<td><span class="field" title="Governing law state">[Governing Law]</span></td>
+</tr>
+<tr>
+<td><strong>Confidentiality</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Confidentiality — Trade Secrets Duration</em></td>
+<td><span class="field" title="Duration of confidentiality obligations for trade secrets">[Confidentiality Trade Secret Duration]</span></td>
+</tr>
+<tr>
+<td><em>Confidentiality — Other Confidential Information Duration</em></td>
+<td><span class="field" title="Duration of confidentiality obligations for non-trade-secret information">[Confidentiality Other Duration]</span></td>
+</tr>
+<tr>
+<td><strong>Employee Non-Solicitation</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Employee Non-Solicitation — Duration</em></td>
+<td><span class="field" title="Duration of employee non-solicitation restriction">[Employee Nonsolicit Duration]</span></td>
+</tr>
+<tr>
+<td><strong>Customer Non-Solicitation</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Customer Non-Solicitation — Duration</em></td>
+<td><span class="field" title="Duration of customer/partner non-solicitation restriction">[Customer Nonsolicit Duration]</span></td>
+</tr>
+<tr>
+<td><strong>Non-Competition</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Non-Competition — Duration</em></td>
+<td><span class="field" title="Duration of non-competition restriction">[Noncompete Duration]</span></td>
+</tr>
+<tr>
+<td><em>Non-Competition — Restricted Territory</em></td>
+<td><span class="field" title="Geographic scope of the non-competition restriction">[Territory]</span></td>
+</tr>
+<tr>
+<td><em>Non-Competition — Competitive Business</em></td>
+<td><span class="field" title="Description of the business activities that constitute competition with the employer.">[Competitive Business Definition]</span></td>
+</tr>
+<tr>
+<td><em>Non-Competition — Specified Competitors</em></td>
+<td><span class="field" title="Optional named list of specific competitors. Narrowing the restriction to named competitors strengthens enforceability.">[Specified Competitors]</span></td>
+</tr>
+<tr>
+<td><strong>No Business with Covered Customers</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><em>No Business with Covered Customers — Duration</em></td>
+<td><span class="field" title="Duration of the no-business-with-covered-customers restriction">[Nondealing Duration]</span></td>
+</tr>
+<tr>
+<td><strong>Non-Investment</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Non-Investment — Duration</em></td>
+<td><span class="field" title="Duration of non-investment restriction">[Noninvestment Duration]</span></td>
+</tr>
+<tr>
+<td><strong>Non-Disparagement</strong></td>
+<td></td>
+</tr>
+<tr>
+<td><em>Non-Disparagement — Duration</em></td>
+<td><span class="field" title="Duration of non-disparagement obligation (measured from termination)">[Nondisparagement Duration]</span></td>
+</tr>
+</tbody>
+</table>
+    </div>
+
+    
+        <div class="clause" id="clause-1-defined-terms">
+            <h3 class="clause-heading">1. Defined Terms</h3>
+            <div class="clause-text"><p>1.1 <strong>&ldquo;Competitive Business&rdquo;</strong> means the business activities described in Cover Terms under Competitive Business.</p>
+<p>1.2 <strong>&ldquo;Confidential Information&rdquo;</strong> means non-public information relating to Employer&rsquo;s business, including trade secrets, customer lists, pricing, business processes, technical data, and strategic plans, but excluding information that becomes public through no fault of Employee.</p>
+<p>1.3 <strong>&ldquo;Covered Customers&rdquo;</strong> means customers, vendors, referral sources, and business partners with whom Employee had material contact or for whom Employee had responsibility during the <span class="field" title="Lookback period for determining which customers are covered by the non-solicitation and non-dealing restrictions.">[Covered Customer Period]</span> before termination of employment.</p>
+<p>1.4 <strong>&ldquo;Covered Employees&rdquo;</strong> means employees with whom Employee worked or whom Employee managed during the <span class="field" title="Lookback period for determining which employees are covered by the non-solicitation restriction.">[Covered Employee Period]</span> before termination of employment.</p>
+<p>1.5 <strong>&ldquo;Passive Public Holdings&rdquo;</strong> means ownership of securities of a publicly traded company representing less than <span class="field" title="Maximum ownership percentage of publicly traded securities permitted under the Passive Public Holdings carveout.">[Passive Public Holdings Threshold]</span> of any class of such company’s securities, and interests in diversified mutual funds, index funds, and exchange-traded funds that may hold securities of a Competitive Business.</p>
+<p>1.6 <strong>&ldquo;Protected Interests&rdquo;</strong> means Employer&rsquo;s legitimate business interests in its Confidential Information, customer and business-partner relationships, workforce stability, and goodwill.</p>
+<p>1.7 <strong>&ldquo;Restricted Period&rdquo;</strong> means the duration specified in Cover Terms for each covenant, beginning on the date Employee&rsquo;s employment with Employer ends for any reason.</p>
+<p>1.8 <strong>&ldquo;Restricted Territory&rdquo;</strong> means the geographic area described in Cover Terms under Restricted Territory.</p>
+<p>1.9 <strong>&ldquo;Solicit&rdquo;</strong> means to directly or indirectly contact, approach, induce, encourage, or provide Confidential Information to any person or entity for the purpose of diverting business away from Employer, but does not include responding to general advertisements or unsolicited inquiries not initiated by Employee.</p>
+<p>1.10 <strong>&ldquo;Trade Secrets&rdquo;</strong> has the meaning given in Wyo. Stat. § 6-3-501(a)(xi).</p></div>
+            
+        </div>
+        <div class="clause" id="clause-2-timing-and-employee-acknowledgements">
+            <h3 class="clause-heading">2. Timing and Employee Acknowledgements</h3>
+            <div class="clause-text"><p>Employee acknowledges that the restrictions in this agreement are reasonable and necessary to protect Employer&rsquo;s Protected Interests. Employee acknowledges having had the opportunity to consult with independent legal counsel before signing this agreement. This agreement is effective as of the Effective Date listed in Cover Terms.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Wyoming statutory notice requirements for restrictive covenants and employee acknowledgment timing · 3 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyoming law requires careful attention to the timing of restrictive covenant agreements to ensure compliance with prospective statutory notice and enforceability standards. Employers must ensure that acknowledgments regarding legal counsel and reasonableness are documented contemporaneously with the agreement's effective date to mitigate risks of invalidation (Ogletree Deakins, Littler Mendelson). These procedural safeguards are essential given the state's evolving legislative landscape and the potential for courts to void noncompliant agreements in their entirety (Fisher Phillips).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-3-confidential-information-and-trade-secret-protection">
+            <h3 class="clause-heading">3. Confidential Information and Trade Secret Protection</h3>
+            <div class="clause-text"><p>Employee must treat all Confidential Information as strictly confidential. Employee must not use or disclose Confidential Information except as required to perform authorized job duties or with Employer&rsquo;s prior written consent. Employee&rsquo;s obligations regarding trade secrets continue in perpetuity. Employee&rsquo;s obligations regarding other Confidential Information continue for the period specified in Cover Terms. Trade secrets are protected under Wyoming law, including Wyo. Stat. § 6-3-501(a)(xi).</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Wyoming Statutory Trade Secret Definitions and Confidentiality Scope for Restrictive Covenants · 2 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyoming law provides a broad definition of trade secrets under Wyo. Stat. § 6-3-501(a)(xi), which serves as the foundation for protecting proprietary business information in employment agreements (Littler Mendelson). Employers must ensure that confidentiality provisions are narrowly tailored to align with these statutory protections to avoid potential enforceability risks in the current legislative landscape (Fisher Phillips).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-4-permitted-disclosures-and-protected-conduct">
+            <h3 class="clause-heading">4. Permitted Disclosures and Protected Conduct</h3>
+            <div class="clause-text"><p>Nothing in this agreement prohibits Employee from: (a) reporting possible violations of law to any government agency, including the Securities and Exchange Commission, the Equal Employment Opportunity Commission, the Occupational Safety and Health Administration, or any other federal, state, or local agency; (b) making disclosures protected under whistleblower provisions of any law; (c) discussing wages, hours, or other terms and conditions of employment as protected by applicable law; (d) testifying truthfully in legal proceedings; or (e) filing a sealed complaint in court using Confidential Information without liability. Pursuant to the Defend Trade Secrets Act (18 U.S.C. § 1833(b)), Employee may not be held criminally or civilly liable for disclosing a trade secret in confidence to a government official or attorney solely for the purpose of reporting or investigating a suspected violation of law, or in a sealed court filing.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Federal whistleblower protections and regulatory compliance mandates for Wyoming employment agreements · 2 firms
+            </div>
+            <div class="drafting-note">
+                <p>Federal law, including the Defend Trade Secrets Act, mandates that employees retain the right to report potential violations to government agencies without fear of civil or criminal liability. This clause ensures compliance with these protections, mitigating risks associated with overly broad restrictive covenants that might otherwise chill protected conduct (Littler Mendelson). Integrating these safeguards is essential for maintaining the enforceability of restrictive covenants under evolving state and federal standards (Foley & Lardner).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-5-return-deletion-and-certification-of-company-property">
+            <h3 class="clause-heading">5. Return, Deletion, and Certification of Company Property</h3>
+            <div class="clause-text"><p>Upon termination of employment, Employee must promptly return to Employer all documents, devices, files, credentials, and other materials containing or relating to Confidential Information. Where permitted, Employee must permanently delete electronic copies of Confidential Information from personal devices and accounts. Employee must certify compliance with this section in writing upon Employer&rsquo;s request.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-6-non-solicitation-of-employees">
+            <h3 class="clause-heading">6. Non-Solicitation of Employees</h3>
+            <div class="clause-text"><p>During the Restricted Period, Employee must not Solicit, recruit, hire, or attempt to hire any Covered Employee. This restriction does not prohibit Employee from providing a professional reference upon request or from hiring a person who responds to a general advertisement not directed specifically at Employer&rsquo;s employees.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-7-non-solicitation-of-customers-vendors-referral-sources-and-business-partners">
+            <h3 class="clause-heading">7. Non-Solicitation of Customers, Vendors, Referral Sources, and Business Partners</h3>
+            <div class="clause-text"><p>During the Restricted Period, Employee must not Solicit the business of any Covered Customer. Practitioner sources flag uncertainty about whether Wyo. Stat. § 1-23-108 could reach certain non-solicitation provisions depending on how they function.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Tailoring Non-Solicitation Provisions to Align With Wyoming's Legitimate Business Interest Requirements · 2 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyoming law requires restrictive covenants to be narrowly tailored to protect specific legitimate business interests, such as trade secrets and goodwill. Ambiguities in recent state legislation regarding the scope of non-solicitation provisions necessitate careful drafting to avoid potential invalidation by courts (Littler Mendelson). Employers should ensure these restrictions are limited to customers with whom the employee had material contact to satisfy evolving statutory standards (Fisher Phillips).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-8-no-business-with-covered-customers">
+            <h3 class="clause-heading">8. No Business with Covered Customers</h3>
+            <div class="clause-text"><p>During the Restricted Period, Employee must not accept, service, or do business with any Covered Customer, regardless of whether Employee or the Covered Customer first initiated contact. This restriction is broader than non-solicitation because it applies even if the Covered Customer approaches Employee. If the Cover Terms indicate that this restriction applies, it requires a lawful restriction pathway under Wyo. Stat. § 1-23-108.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-9-non-competition">
+            <h3 class="clause-heading">9. Non-Competition</h3>
+            <div class="clause-text"><p>During the Restricted Period, Employee must not engage in, be employed by, consult for, or have an active ownership interest in any Competitive Business within the Restricted Territory. This covenant is included only because the restriction pathway specified by Employer supports its enforceability under Wyo. Stat. § 1-23-108. Passive Public Holdings are permitted.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Wyoming Statutory Framework Requires Narrowly Tailored Restrictions for Enforceable Non-Competition Covenants · 3 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyo. Stat. § 1-23-108 necessitates that non-competition agreements be narrowly tailored to protect legitimate business interests, as Wyoming courts may void noncompliant agreements in their entirety rather than modifying them (Ogletree Deakins). Employers must navigate ambiguities regarding the scope of protected interests and personnel classifications to ensure enforceability under this new legislative landscape (Fisher Phillips; Littler Mendelson).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-10-non-investment">
+            <h3 class="clause-heading">10. Non-Investment</h3>
+            <div class="clause-text"><p>During the Restricted Period, Employee must not acquire or hold any active ownership interest in, serve as a director, officer, manager, or advisor to, or have material economic participation in any Competitive Business. This restriction primarily targets active or material ownership in private competitors. Passive Public Holdings are permitted. This covenant requires a lawful restriction pathway under Wyo. Stat. § 1-23-108.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-11-non-disparagement">
+            <h3 class="clause-heading">11. Non-Disparagement</h3>
+            <div class="clause-text"><p>During the Restricted Period specified in Cover Terms for Non-Disparagement, Employee must not make statements that are intended to or reasonably likely to disparage Employer, its officers, directors, employees, products, or services. This section does not restrict Employee from making truthful statements in legal proceedings, providing truthful testimony, making disclosures to government agencies, or exercising rights protected by law.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-12-physician-specific-rights-and-notices">
+            <h3 class="clause-heading">12. Physician-Specific Rights and Notices</h3>
+            <div class="clause-text"><p>If Employee is a physician, then notwithstanding any other provision of this agreement, Wyo. Stat. § 1-23-108(b) preserves other enforceable provisions of this agreement even if a non-compete provision is void. A physician Employee with patients diagnosed with rare disorders (as defined by the National Organization for Rare Disorders) may notify those patients of their new practice location without liability under this agreement.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Wyoming Statutory Carve-outs for Physician Non-compete and Patient Notice Rights · 2 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyo. Stat. § 1-23-108(b) establishes specific protections for physicians, ensuring that the invalidation of a non-compete provision does not automatically void other enforceable restrictive covenants within an agreement. This statutory framework balances employer interests with patient continuity of care, specifically permitting physicians to notify patients with rare disorders of a change in practice location (Littler Mendelson; Fisher Phillips). These provisions reflect the state's legislative effort to navigate the intersection of restrictive covenants and professional medical obligations.</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-13-no-conflicting-obligations">
+            <h3 class="clause-heading">13. No Conflicting Obligations</h3>
+            <div class="clause-text"><p>Employee represents that performing duties for Employer and complying with this agreement does not conflict with any prior agreement, court order, or legal obligation binding on Employee. Employee must promptly disclose to Employer any potential conflict that arises during employment.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-14-notice-to-future-employers-and-other-third-parties">
+            <h3 class="clause-heading">14. Notice to Future Employers and Other Third Parties</h3>
+            <div class="clause-text"><p>Employer may disclose the existence and terms of this agreement to any prospective employer or business associate of Employee if Employer has a reasonable belief that Employee may breach this agreement. Employee consents to this disclosure.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-15-tolling-during-breach">
+            <h3 class="clause-heading">15. Tolling During Breach</h3>
+            <div class="clause-text"><p>If Employee breaches any restrictive covenant in this agreement, the Restricted Period for that covenant is extended by one day for each day of the breach, so that the full duration of the restriction runs from the date the breach ends.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Enforceability of Tolling Provisions Under Evolving Wyoming Restrictive Covenant Law · 2 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyoming courts have not yet definitively ruled on the enforceability of tolling provisions following the enactment of recent restrictive covenant legislation. Employers should exercise caution, as the new statutory framework emphasizes narrow tailoring and may view automatic extensions as overly broad or inconsistent with the legislative intent to limit post-employment restrictions (Fisher Phillips; Littler Mendelson). Counsel should monitor whether such provisions are treated as reasonable protections of legitimate business interests or as impermissible extensions of the restricted period.</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-16-remedies">
+            <h3 class="clause-heading">16. Remedies</h3>
+            <div class="clause-text"><p>Employee acknowledges that a breach of this agreement may cause Employer irreparable harm for which money damages would be inadequate. Employer may seek injunctive or other equitable relief in addition to any other remedies available at law. If Employer prevails in any action to enforce this agreement, Employee must reimburse Employer&rsquo;s reasonable attorney&rsquo;s fees and costs. Employer does not ask any court to modify, reform, or rewrite any provision of this agreement.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Wyoming judicial enforcement trends regarding injunctive relief and restrictive covenant modification · 5 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyoming courts increasingly scrutinize restrictive covenants for overbreadth, with a growing trend toward invalidating noncompliant agreements in their entirety rather than reforming them (Ogletree Deakins, Littler Mendelson). Employers must ensure that requests for injunctive relief are narrowly tailored to protect legitimate business interests, as courts are wary of broad enforcement in the current regulatory climate (Foley & Lardner, Vinson & Elkins). This clause balances the necessity of equitable remedies with the risk that overly aggressive enforcement strategies may trigger judicial invalidation under evolving state standards (Fisher Phillips).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-17-enforceability-severability-and-no-reformation-request">
+            <h3 class="clause-heading">17. Enforceability, Severability, and No Reformation Request</h3>
+            <div class="clause-text"><p>If any provision of this agreement is found to be unenforceable, the remaining provisions remain in full force and effect. Consistent with Hassler v. Circle C Resources, 2022 WY 28, Employer acknowledges that Wyoming courts may decline to reform overbroad restrictive covenants and may instead void them entirely. Accordingly, this agreement does not include a reformation clause and does not request that any court rewrite its terms. Each restrictive covenant in this agreement is intended to be independently enforceable.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Wyoming judicial standards regarding restrictive covenant enforceability and reformation limitations · 3 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyoming courts have demonstrated a propensity to void overbroad restrictive covenants in their entirety rather than exercising blue-pencil authority to reform them (Ogletree Deakins). Consequently, this agreement intentionally omits a reformation clause to mitigate the risk of judicial invalidation and to ensure each covenant remains independently enforceable under state law (Littler Mendelson). This approach aligns with the state's evolving legislative landscape, which emphasizes strict compliance over judicial intervention (Fisher Phillips).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-18-survival-and-expiration-of-each-covenant">
+            <h3 class="clause-heading">18. Survival and Expiration of Each Covenant</h3>
+            <div class="clause-text"><p>Each restrictive covenant in this agreement survives the termination of Employee&rsquo;s employment for the Restricted Period specified in Cover Terms. Obligations under the Confidential Information and Trade Secret Protection section survive indefinitely to the extent they relate to trade secrets. All other provisions survive to the extent necessary to enforce rights that arose during employment.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-19-assignment-and-successors">
+            <h3 class="clause-heading">19. Assignment and Successors</h3>
+            <div class="clause-text"><p>Employee may not assign this agreement or any rights or obligations under it. Employer may assign this agreement to any affiliate, successor, or acquirer of all or substantially all of Employer&rsquo;s business or assets. This agreement is binding on and inures to the benefit of the parties and their respective heirs, successors, and permitted assigns.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-20-governing-law-venue-and-dispute-process">
+            <h3 class="clause-heading">20. Governing Law, Venue, and Dispute Process</h3>
+            <div class="clause-text"><p>This agreement is governed by the law listed in Cover Terms, including Wyo. Stat. § 1-23-108 for contracts entered into on or after July 1, 2025. Disputes will be resolved in the courts of the Governing Law state, subject to non-waivable rights under applicable law.</p></div>
+            
+            <div class="drafting-toggle" onclick="this.nextElementSibling.classList.toggle('open'); this.classList.toggle('open')">
+                <span class="toggle-icon">▸</span> Drafting Note · Wyoming Governing Law and Venue Selection for Enforceable Restrictive Covenants · 3 firms
+            </div>
+            <div class="drafting-note">
+                <p>Wyoming law provides a specific statutory framework under Wyo. Stat. § 1-23-108 that governs the enforceability of restrictive covenants, necessitating precise venue selection to ensure judicial interpretation aligns with state-specific legislative intent (Fisher Phillips, Littler Mendelson). Courts in Wyoming are not bound by external precedents, making the selection of local venue critical for navigating ambiguities regarding executive personnel and the scope of non-solicitation provisions (Fisher Phillips). This clause leverages local jurisdiction to mitigate the risk of broad invalidation by ensuring disputes are resolved within the state's evolving legal landscape (Ogletree Deakins).</p>
+                <a href="/legal/non-compete/wyoming" class="read-more">Read full analysis →</a>
+            </div>
+        </div>
+        <div class="clause" id="clause-21-entire-agreement-amendment-waiver-and-electronic-signatures">
+            <h3 class="clause-heading">21. Entire Agreement, Amendment, Waiver, and Electronic Signatures</h3>
+            <div class="clause-text"><p>This agreement constitutes the entire agreement between the parties regarding its subject matter and supersedes all prior agreements, understandings, and negotiations on this subject. This agreement may be amended only in writing signed by both parties. A party&rsquo;s failure to enforce any provision does not waive that party&rsquo;s right to enforce it later. This agreement may be executed in counterparts, including by electronic signature, each of which is an original.</p></div>
+            
+        </div>
+        <div class="clause" id="clause-signatures">
+            <h3 class="clause-heading">Signatures</h3>
+            <div class="clause-text"><p>By signing this agreement, each party acknowledges and agrees to the restrictive covenant obligations above. Employee confirms having read and understood each provision, including the Cover Terms.</p>
+<p><strong>Employer</strong></p>
+<p>Signature: <strong><em>_</em></strong><strong><em>_</em></strong><em>
+Print Name: <span class="field" title="Legal name of the employer">[Employer Name]</span>
+Title: <strong><em>_</em></strong><strong><em>_</em></strong></em>
+Date: <strong><em>_</em></strong><strong><em>_</em></strong>_</p>
+<p><strong>Employee</strong></p>
+<p>Signature: <strong><em>_</em></strong><strong><em>_</em></strong><em>
+Print Name: <span class="field" title="Full legal name of the employee">[Employee Name]</span>
+Date: <strong><em>_</em></strong><strong><em>_</em></strong></em></p></div>
+            
+        </div>
+</main>
+
+<aside class="right-panel">
+    <div class="download-card">
+        <h3>Download Template</h3>
+        <p>Editable Word file with fillable fields</p>
+        <a class="action-btn" href="#">
+            <span style="margin-right:4px;">W</span> Download Word file
+        </a>
+    </div>
+
+    <div class="query-card">
+        <h3>Generate a Starter</h3>
+        <p>Describe your situation and we'll pre-fill the template</p>
+        <textarea placeholder="e.g., Wyoming tech startup hiring a senior engineer, 1-year non-compete, protecting trade secrets in SaaS product..."></textarea>
+        <button class="action-btn" style="margin-top:8px;">Generate draft →</button>
+    </div>
+
+    <div style="margin-top:1.5rem;">
+        <h3 style="font-size:0.85rem;color:#64748b;margin-bottom:0.75rem;">Related Content</h3>
+        
+        <a class="related-card" href="/legal/non-compete/wyoming">
+            <div class="related-type">Practice Note</div>
+            <div class="related-title">Non Compete in Wyoming — What 6 Law Firms Say</div>
+            <div class="related-sub">Aggregated guidance from 6 leading law firms on drafting and reviewing restrictive covenants in Wyoming</div>
+        </a>
+    </div>
+
+    <p class="disclaimer">This template is a drafter's starting point. It does not constitute legal advice. Have qualified counsel review before execution.</p>
+</aside>
+
+<script>
+const tocItems = document.querySelectorAll('.toc-item');
+const sections = [];
+tocItems.forEach(item => {
+    const id = item.getAttribute('href').slice(1);
+    const el = document.getElementById(id);
+    if (el) sections.push({ el, item });
+});
+function updateToc() {
+    let active = sections[0];
+    for (const s of sections) {
+        if (s.el.getBoundingClientRect().top <= 120) active = s;
+    }
+    tocItems.forEach(i => i.classList.remove('active'));
+    if (active) active.item.classList.add('active');
+}
+window.addEventListener('scroll', updateToc);
+updateToc();
+tocItems.forEach(item => {
+    item.addEventListener('click', e => {
+        e.preventDefault();
+        document.getElementById(item.getAttribute('href').slice(1))?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+});
+</script>
+</body>
+</html>
