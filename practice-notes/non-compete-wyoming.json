@@ -1,0 +1,135 @@
+{
+  "executive_summary": "Wyoming significantly restricted the enforceability of non-compete agreements following the enactment of Senate File 107, signed by Governor Mark Gordon on March 19, 2025 (https://web.wyoleg.gov/LsoService/api/BillInformation?searchValue=SF0107). The new law, effective July 1, 2025, voids most non-compete covenants, with specific exceptions for executive and management personnel, the protection of trade secrets, and the sale of a business.",
+  "questions": [
+    {
+      "question": "Are non-compete agreements still legal in Wyoming?",
+      "answer": "Non-compete agreements remain legal in Wyoming but are subject to significant new statutory limitations following the enactment of Senate File 107. The law generally voids most non-compete covenants, though it provides specific exceptions for certain executive and management personnel, agreements designed to protect legitimate trade secrets, and covenants in connection with the sale of a business. Ogletree Deakins notes that the legislation applies prospectively to contracts entered into on or after July 1, 2025, and imposes strict requirements on the scope of these agreements (https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/). Littler Mendelson confirms that the Act's language is broad enough to make most non-compete covenants void regardless of a worker's status as an employee or independent contractor (https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions). Faegre Drinker further notes that the prohibition applies to agreements with any \"person,\" banning noncompete agreements with both employees and independent contractors (https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements).",
+      "citations": [
+        {
+          "firm": "Ogletree Deakins",
+          "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
+          "excerpt": "On March 19, 2025, Governor Mark Gordon signed Senate File 107 into law, which will significantly limit the enforceability of noncompete covenants in employment contracts."
+        },
+        {
+          "firm": "Littler Mendelson",
+          "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
+          "excerpt": "The Act contains language broad enough to make most non-compete covenants with workers void regardless of a worker's status as an employee or an independent contractor, or the type of agreement the covenant may be found in."
+        },
+        {
+          "firm": "Faegre Drinker",
+          "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
+          "excerpt": "Given that the law applies this restriction to agreements with any 'person,' this bans noncompete agreements with both employees and independent contractors."
+        }
+      ]
+    },
+    {
+      "question": "What happens if a non-compete agreement is found to be overbroad in Wyoming?",
+      "answer": "Wyoming courts may void non-compliant agreements in their entirety rather than modifying or 'blue-penciling' them to make them enforceable. This creates a risk where an overly broad covenant results in the total loss of the restrictive protection. Ogletree Deakins highlights that the current judicial trend suggests a low tolerance for agreements that fail to meet the new statutory standards, and that employers should ensure permissible agreements have reasonable geographic and temporal limitations (https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/). Littler Mendelson notes that the Wyoming Supreme Court prohibited courts from blue-penciling noncompete provisions in a 2022 decision, meaning courts will not revise an overbroad agreement to make it enforceable (https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions). Fisher Phillips adds that the statute leaves several questions unanswered, including whether other common restrictive covenants such as customer non-solicitation or employee non-solicitation covenants will be treated as \"covenants not to compete\" under the new law (https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html).",
+      "citations": [
+        {
+          "firm": "Ogletree Deakins",
+          "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
+          "excerpt": "Wyoming courts will not blue pencil or revise noncompliant restrictive covenants, and instead, noncompliant restrictive covenants will be voided."
+        },
+        {
+          "firm": "Littler Mendelson",
+          "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
+          "excerpt": "In 2022, the Wyoming Supreme Court issued a decision that prohibited courts from revising, or 'blue penciling,' a noncompete provision to be reasonable and enforceable under the law."
+        },
+        {
+          "firm": "Fisher Phillips",
+          "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
+          "excerpt": "What is not clear, however, is whether other common forms of restrictive covenants will likewise be interpreted to constitute 'covenants not to compete.' For instance, will customer non-solicitation covenants fall into this definition?"
+        }
+      ]
+    },
+    {
+      "question": "Does the FTC's federal non-compete rule apply in Wyoming?",
+      "answer": "The FTC's proposed blanket ban on non-compete agreements was abandoned in favor of a targeted, case-by-case enforcement strategy. On September 5, 2025, the FTC formally withdrew its appeals and acceded to the vacatur of the rule. Consequently, employers in Wyoming are primarily governed by the state's new statutory framework rather than a federal regulatory prohibition. Foley & Lardner confirms that the FTC has pivoted from a broad, rule-based prohibition to targeted enforcement (https://www.foley.com/insights/publications/2025/09/five-takeaways-from-the-ftcs-decision-to-abandon-the-noncompete-rule/). Vinson & Elkins notes that FTC Chair Ferguson stated the rule's \"illegality was patently obvious\" but that the FTC would \"continue to enforce the antitrust laws aggressively against noncompete agreements\" on a case-by-case basis under Section 5 of the FTC Act (https://www.velaw.com/insights/no-more-non-competes-part-five-ftc-abandons-rule-prohibiting-non-compete-agreements-but-advances-targeted-enforcement/). Ogletree Deakins observes that Wyoming's legislation is part of a broader national trend, noting that the 2024 FTC rule that sought to ban nearly all noncompete agreements was struck down in court (https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/).",
+      "citations": [
+        {
+          "firm": "Foley & Lardner",
+          "url": "https://www.foley.com/insights/publications/2025/09/five-takeaways-from-the-ftcs-decision-to-abandon-the-noncompete-rule/",
+          "excerpt": "The FTC has pivoted from a broad, rule-based prohibition of non-compete agreements to a targeted, case-by-case enforcement approach."
+        },
+        {
+          "firm": "Vinson & Elkins",
+          "url": "https://www.velaw.com/insights/no-more-non-competes-part-five-ftc-abandons-rule-prohibiting-non-compete-agreements-but-advances-targeted-enforcement/",
+          "excerpt": "On September 5, 2025, the Federal Trade Commission formally abandoned its efforts to enforce a Biden-era final rule implementing a blanket ban on most employee non-compete agreements. Instead, the FTC signaled its intent to challenge non-compete agreements on a case-by-case basis."
+        },
+        {
+          "firm": "Ogletree Deakins",
+          "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
+          "excerpt": "That trend could continue, particularly after a 2024 Federal Trade Commission (FTC) rule that sought to ban nearly all noncompete agreements in employment was struck down in court."
+        }
+      ]
+    },
+    {
+      "question": "Can I still protect trade secrets without a non-compete?",
+      "answer": "Wyoming law allows for the protection of trade secrets, and the new non-compete statute explicitly incorporates the definition of trade secrets found in W.S. 6-3-501(a)(xi) (https://wyoleg.gov/statutes/compress/title06.pdf). Littler Mendelson observes that this statutory definition is relatively broad, providing a mechanism for employers to protect proprietary information even where a general non-compete might be unenforceable, though how expansive the exception will be in practice remains to be seen (https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions). Faegre Drinker confirms that the trade secret exception is one of four narrow statutory exceptions under the new law (https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements). Ogletree Deakins notes that employers may want to evaluate whether their agreements are specifically structured to protect trade secrets as defined under state law, as this exception remains a viable path (https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/).",
+      "citations": [
+        {
+          "firm": "Littler Mendelson",
+          "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
+          "excerpt": "The statute incorporates the definition of \"trade secrets\" found in Wyoming's statutory trade secret protection law (W.S. 6\u20113\u2011501(a)(xi)), which provides a fairly broad definition."
+        },
+        {
+          "firm": "Faegre Drinker",
+          "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
+          "excerpt": "Any covenant not to compete to the extent the covenant provides for the protection of trade secrets as defined by W.S. 6\u20113\u2011501(a)(xi)."
+        },
+        {
+          "firm": "Ogletree Deakins",
+          "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
+          "excerpt": "The law will permit the use of noncompete agreements or clauses 'to the extent the covenant provides for the protection of trade secrets' as they are defined under state law."
+        }
+      ]
+    }
+  ],
+  "firm_consensus": "All four Wyoming-specific firm analyses (Ogletree Deakins, Littler Mendelson, Fisher Phillips, and Faegre Drinker) agree that the legal landscape in Wyoming has shifted toward strict, state-specific regulation following the 2025 legislation. There is a consensus that employers face increased risk of having agreements voided entirely if they are not narrowly tailored to legitimate business interests or specific statutory exceptions. All firms note the law applies prospectively to contracts entered into on or after July 1, 2025.",
+  "firm_differences": "Firms diverge on the interpretation of the new law's ambiguities, particularly regarding the definitions of 'executive' and 'management' personnel. Fisher Phillips notes that while Colorado case law might be referenced for interpretive guidance, Wyoming courts are not bound by it, leading to uncertainty in how the statute will be applied in practice (https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html). Faegre Drinker similarly highlights that the statute lacks clear definitions for terms like 'executive and management personnel,' creating uncertainty regarding the scope of the professional staff exemption (https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements). Littler Mendelson raises a separate question about how expansive the trade secret exception will be in practice (https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions).",
+  "recent_developments": [
+    {
+      "date": "March 19, 2025",
+      "event": "Governor Mark Gordon signed Senate File 107 (https://web.wyoleg.gov/LsoService/api/BillInformation?searchValue=SF0107), significantly limiting the enforceability of non-compete agreements in Wyoming. The law takes effect July 1, 2025."
+    }
+  ],
+  "references": [
+    {
+      "firm": "Ogletree Deakins",
+      "title": "Wyoming Enacts Legislation Limiting Noncompete Agreements",
+      "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
+      "date": "2025-03-19"
+    },
+    {
+      "firm": "Littler Mendelson",
+      "title": "Wyoming Bans Non-Compete Covenants with Some Exceptions",
+      "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
+      "date": "2025-03-19"
+    },
+    {
+      "firm": "Faegre Drinker",
+      "title": "Wyoming Enacts New Law Restricting Noncompete Agreements",
+      "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
+      "date": "2025-03-19"
+    },
+    {
+      "firm": "Fisher Phillips",
+      "title": "Employers in Wyoming Face New Restrictions on Non-Compete Agreements",
+      "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
+      "date": "2025-06-01"
+    },
+    {
+      "firm": "Foley & Lardner",
+      "title": "Five Takeaways From the FTC's Decision to Abandon the Noncompete Rule",
+      "url": "https://www.foley.com/insights/publications/2025/09/five-takeaways-from-the-ftcs-decision-to-abandon-the-noncompete-rule/",
+      "date": "2025-09-05"
+    },
+    {
+      "firm": "Vinson & Elkins",
+      "title": "FTC Abandons Blanket Non-Compete Ban, Shifts to Targeted Enforcement",
+      "url": "https://www.velaw.com/insights/no-more-non-competes-part-five-ftc-abandons-rule-prohibiting-non-compete-agreements-but-advances-targeted-enforcement/",
+      "date": "2025-09-05"
+    }
+  ]
+}
