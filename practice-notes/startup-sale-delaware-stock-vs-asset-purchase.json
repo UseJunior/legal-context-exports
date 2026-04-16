@@ -1,0 +1,546 @@
+{
+  "executive_summary": "This note is Delaware-centered because venture-backed startups are still usually organized as Delaware C-corporations, and Delaware corporate law supplies the cleanest public baseline for how a buyer acquires the entity, the assets, or something stock-like in between. The real structure question is not just \"stock or asset.\" It is whether the buyer wants entity continuity, or instead wants to select assets and negotiate assumed liabilities item by item.\n\nFor venture-backed startups, a direct stock purchase is often not the practical baseline at all. Wilson Sonsini and Venable both treat mergers as the usual way to get stock-like continuity without unanimous seller signatures, because Delaware merger mechanics let the buyer close with the required statutory and charter votes instead of collecting a separate stock purchase signature from every holder on a fragmented cap table.\n\nThat matters because the familiar shortcuts are incomplete. Asset deals do not automatically eliminate liability risk. Stock-like deals do not automatically solve every consent problem. And an asset deal often creates more operational work than a founder-level comparison chart admits: contract assignment review, written IP transfers, employee transition, COBRA analysis, and any regulatory or government-contract novation issues.",
+  "executive_summary_citations": [
+    {
+      "firm": "Baker McKenzie",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "Wilson Sonsini Goodrich & Rosati",
+      "url": "https://ecvc.wsgr.com/faq/operations/exit/what-stockholder-approval-is-necessary-to-sell-a-company",
+      "excerpt": ""
+    },
+    {
+      "firm": "Venable LLP",
+      "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+      "excerpt": ""
+    },
+    {
+      "firm": "ABA Business Law Today",
+      "url": "https://businesslawtoday.org/2026/03/the-muddy-bog-that-is-successor-liability-in-u-s-distressed-asset-purchase-transactions/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Court of Chancery",
+      "url": "https://courts.delaware.gov/opinions/download.aspx?ID=185600",
+      "excerpt": ""
+    },
+    {
+      "firm": "Acquisition.GOV",
+      "url": "https://www.acquisition.gov/far/42.1204",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/uscode/text/35/261",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/uscode/text/17/204",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/uscode/text/15/1060",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/cfr/text/26/54.4980B-9",
+      "excerpt": ""
+    }
+  ],
+  "firm_consensus": "The strongest public authorities and the selected firm commentary line up on the same operating principle: in a startup acquisition, structure is really a trade between continuity and selectivity. Baker McKenzie describes reverse triangular mergers as the most common structure for VC-backed targets with dispersed cap tables, while Wilson Sonsini treats direct share sales as effectively requiring 100 percent seller participation and therefore uncommon in technology-company exits. Venable's merger note explains the same market reality from the closing side: mergers are popular because they avoid the unanimous-signature problem that would otherwise give minority holders leverage.\n\nThe sources also align that the stock-vs-asset choice is not purely a tax decision. Delaware's merger statute and Section 259 make clear that a merger carries the entity, its property, and its liabilities into the survivor by operation of law. The FAR's novation rule, the federal IP transfer statutes, and the COBRA reorganization regulation all show why operational continuity, consent analysis, and post-closing obligations often drive structure at least as much as tax modeling does.",
+  "firm_consensus_citations": [
+    {
+      "firm": "Baker McKenzie",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+      "excerpt": ""
+    },
+    {
+      "firm": "Wilson Sonsini Goodrich & Rosati",
+      "url": "https://ecvc.wsgr.com/faq/operations/exit/what-stockholder-approval-is-necessary-to-sell-a-company",
+      "excerpt": ""
+    },
+    {
+      "firm": "Venable LLP",
+      "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "Acquisition.GOV",
+      "url": "https://www.acquisition.gov/far/42.1204",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/uscode/text/35/261",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/uscode/text/17/204",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/uscode/text/15/1060",
+      "excerpt": ""
+    },
+    {
+      "firm": "LII",
+      "url": "https://www.law.cornell.edu/cfr/text/26/54.4980B-9",
+      "excerpt": ""
+    }
+  ],
+  "firm_differences": "The main differences are about emphasis. Wilson Sonsini focuses on voting mechanics, holdouts, appraisal exposure, indemnity participation, and Section 280G approval overlays. Venable focuses on a narrower merger problem: what buyers can and cannot impose on non-signing stockholders once Delaware merger law supplies the closing mechanic. Baker McKenzie spends more time on the structure menu itself, including when asset sales or direct stock purchases make sense and why buyers may still prefer an asset deal where they want selected assets and selected liabilities. The ABA Business Law Today article does not frame the issue as \"startup M&A,\" but it is useful because it sharply corrects the recurring myth that an asset purchase automatically walls off legacy liabilities.\n\nThose differences support a narrow canonical note. The maintainable page is not \"all startup acquisition structures.\" It is a Delaware-first explainer that compares stock-like continuity against asset-level selectivity, then uses a short merger module to explain why startup practice often implements the stock side through a merger rather than through a literal share purchase.",
+  "firm_differences_citations": [
+    {
+      "firm": "Wilson Sonsini Goodrich & Rosati",
+      "url": "https://ecvc.wsgr.com/faq/operations/exit/what-stockholder-approval-is-necessary-to-sell-a-company",
+      "excerpt": ""
+    },
+    {
+      "firm": "Venable LLP",
+      "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+      "excerpt": ""
+    },
+    {
+      "firm": "Baker McKenzie",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+      "excerpt": ""
+    },
+    {
+      "firm": "ABA Business Law Today",
+      "url": "https://businesslawtoday.org/2026/03/the-muddy-bog-that-is-successor-liability-in-u-s-distressed-asset-purchase-transactions/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+      "excerpt": ""
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-03-13",
+      "event": "FAR 42.1204 is current through FAC 2026-01 and continues to distinguish asset transfers, which may require novation, from stock purchases with no legal change in the contracting party.",
+      "event_inline": "FAR 42.1204 is current through FAC 2026-01 and continues to distinguish asset transfers, which may require novation, from stock purchases with no legal change in the contracting party. [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "Acquisition.GOV",
+          "url": "https://www.acquisition.gov/far/42.1204",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-03-04",
+      "event": "ABA Business Law Today published a fresh reminder that successor-liability theories can still attach in asset deals even where the buyer did not purchase the seller's equity.",
+      "event_inline": "ABA Business Law Today published a fresh reminder that successor-liability theories can still attach in asset deals even where the buyer did not purchase the seller's equity. [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "ABA Business Law Today",
+          "url": "https://businesslawtoday.org/2026/03/the-muddy-bog-that-is-successor-liability-in-u-s-distressed-asset-purchase-transactions/",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "date": "2025-12-17",
+      "event": "Baker McKenzie's United States Technology M&A Guide summarized current market practice for VC-backed startup deal structures, including the continuing prevalence of reverse triangular mergers.",
+      "event_inline": "Baker McKenzie's United States Technology M&A Guide summarized current market practice for VC-backed startup deal structures, including the continuing prevalence of reverse triangular mergers. [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question": "What is the legal difference between buying startup stock and buying startup assets?",
+      "answer": "In a stock purchase, the buyer purchases equity from the stockholders and the target entity stays in place. In an asset purchase, the buyer acquires only the assets and liabilities that the transaction documents actually move and assume. Delaware merger law makes the stock-like side especially concrete: once a merger becomes effective, Section 259 says the survivor holds the constituent corporations' property and the constituent corporations' debts, liabilities, and duties attach to the survivor. That is why a merger is usually a better comparison point than a literal stock purchase when the buyer wants entity continuity.",
+      "answer_inline": "In a stock purchase, the buyer purchases equity from the stockholders and the target entity stays in place. In an asset purchase, the buyer acquires only the assets and liabilities that the transaction documents actually move and assume. Delaware merger law makes the stock-like side especially concrete: once a merger becomes effective, Section 259 says the survivor holds the constituent corporations' property and the constituent corporations' debts, liabilities, and duties attach to the survivor. That is why a merger is usually a better comparison point than a literal stock purchase when the buyer wants entity continuity. [[CITE:0]] [[CITE:1]]",
+      "citations": [
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "Why are direct stock purchases uncommon in venture-backed startup exits?",
+      "answer": "The short answer is signature mechanics. Wilson Sonsini states the point plainly: if the deal is structured as a direct share sale, 100 percent of the stockholders effectively must sign because each holder must sell their own shares. Baker McKenzie reaches the same result from the market side, explaining that direct stock purchases are more realistic only when the company has a limited number of stockholders and holdout risk is manageable. In a venture-backed startup with founders, preferred investors, SAFEs or note conversions, option holders, and legacy common holders, that can be a poor fit.",
+      "answer_inline": "The short answer is signature mechanics. Wilson Sonsini states the point plainly: if the deal is structured as a direct share sale, 100 percent of the stockholders effectively must sign because each holder must sell their own shares. Baker McKenzie reaches the same result from the market side, explaining that direct stock purchases are more realistic only when the company has a limited number of stockholders and holdout risk is manageable. In a venture-backed startup with founders, preferred investors, SAFEs or note conversions, option holders, and legacy common holders, that can be a poor fit. [[CITE:0]] [[CITE:1]]",
+      "citations": [
+        {
+          "firm": "Wilson Sonsini Goodrich & Rosati",
+          "url": "https://ecvc.wsgr.com/faq/operations/exit/what-stockholder-approval-is-necessary-to-sell-a-company",
+          "excerpt": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "Where does a reverse triangular merger fit in a stock-vs-asset comparison?",
+      "answer": "A reverse triangular merger is usually the practical \"stock-like\" structure for a startup exit. The buyer forms a subsidiary, the subsidiary merges into the target, and the target survives as the buyer's wholly owned subsidiary. Baker McKenzie identifies it as the most common structure for VC-backed targets with dispersed cap tables because it combines entity continuity with Delaware's merger-vote mechanics. Meso Scale is the contract-law reason this matters: the Court of Chancery held that a reverse triangular merger generally is not an assignment by operation of law as to the surviving corporation, which is why the structure can preserve more contract continuity than a true asset transfer.",
+      "answer_inline": "A reverse triangular merger is usually the practical \"stock-like\" structure for a startup exit. The buyer forms a subsidiary, the subsidiary merges into the target, and the target survives as the buyer's wholly owned subsidiary. Baker McKenzie identifies it as the most common structure for VC-backed targets with dispersed cap tables because it combines entity continuity with Delaware's merger-vote mechanics. Meso Scale is the contract-law reason this matters: the Court of Chancery held that a reverse triangular merger generally is not an assignment by operation of law as to the surviving corporation, which is why the structure can preserve more contract continuity than a true asset transfer. [[CITE:0]] [[CITE:1]]",
+      "citations": [
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Court of Chancery",
+          "url": "https://courts.delaware.gov/opinions/download.aspx?ID=185600",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "What approvals usually matter in Delaware for mergers, stock sales, and asset sales?",
+      "answer": "The approval stack depends on structure. For a direct stock purchase, Wilson Sonsini says the practical requirement is unanimous seller participation because every selling holder must sign. For a merger, Delaware generally uses the statutory and charter voting rules rather than unanimous signatures, and Wilson Sonsini notes that buyers often push for an even higher support level, often near 90 percent, to reduce appraisal-rights and indemnity-participation friction. Section 253 then supplies the short-form merger path once the buyer owns at least 90 percent of the outstanding shares of each voting class. For an asset sale of all or substantially all assets, Delaware Section 271 generally requires stockholder authorization at the company level rather than individual sale agreements from each holder.\n\nThere can also be overlay approvals. Wilson Sonsini notes that charters and class-specific protections can require additional votes, and that private-company change-in-control compensation can trigger a separate Section 280G cleansing vote requiring 75 percent of the disinterested stockholders. Venable adds a separate merger warning: using merger mechanics to bind non-signing holders does not mean the buyer can impose unlimited post-closing obligations on them through a letter of transmittal.",
+      "answer_inline": "The approval stack depends on structure. For a direct stock purchase, Wilson Sonsini says the practical requirement is unanimous seller participation because every selling holder must sign. For a merger, Delaware generally uses the statutory and charter voting rules rather than unanimous signatures, and Wilson Sonsini notes that buyers often push for an even higher support level, often near 90 percent, to reduce appraisal-rights and indemnity-participation friction. Section 253 then supplies the short-form merger path once the buyer owns at least 90 percent of the outstanding shares of each voting class. For an asset sale of all or substantially all assets, Delaware Section 271 generally requires stockholder authorization at the company level rather than individual sale agreements from each holder. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nThere can also be overlay approvals. Wilson Sonsini notes that charters and class-specific protections can require additional votes, and that private-company change-in-control compensation can trigger a separate Section 280G cleansing vote requiring 75 percent of the disinterested stockholders. Venable adds a separate merger warning: using merger mechanics to bind non-signing holders does not mean the buyer can impose unlimited post-closing obligations on them through a letter of transmittal. [[CITE:0]] [[CITE:3]]",
+      "citations": [
+        {
+          "firm": "Wilson Sonsini Goodrich & Rosati",
+          "url": "https://ecvc.wsgr.com/faq/operations/exit/what-stockholder-approval-is-necessary-to-sell-a-company",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "Venable LLP",
+          "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "Do asset purchases really let buyers avoid liabilities?",
+      "answer": "Not categorically. Asset deals let the parties define assumed liabilities, and that is one of their main attractions. But the successor-liability rule is not absolute. The ABA Business Law Today article gives the clean current summary: a buyer of assets can still become responsible for seller liabilities through express or implied assumption, de facto merger or consolidation, mere continuation, or a fraudulent effort to avoid liabilities. Delaware's merger statute makes the comparison point clear from the other side: when the structure is a merger, liabilities attach to the survivor by statute rather than by exception.\n\nThat is why \"asset deals avoid liabilities\" is too simple to be a useful startup rule. The better working assumption is that asset deals improve the buyer's ability to define what it is taking on, but they do not remove the need to diligence legacy claims, operational continuity, and factual patterns that can support successor-liability theories.",
+      "answer_inline": "Not categorically. Asset deals let the parties define assumed liabilities, and that is one of their main attractions. But the successor-liability rule is not absolute. The ABA Business Law Today article gives the clean current summary: a buyer of assets can still become responsible for seller liabilities through express or implied assumption, de facto merger or consolidation, mere continuation, or a fraudulent effort to avoid liabilities. Delaware's merger statute makes the comparison point clear from the other side: when the structure is a merger, liabilities attach to the survivor by statute rather than by exception. [[CITE:0]] [[CITE:1]]\n\nThat is why \"asset deals avoid liabilities\" is too simple to be a useful startup rule. The better working assumption is that asset deals improve the buyer's ability to define what it is taking on, but they do not remove the need to diligence legacy claims, operational continuity, and factual patterns that can support successor-liability theories. [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "ABA Business Law Today",
+          "url": "https://businesslawtoday.org/2026/03/the-muddy-bog-that-is-successor-liability-in-u-s-distressed-asset-purchase-transactions/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "Which contracts and licenses usually need third-party consent?",
+      "answer": "Asset deals create the heaviest consent and transfer workload because the buyer is moving contracts, permits, and licenses one by one unless the applicable regime says otherwise. Government contracts are a clean public example: FAR 42.1204 says novation is for transfers of assets, including mergers or consolidations that transfer the contractor's assets, while a novation agreement is unnecessary for a stock purchase with no legal change in the contracting party.\n\nStock-like deals are not consent-free, but the analysis is different. Meso Scale says a reverse triangular merger generally is not an assignment by operation of law by the surviving corporation, which helps on plain anti-assignment wording. But that does not erase change-of-control clauses, consent requirements drafted to cover mergers explicitly, or regulatory regimes that care about control rather than formal assignment. The practical lesson is that buyers should treat stock-like deals as better for continuity, not as automatic consent bypasses.",
+      "answer_inline": "Asset deals create the heaviest consent and transfer workload because the buyer is moving contracts, permits, and licenses one by one unless the applicable regime says otherwise. Government contracts are a clean public example: FAR 42.1204 says novation is for transfers of assets, including mergers or consolidations that transfer the contractor's assets, while a novation agreement is unnecessary for a stock purchase with no legal change in the contracting party. [[CITE:0]]\n\nStock-like deals are not consent-free, but the analysis is different. Meso Scale says a reverse triangular merger generally is not an assignment by operation of law by the surviving corporation, which helps on plain anti-assignment wording. But that does not erase change-of-control clauses, consent requirements drafted to cover mergers explicitly, or regulatory regimes that care about control rather than formal assignment. The practical lesson is that buyers should treat stock-like deals as better for continuity, not as automatic consent bypasses. [[CITE:1]] [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "Acquisition.GOV",
+          "url": "https://www.acquisition.gov/far/42.1204",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Court of Chancery",
+          "url": "https://courts.delaware.gov/opinions/download.aspx?ID=185600",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "How does IP transfer differ between stock-like deals and asset deals?",
+      "answer": "In a stock purchase or reverse triangular merger, the target usually continues to own its IP because the entity survives. In an asset purchase, the buyer has to move the IP by actual transfer instruments and schedules, which makes chain-of-title discipline much more important. Federal statutes make that workstream concrete: patent assignments must be in writing, copyright transfers are not valid without a signed instrument of conveyance, and trademark assignments must carry the associated goodwill.\n\nFor startups, that usually means the IP question is less \"does the buyer want the code?\" than \"how complete is the paper trail?\" If the target's value sits in software, data rights, trademarks, or inbound licenses, an asset deal may provide the buyer more selectivity but also creates more closing risk around what was actually assigned and what needed someone else's consent.",
+      "answer_inline": "In a stock purchase or reverse triangular merger, the target usually continues to own its IP because the entity survives. In an asset purchase, the buyer has to move the IP by actual transfer instruments and schedules, which makes chain-of-title discipline much more important. Federal statutes make that workstream concrete: patent assignments must be in writing, copyright transfers are not valid without a signed instrument of conveyance, and trademark assignments must carry the associated goodwill. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nFor startups, that usually means the IP question is less \"does the buyer want the code?\" than \"how complete is the paper trail?\" If the target's value sits in software, data rights, trademarks, or inbound licenses, an asset deal may provide the buyer more selectivity but also creates more closing risk around what was actually assigned and what needed someone else's consent. [[CITE:3]] [[CITE:0]] [[CITE:1]] [[CITE:2]]",
+      "citations": [
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/35/261",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/17/204",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/15/1060",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Court of Chancery",
+          "url": "https://courts.delaware.gov/opinions/download.aspx?ID=185600",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "What changes for employees and benefits in an asset deal?",
+      "answer": "An asset deal usually creates more employee-transition work because the seller's employees are not simply carried over by continued entity ownership. Baker McKenzie points out that acqui-hire style structures often pair direct hiring with a separate IP asset transfer or license. The COBRA reorganization regulation gives the compliance version of the same point: in an asset sale, employees tied to the sold assets can experience a termination of employment with the selling group unless the regulatory successor-employer conditions are satisfied, while a stock sale by itself is not a qualifying event for employees who continue with the acquired organization.\n\nThat does not mean stock deals eliminate all employment work. It means the workstream is different. In stock-like deals, the employing entity stays put and the buyer inherits more of the existing benefits and compliance footprint. In asset deals, the buyer more often chooses who to hire and what obligations to assume, but must plan the transition with much more precision.",
+      "answer_inline": "An asset deal usually creates more employee-transition work because the seller's employees are not simply carried over by continued entity ownership. Baker McKenzie points out that acqui-hire style structures often pair direct hiring with a separate IP asset transfer or license. The COBRA reorganization regulation gives the compliance version of the same point: in an asset sale, employees tied to the sold assets can experience a termination of employment with the selling group unless the regulatory successor-employer conditions are satisfied, while a stock sale by itself is not a qualifying event for employees who continue with the acquired organization. [[CITE:0]] [[CITE:1]]\n\nThat does not mean stock deals eliminate all employment work. It means the workstream is different. In stock-like deals, the employing entity stays put and the buyer inherits more of the existing benefits and compliance footprint. In asset deals, the buyer more often chooses who to hire and what obligations to assume, but must plan the transition with much more precision. [[CITE:1]] [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/cfr/text/26/54.4980B-9",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "How do the tax workstreams differ at a high level?",
+      "answer": "At a high level, asset deals usually create the cleaner buyer-side basis and allocation story. Section 1060 and Form 8594 require buyer and seller reporting for a group of assets that makes up a trade or business when goodwill or going-concern value is in play, and Section 197 makes the buyer-side benefit easy to see by allowing amortization of qualifying acquired intangibles over 15 years. Baker McKenzie therefore treats asset sales as buyer-friendly from a basis perspective.\n\nStock deals are not always purely stock-like for tax. Section 338 lets certain qualified stock purchases be treated as asset acquisitions for tax purposes, which is why a serious structure discussion cannot stop at the legal form alone. The right takeaway for a maintained note is modest: legal structure and tax treatment often point in the same direction, but they do not always have to, and this page should stay at the level of public-source-backed issue spotting rather than tax advice.",
+      "answer_inline": "At a high level, asset deals usually create the cleaner buyer-side basis and allocation story. Section 1060 and Form 8594 require buyer and seller reporting for a group of assets that makes up a trade or business when goodwill or going-concern value is in play, and Section 197 makes the buyer-side benefit easy to see by allowing amortization of qualifying acquired intangibles over 15 years. Baker McKenzie therefore treats asset sales as buyer-friendly from a basis perspective. [[CITE:0]] [[CITE:1]] [[CITE:2]] [[CITE:3]]\n\nStock deals are not always purely stock-like for tax. Section 338 lets certain qualified stock purchases be treated as asset acquisitions for tax purposes, which is why a serious structure discussion cannot stop at the legal form alone. The right takeaway for a maintained note is modest: legal structure and tax treatment often point in the same direction, but they do not always have to, and this page should stay at the level of public-source-backed issue spotting rather than tax advice. [[CITE:4]] [[CITE:0]] [[CITE:2]]",
+      "citations": [
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/26/1060",
+          "excerpt": ""
+        },
+        {
+          "firm": "Internal Revenue Service",
+          "url": "https://www.irs.gov/forms-pubs/about-form-8594",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/26/197",
+          "excerpt": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/26/338",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "When is an asset deal operationally slower or riskier, and when can it be simpler?",
+      "answer": "An asset deal gets slower when the business is held together by third-party permissions: customer contracts, inbound licenses, permits, government relationships, employee handoff, and long transfer schedules. That is why startup buyers who want continuity often prefer a merger even when they are nervous about entity-level liabilities.\n\nBut an asset deal can still be the cleaner business answer when the buyer does not want the whole entity. Baker McKenzie identifies the core use cases: selling only a portion of the company, avoiding full-entity diligence where liabilities are unattractive, or structuring around a targeted team-plus-IP acquisition. The note's practical standard should therefore be: an asset deal is simpler only when the thing being bought is actually separable.",
+      "answer_inline": "An asset deal gets slower when the business is held together by third-party permissions: customer contracts, inbound licenses, permits, government relationships, employee handoff, and long transfer schedules. That is why startup buyers who want continuity often prefer a merger even when they are nervous about entity-level liabilities. [[CITE:0]] [[CITE:1]] [[CITE:2]] [[CITE:3]] [[CITE:4]]\n\nBut an asset deal can still be the cleaner business answer when the buyer does not want the whole entity. Baker McKenzie identifies the core use cases: selling only a portion of the company, avoiding full-entity diligence where liabilities are unattractive, or structuring around a targeted team-plus-IP acquisition. The note's practical standard should therefore be: an asset deal is simpler only when the thing being bought is actually separable. [[CITE:5]]",
+      "citations": [
+        {
+          "firm": "Acquisition.GOV",
+          "url": "https://www.acquisition.gov/far/42.1204",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/35/261",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/17/204",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/uscode/text/15/1060",
+          "excerpt": ""
+        },
+        {
+          "firm": "LII",
+          "url": "https://www.law.cornell.edu/cfr/text/26/54.4980B-9",
+          "excerpt": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "What should buyers and sellers ask before assuming one structure is better?",
+      "answer": "Start with these questions:\n\n- Is the buyer trying to own the company, or only a product line, IP package, customer base, or team?\n- How fragmented is the cap table, and how realistic is it to collect individual seller signatures?\n- Which contracts, licenses, permits, or government relationships will need consent if assets move?\n- Are there legacy liabilities that make entity continuity unattractive, and do the facts create successor-liability risk anyway?\n- Does the value sit in IP that will require clean written transfer instruments and goodwill assignments?\n- Will employee and benefits transition be easier through continued entity ownership, or through selective rehiring?\n- Are there buyer-side tax reasons to prefer asset treatment, and can any stock structure election accomplish part of that goal?\n\nThose questions are more useful than the generic slogans. In startup practice, the structure choice is usually best understood as a constraint-mapping exercise: cap table mechanics, continuity needs, liability tolerance, consent burden, and tax objectives. Once those constraints are visible, the stock-versus-asset comparison becomes much less abstract.",
+      "answer_inline": "Start with these questions:\n\n- Is the buyer trying to own the company, or only a product line, IP package, customer base, or team?\n- How fragmented is the cap table, and how realistic is it to collect individual seller signatures?\n- Which contracts, licenses, permits, or government relationships will need consent if assets move?\n- Are there legacy liabilities that make entity continuity unattractive, and do the facts create successor-liability risk anyway?\n- Does the value sit in IP that will require clean written transfer instruments and goodwill assignments?\n- Will employee and benefits transition be easier through continued entity ownership, or through selective rehiring?\n- Are there buyer-side tax reasons to prefer asset treatment, and can any stock structure election accomplish part of that goal?\n\nThose questions are more useful than the generic slogans. In startup practice, the structure choice is usually best understood as a constraint-mapping exercise: cap table mechanics, continuity needs, liability tolerance, consent burden, and tax objectives. Once those constraints are visible, the stock-versus-asset comparison becomes much less abstract. [[CITE:0]] [[CITE:1]] [[CITE:2]] [[CITE:3]]",
+      "citations": [
+        {
+          "firm": "Wilson Sonsini Goodrich & Rosati",
+          "url": "https://ecvc.wsgr.com/faq/operations/exit/what-stockholder-approval-is-necessary-to-sell-a-company",
+          "excerpt": ""
+        },
+        {
+          "firm": "Baker McKenzie",
+          "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+          "excerpt": ""
+        },
+        {
+          "firm": "Venable LLP",
+          "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+          "excerpt": ""
+        },
+        {
+          "firm": "ABA Business Law Today",
+          "url": "https://businesslawtoday.org/2026/03/the-muddy-bog-that-is-successor-liability-in-u-s-distressed-asset-purchase-transactions/",
+          "excerpt": ""
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "firm": "Delaware Code Online",
+      "title": "DGCL §§ 251, 253, and 259",
+      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Delaware Code Online",
+      "title": "DGCL § 271",
+      "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Delaware Court of Chancery",
+      "title": "Meso Scale Diagnostics, LLC v. Roche Diagnostics GmbH",
+      "url": "https://courts.delaware.gov/opinions/download.aspx?ID=185600",
+      "date": "2013-03-08"
+    },
+    {
+      "firm": "Acquisition.GOV",
+      "title": "FAR 42.1204 Applicability of novation agreements",
+      "url": "https://www.acquisition.gov/far/42.1204",
+      "date": "2026-03-13"
+    },
+    {
+      "firm": "LII",
+      "title": "35 U.S.C. § 261",
+      "url": "https://www.law.cornell.edu/uscode/text/35/261",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "LII",
+      "title": "17 U.S.C. § 204",
+      "url": "https://www.law.cornell.edu/uscode/text/17/204",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "LII",
+      "title": "15 U.S.C. § 1060",
+      "url": "https://www.law.cornell.edu/uscode/text/15/1060",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "LII",
+      "title": "26 CFR § 54.4980B-9",
+      "url": "https://www.law.cornell.edu/cfr/text/26/54.4980B-9",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "LII",
+      "title": "26 U.S.C. § 338",
+      "url": "https://www.law.cornell.edu/uscode/text/26/338",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "LII",
+      "title": "26 U.S.C. § 1060",
+      "url": "https://www.law.cornell.edu/uscode/text/26/1060",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Internal Revenue Service",
+      "title": "About Form 8594, Asset Acquisition Statement Under Section 1060",
+      "url": "https://www.irs.gov/forms-pubs/about-form-8594",
+      "date": "2026-03-30"
+    },
+    {
+      "firm": "LII",
+      "title": "26 U.S.C. § 197",
+      "url": "https://www.law.cornell.edu/uscode/text/26/197",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Wilson Sonsini Goodrich & Rosati",
+      "title": "What stockholder approval is necessary to sell a company?",
+      "url": "https://ecvc.wsgr.com/faq/operations/exit/what-stockholder-approval-is-necessary-to-sell-a-company",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Venable LLP",
+      "title": "Structuring a Private Company Acquisition as a Merger in Delaware? Be Careful with Post-Closing Obligations for Non-Signing Shareholders",
+      "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+      "date": "2021-07-12"
+    },
+    {
+      "firm": "Baker McKenzie",
+      "title": "United States Technology M&A Guide",
+      "url": "https://www.bakermckenzie.com/en/insight/publications/guides/united-states-technology-ma-guide",
+      "date": "2025-12-17"
+    },
+    {
+      "firm": "ABA Business Law Today",
+      "title": "The Muddy Bog That Is Successor Liability in U.S. Distressed Asset Purchase Transactions",
+      "url": "https://businesslawtoday.org/2026/03/the-muddy-bog-that-is-successor-liability-in-u-s-distressed-asset-purchase-transactions/",
+      "date": "2026-03-04"
+    }
+  ],
+  "executive_summary_inline": "This note is Delaware-centered because venture-backed startups are still usually organized as Delaware C-corporations, and Delaware corporate law supplies the cleanest public baseline for how a buyer acquires the entity, the assets, or something stock-like in between. The real structure question is not just \"stock or asset.\" It is whether the buyer wants entity continuity, or instead wants to select assets and negotiate assumed liabilities item by item. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nFor venture-backed startups, a direct stock purchase is often not the practical baseline at all. Wilson Sonsini and Venable both treat mergers as the usual way to get stock-like continuity without unanimous seller signatures, because Delaware merger mechanics let the buyer close with the required statutory and charter votes instead of collecting a separate stock purchase signature from every holder on a fragmented cap table. [[CITE:3]] [[CITE:4]] [[CITE:1]]\n\nThat matters because the familiar shortcuts are incomplete. Asset deals do not automatically eliminate liability risk. Stock-like deals do not automatically solve every consent problem. And an asset deal often creates more operational work than a founder-level comparison chart admits: contract assignment review, written IP transfers, employee transition, COBRA analysis, and any regulatory or government-contract novation issues. [[CITE:5]] [[CITE:6]] [[CITE:7]] [[CITE:8]] [[CITE:9]] [[CITE:10]] [[CITE:11]]",
+  "firm_consensus_inline": "The strongest public authorities and the selected firm commentary line up on the same operating principle: in a startup acquisition, structure is really a trade between continuity and selectivity. Baker McKenzie describes reverse triangular mergers as the most common structure for VC-backed targets with dispersed cap tables, while Wilson Sonsini treats direct share sales as effectively requiring 100 percent seller participation and therefore uncommon in technology-company exits. Venable's merger note explains the same market reality from the closing side: mergers are popular because they avoid the unanimous-signature problem that would otherwise give minority holders leverage. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nThe sources also align that the stock-vs-asset choice is not purely a tax decision. Delaware's merger statute and Section 259 make clear that a merger carries the entity, its property, and its liabilities into the survivor by operation of law. The FAR's novation rule, the federal IP transfer statutes, and the COBRA reorganization regulation all show why operational continuity, consent analysis, and post-closing obligations often drive structure at least as much as tax modeling does. [[CITE:3]] [[CITE:4]] [[CITE:5]] [[CITE:6]] [[CITE:7]] [[CITE:8]]",
+  "firm_differences_inline": "The main differences are about emphasis. Wilson Sonsini focuses on voting mechanics, holdouts, appraisal exposure, indemnity participation, and Section 280G approval overlays. Venable focuses on a narrower merger problem: what buyers can and cannot impose on non-signing stockholders once Delaware merger law supplies the closing mechanic. Baker McKenzie spends more time on the structure menu itself, including when asset sales or direct stock purchases make sense and why buyers may still prefer an asset deal where they want selected assets and selected liabilities. The ABA Business Law Today article does not frame the issue as \"startup M&A,\" but it is useful because it sharply corrects the recurring myth that an asset purchase automatically walls off legacy liabilities. [[CITE:0]] [[CITE:1]] [[CITE:2]] [[CITE:3]]\n\nThose differences support a narrow canonical note. The maintainable page is not \"all startup acquisition structures.\" It is a Delaware-first explainer that compares stock-like continuity against asset-level selectivity, then uses a short merger module to explain why startup practice often implements the stock side through a merger rather than through a literal share purchase. [[CITE:0]] [[CITE:4]] [[CITE:2]]",
+  "_metadata": {
+    "topic": "startup_sale",
+    "state": "DE",
+    "jurisdiction": "DE",
+    "country": "",
+    "country_code": "US",
+    "title_subject": "Stock vs Asset Purchase",
+    "title": "Stock vs Asset Purchase in Delaware — What 9 Law Firms Say",
+    "last_updated": "2026-04-10",
+    "firm_count": 9,
+    "template_slug": ""
+  }
+}
