@@ -1,0 +1,510 @@
+{
+  "executive_summary": "This note is about drafting a stock purchase agreement for the acquisition of a Delaware-incorporated venture-backed startup. It is not a general private-M&A survey and it is not a merger-agreement note. The maintainable core is narrower: start with orthodox SPA architecture, then tailor it around the startup document stack that actually governs the target, including charter rights, investor agreements, transfer restrictions, SAFEs or notes, employee equity, and software-driven product risk.\n\nGeneric private-company precedent usually breaks first on structure, capitalization math, and rep-and-schedule design. Delaware law makes clear that stock transfers, mergers, and asset sales do not operate the same way, and startup sources show why venture-backed targets add a second layer of drafting complexity on top of that baseline. A useful startup SPA note should therefore stay focused on the drafting issues that repeatedly change the agreement itself: structure, approvals, cap table treatment, startup-specific reps and schedules, and post-closing risk allocation.",
+  "executive_summary_citations": [
+    {
+      "firm": "ABA Business Law Today",
+      "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+      "excerpt": ""
+    },
+    {
+      "firm": "NVCA",
+      "url": "https://nvca.org/model-legal-documents/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Y Combinator",
+      "url": "https://www.ycombinator.com/documents",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc06/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "Cooley GO",
+      "url": "https://www.cooleygo.com/what-is-a-drag-along/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Cooley GO",
+      "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
+      "excerpt": ""
+    }
+  ],
+  "firm_consensus": "The strongest public practitioner sources converge on a simple point: a startup SPA should not be drafted as if it were merely a shorter version of a generic private-company purchase agreement. The ABA's new Model Short SPA is explicit that even a modern public drafting aid is only a starting point for experienced counsel and must be tailored to the target, industry, and transaction. Cooley, Pillsbury, and Davis Polk each identify startup-specific drafting pressure points that standard forms routinely miss, while SRS Acquiom's current deal-terms work reinforces that indemnity, escrow, earnout, and insurance architecture still turn on transaction-specific design rather than folklore about what is supposedly \"market.\"\n\nThe same sources also support a more startup-specific consensus: before the SPA can allocate risk intelligently, the parties have to reconcile the venture stack sitting underneath the sale. For Delaware startups that often means charter rights, voting agreements, drag-along mechanics, transfer restrictions, preferred stock economics, SAFEs, options, and disclosure schedules that convert diligence findings into legally operative exceptions.",
+  "firm_consensus_citations": [
+    {
+      "firm": "ABA Business Law Today",
+      "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Cooley GO",
+      "url": "https://www.cooleygo.com/what-is-a-drag-along/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Cooley GO",
+      "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Pillsbury Propel",
+      "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+      "excerpt": ""
+    },
+    {
+      "firm": "Davis Polk",
+      "url": "https://www.davispolk.com/insights/client-update/navigating-generative-ai-m-transactions",
+      "excerpt": ""
+    },
+    {
+      "firm": "SRS Acquiom",
+      "url": "https://www.srsacquiom.com/our-insights/deal-terms-study/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc06/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "Delaware Code Online",
+      "url": "https://delcode.delaware.gov/title8/c001/sc07/index.html",
+      "excerpt": ""
+    },
+    {
+      "firm": "NVCA",
+      "url": "https://nvca.org/model-legal-documents/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Y Combinator",
+      "url": "https://www.ycombinator.com/documents",
+      "excerpt": ""
+    }
+  ],
+  "firm_differences": "The real differences are differences of emphasis, not doctrinal conflict. Venable and the Delaware statutory materials do structure work: they explain why stock purchases, mergers, and asset sales produce different approval mechanics and different consequences for post-closing obligations. Cooley focuses on shareholder coordination and schedules, which is where many startup deals become operationally difficult. Pillsbury pushes hardest on code ownership, contractor papering, and open-source hygiene. Davis Polk adds a newer warning that AI and data issues now need explicit transaction drafting rather than being left to generic IP language. SRS Acquiom is least startup-specific, but most useful for current market architecture on earnouts, escrow, and indemnity customization.\n\nThat split matters for scope. A durable note should not try to become a full startup-exit treatise covering every tax, securities, compensation, and employment issue that may arise in a sale. The more maintainable path is a Delaware drafting note that stays close to the agreement itself and flags narrower overlays, such as QSBS, 280G, or securities-law questions, only when the specific deal requires them.",
+  "firm_differences_citations": [
+    {
+      "firm": "Venable",
+      "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+      "excerpt": ""
+    },
+    {
+      "firm": "Cooley GO",
+      "url": "https://www.cooleygo.com/what-is-a-drag-along/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Cooley GO",
+      "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
+      "excerpt": ""
+    },
+    {
+      "firm": "Pillsbury Propel",
+      "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+      "excerpt": ""
+    },
+    {
+      "firm": "Davis Polk",
+      "url": "https://www.davispolk.com/insights/client-update/navigating-generative-ai-m-transactions",
+      "excerpt": ""
+    },
+    {
+      "firm": "SRS Acquiom",
+      "url": "https://www.srsacquiom.com/our-insights/deal-terms-study/",
+      "excerpt": ""
+    },
+    {
+      "firm": "ABA Business Law Today",
+      "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+      "excerpt": ""
+    }
+  ],
+  "recent_developments": [
+    {
+      "date": "2026-04",
+      "event": "ABA Business Law Today announced the Model Short Stock Purchase Agreement (U.S. Version) as a new public drafting aid for private stock purchases and emphasized that it is only a starting point for experienced counsel, not a safe form to use without deal-specific tailoring.",
+      "event_inline": "ABA Business Law Today announced the Model Short Stock Purchase Agreement (U.S. Version) as a new public drafting aid for private stock purchases and emphasized that it is only a starting point for experienced counsel, not a safe form to use without deal-specific tailoring. [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "ABA Business Law Today",
+          "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-04",
+      "event": "SRS Acquiom previewed its 2026 M&A Deal Terms Study and highlighted rising earnout usage plus diligence-driven customization of indemnification protections across more than 2,300 private-target acquisitions.",
+      "event_inline": "SRS Acquiom previewed its 2026 M&A Deal Terms Study and highlighted rising earnout usage plus diligence-driven customization of indemnification protections across more than 2,300 private-target acquisitions. [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "SRS Acquiom",
+          "url": "https://www.srsacquiom.com/our-insights/deal-terms-study/",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "date": "2025-10-01",
+      "event": "Pillsbury published updated startup IP guidance warning that unclear code ownership and weak OSS hygiene can derail financing or acquisitions.",
+      "event_inline": "Pillsbury published updated startup IP guidance warning that unclear code ownership and weak OSS hygiene can derail financing or acquisitions. [[CITE:0]]",
+      "citations": [
+        {
+          "firm": "Pillsbury Propel",
+          "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+          "excerpt": ""
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "question": "What makes a startup stock purchase agreement different from a generic private-company SPA?",
+      "answer": "A startup SPA is still a stock purchase agreement, so the baseline private-M&A architecture remains recognizable. But Delaware law does not let counsel flatten structure. Stock transfers are governed by DGCL sections 201 and 202, which tie the sale to Article 8 mechanics and to enforceable transfer restrictions. Mergers and asset sales instead run through different statutory paths, including sections 251, 259, and 271, which change approval mechanics and what happens to assets and liabilities. In other words, \"stock sale\" is not just a label; it changes how the deal works.\n\nThe startup-specific difference is what sits underneath that form. Venture-backed startups often carry multiple preferred series, investor-vote mechanics, drag-along provisions, SAFEs, options, and product-centric diligence issues that a generic lower-middle-market precedent may not operationalize cleanly. That is why the better drafting move is not to abandon standard SPA structure, but to use it as a framework and then tailor definitions, conditions, schedules, and closing mechanics to the target's actual capitalization and product risk.",
+      "answer_inline": "A startup SPA is still a stock purchase agreement, so the baseline private-M&A architecture remains recognizable. But Delaware law does not let counsel flatten structure. Stock transfers are governed by DGCL sections 201 and 202, which tie the sale to Article 8 mechanics and to enforceable transfer restrictions. Mergers and asset sales instead run through different statutory paths, including sections 251, 259, and 271, which change approval mechanics and what happens to assets and liabilities. In other words, \"stock sale\" is not just a label; it changes how the deal works. [[CITE:0]][[CITE:1]][[CITE:2]]\n\nThe startup-specific difference is what sits underneath that form. Venture-backed startups often carry multiple preferred series, investor-vote mechanics, drag-along provisions, SAFEs, options, and product-centric diligence issues that a generic lower-middle-market precedent may not operationalize cleanly. That is why the better drafting move is not to abandon standard SPA structure, but to use it as a framework and then tailor definitions, conditions, schedules, and closing mechanics to the target's actual capitalization and product risk. [[CITE:3]][[CITE:4]][[CITE:5]][[CITE:6]]",
+      "citations": [
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc06/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "ABA Business Law Today",
+          "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+          "excerpt": ""
+        },
+        {
+          "firm": "NVCA",
+          "url": "https://nvca.org/model-legal-documents/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Y Combinator",
+          "url": "https://www.ycombinator.com/documents",
+          "excerpt": ""
+        },
+        {
+          "firm": "Cooley GO",
+          "url": "https://www.cooleygo.com/what-is-a-drag-along/",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "What approvals and venture-document constraints should be cleared before the SPA is treated as executable?",
+      "answer": "For a Delaware startup, the approval stack usually begins before the SPA itself. Counsel needs to identify which board approvals, stockholder approvals, class or series votes, charter rights, voting-agreement obligations, drag-along mechanics, ROFR or co-sale limits, and notice requirements must be satisfied so that the signing path matches both Delaware law and the existing venture documents. DGCL section 228 is important because it permits stockholder action by written consent if the requisite votes are obtained and delivered correctly, while section 202 matters because transfer restrictions are enforceable only if the deal team accounts for how they bind the holders and securities involved.\n\nCooley's drag-along guidance is useful because it explains the practical reason these provisions dominate startup sale mechanics: they are designed to force coordinated support for a company sale once the stated conditions are met. That means the startup SPA should be drafted only after counsel has mapped which holders can actually be dragged, which signatures are still needed, and which closing conditions should remain tied to affirmative consents rather than assumed cooperation.",
+      "answer_inline": "For a Delaware startup, the approval stack usually begins before the SPA itself. Counsel needs to identify which board approvals, stockholder approvals, class or series votes, charter rights, voting-agreement obligations, drag-along mechanics, ROFR or co-sale limits, and notice requirements must be satisfied so that the signing path matches both Delaware law and the existing venture documents. DGCL section 228 is important because it permits stockholder action by written consent if the requisite votes are obtained and delivered correctly, while section 202 matters because transfer restrictions are enforceable only if the deal team accounts for how they bind the holders and securities involved. [[CITE:0]][[CITE:1]][[CITE:2]]\n\nCooley's drag-along guidance is useful because it explains the practical reason these provisions dominate startup sale mechanics: they are designed to force coordinated support for a company sale once the stated conditions are met. That means the startup SPA should be drafted only after counsel has mapped which holders can actually be dragged, which signatures are still needed, and which closing conditions should remain tied to affirmative consents rather than assumed cooperation. [[CITE:3]][[CITE:4]]",
+      "citations": [
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc06/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc07/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "NVCA",
+          "url": "https://nvca.org/model-legal-documents/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Cooley GO",
+          "url": "https://www.cooleygo.com/what-is-a-drag-along/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Venable",
+          "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "How should capitalization and purchase-price mechanics be drafted for a venture-backed target?",
+      "answer": "The purchase-price section has to reflect the target's real cap table, not the company's preferred story about the cap table. For a venture-backed startup that usually means working from a consideration spreadsheet that captures common and preferred stock, options and other awards, warrants, SAFEs, convertible notes, transaction bonuses, debt, and transaction expenses. The drafting objective is not just descriptive accuracy. It is to make sure the agreement tells the paying agent, representative, and counsel exactly how consideration moves through the capitalization stack.\n\nYC's SAFE materials are especially helpful here because they explain why startup acquisition math cannot stop at outstanding shares. YC designed the post-money SAFE so founders and investors can calculate ownership precisely, and its documents and user guide treat conversion and liquidity-event mechanics as part of the instrument itself. That means a startup SPA should expressly state how each SAFE or similar instrument is being cashed out, converted, canceled, or otherwise handled at closing instead of leaving the answer to an informal funds-flow memo.",
+      "answer_inline": "The purchase-price section has to reflect the target's real cap table, not the company's preferred story about the cap table. For a venture-backed startup that usually means working from a consideration spreadsheet that captures common and preferred stock, options and other awards, warrants, SAFEs, convertible notes, transaction bonuses, debt, and transaction expenses. The drafting objective is not just descriptive accuracy. It is to make sure the agreement tells the paying agent, representative, and counsel exactly how consideration moves through the capitalization stack. [[CITE:0]][[CITE:1]][[CITE:2]]\n\nYC's SAFE materials are especially helpful here because they explain why startup acquisition math cannot stop at outstanding shares. YC designed the post-money SAFE so founders and investors can calculate ownership precisely, and its documents and user guide treat conversion and liquidity-event mechanics as part of the instrument itself. That means a startup SPA should expressly state how each SAFE or similar instrument is being cashed out, converted, canceled, or otherwise handled at closing instead of leaving the answer to an informal funds-flow memo. [[CITE:3]]",
+      "citations": [
+        {
+          "firm": "ABA Business Law Today",
+          "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+          "excerpt": ""
+        },
+        {
+          "firm": "NVCA",
+          "url": "https://nvca.org/model-legal-documents/",
+          "excerpt": ""
+        },
+        {
+          "firm": "NVCA",
+          "url": "https://nvca.org/document/nvca-model-document-stock-purchase-agreement-2/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Y Combinator",
+          "url": "https://www.ycombinator.com/documents",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "Where do generic reps and schedules usually fail in a startup stock deal?",
+      "answer": "The failure point is usually not the existence of the rep section. It is the mismatch between generic rep categories and startup-specific facts. Startup deals routinely need sharper work on capitalization accuracy, transfer restrictions, equity-plan history, founder and contractor IP assignments, OSS usage, key product or data rights, and schedule architecture for customer or vendor concentration. Cooley's disclosure-schedule guidance is useful because it frames the schedules as the answer set to the representations' questions. In a startup transaction, that Q&A logic should be applied deliberately rather than treated as a clerical exercise at the end of diligence.\n\nThe practical consequence is that startup-specific reps should usually be paired with startup-specific data pulls. If the target depends on SAFEs, the schedules need instrument-level treatment. If it depends on OSS or contractor-developed code, the schedules need code-ownership and license disclosures. If it depends on AI or data licensing, the schedules should not hide those issues inside a generic IP basket. The schedule set is where diligence becomes executable drafting.",
+      "answer_inline": "The failure point is usually not the existence of the rep section. It is the mismatch between generic rep categories and startup-specific facts. Startup deals routinely need sharper work on capitalization accuracy, transfer restrictions, equity-plan history, founder and contractor IP assignments, OSS usage, key product or data rights, and schedule architecture for customer or vendor concentration. Cooley's disclosure-schedule guidance is useful because it frames the schedules as the answer set to the representations' questions. In a startup transaction, that Q&A logic should be applied deliberately rather than treated as a clerical exercise at the end of diligence. [[CITE:0]][[CITE:1]]\n\nThe practical consequence is that startup-specific reps should usually be paired with startup-specific data pulls. If the target depends on SAFEs, the schedules need instrument-level treatment. If it depends on OSS or contractor-developed code, the schedules need code-ownership and license disclosures. If it depends on AI or data licensing, the schedules should not hide those issues inside a generic IP basket. The schedule set is where diligence becomes executable drafting. [[CITE:0]][[CITE:2]][[CITE:3]]",
+      "citations": [
+        {
+          "firm": "Cooley GO",
+          "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
+          "excerpt": ""
+        },
+        {
+          "firm": "ABA Business Law Today",
+          "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Pillsbury Propel",
+          "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+          "excerpt": ""
+        },
+        {
+          "firm": "Davis Polk",
+          "url": "https://www.davispolk.com/insights/client-update/navigating-generative-ai-m-transactions",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "How should IP chain of title and open-source issues be handled?",
+      "answer": "Startup buyers often care less about the abstract existence of IP reps than about whether the company actually owns what it thinks it owns. The federal backbone is straightforward. Copyright transfers are generally not valid unless they are in writing and signed by the rights holder, and patent interests are assignable by written instrument. Pillsbury's startup IP guidance translates that rule into startup practice: paying a developer is not enough if the company never obtained a written assignment, and weak OSS hygiene can surface as an acquisition problem rather than as a mere engineering preference.\n\nDrafting should therefore separate three questions that generic forms often collapse together: whether the company has documented ownership of code and other core IP, whether any exceptions belong on a schedule, and whether identified gaps need a closing deliverable, special indemnity, or purchase-price adjustment. Open-source use should likewise be treated as a specific diligence-and-schedule problem, not buried in a conclusory statement that the company \"owns or has rights to use\" its IP.",
+      "answer_inline": "Startup buyers often care less about the abstract existence of IP reps than about whether the company actually owns what it thinks it owns. The federal backbone is straightforward. Copyright transfers are generally not valid unless they are in writing and signed by the rights holder, and patent interests are assignable by written instrument. Pillsbury's startup IP guidance translates that rule into startup practice: paying a developer is not enough if the company never obtained a written assignment, and weak OSS hygiene can surface as an acquisition problem rather than as a mere engineering preference. [[CITE:0]][[CITE:1]][[CITE:2]]\n\nDrafting should therefore separate three questions that generic forms often collapse together: whether the company has documented ownership of code and other core IP, whether any exceptions belong on a schedule, and whether identified gaps need a closing deliverable, special indemnity, or purchase-price adjustment. Open-source use should likewise be treated as a specific diligence-and-schedule problem, not buried in a conclusory statement that the company \"owns or has rights to use\" its IP. [[CITE:2]][[CITE:3]]",
+      "citations": [
+        {
+          "firm": "U.S. Code",
+          "url": "https://www.law.cornell.edu/uscode/text/17/204",
+          "excerpt": ""
+        },
+        {
+          "firm": "U.S. Code",
+          "url": "https://www.law.cornell.edu/uscode/text/35/261",
+          "excerpt": ""
+        },
+        {
+          "firm": "Pillsbury Propel",
+          "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+          "excerpt": ""
+        },
+        {
+          "firm": "Cooley GO",
+          "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "How should AI, data, and product-compliance issues show up in the SPA?",
+      "answer": "Davis Polk's generative-AI transaction guidance makes the modern point clearly: for AI-enabled targets, transaction documents now need to ask narrower questions about training data rights, third-party model dependencies, output ownership, product-change controls, and compliance risk. A startup SPA should not automatically add a long AI appendix to every software deal, but it should also not pretend that a generic IP rep fully captures an AI product's legal risk surface.\n\nThe maintainable drafting rule is to make the rep package track the actual product. If the startup's value is tied to training data, model tuning, or licensed datasets, counsel should say so directly in reps, covenants, or schedules. If the startup is not meaningfully AI-dependent, counsel should resist ornamental AI language and focus instead on the more durable startup issues: IP ownership, OSS, customer-facing product obligations, and incident history.",
+      "answer_inline": "Davis Polk's generative-AI transaction guidance makes the modern point clearly: for AI-enabled targets, transaction documents now need to ask narrower questions about training data rights, third-party model dependencies, output ownership, product-change controls, and compliance risk. A startup SPA should not automatically add a long AI appendix to every software deal, but it should also not pretend that a generic IP rep fully captures an AI product's legal risk surface. [[CITE:0]]\n\nThe maintainable drafting rule is to make the rep package track the actual product. If the startup's value is tied to training data, model tuning, or licensed datasets, counsel should say so directly in reps, covenants, or schedules. If the startup is not meaningfully AI-dependent, counsel should resist ornamental AI language and focus instead on the more durable startup issues: IP ownership, OSS, customer-facing product obligations, and incident history. [[CITE:0]][[CITE:1]]",
+      "citations": [
+        {
+          "firm": "Davis Polk",
+          "url": "https://www.davispolk.com/insights/client-update/navigating-generative-ai-m-transactions",
+          "excerpt": ""
+        },
+        {
+          "firm": "Pillsbury Propel",
+          "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "What should disclosure schedules and closing deliverables actually do in a startup stock deal?",
+      "answer": "Disclosure schedules should convert diligence into legally operative exceptions, not operate as a late-stage data dump. Cooley's explanation is useful because it shows why schedules matter in both investments and acquisitions: the agreement asks the questions, and the schedules supply the answer set that makes the representations true. In a startup sale, that usually means the schedule package should be designed around the issues most likely to break the deal later, including capitalization, SAFEs and notes, option and warrant treatment, IP assignments, OSS, data or AI exceptions, key contracts, and required consents.\n\nClosing deliverables should prove that the cleanup actually happened. Depending on the deal, that can include board and stockholder consents, drag-along documentation, payoff or termination letters, SAFE or note payoff documents, equity-award notices, updated capitalization schedules, assignment confirmations, or representative and escrow documents. The drafting goal is not to collect paper for its own sake. It is to keep known startup frictions out of post-closing fights about consideration, ownership, or who was bound to what.",
+      "answer_inline": "Disclosure schedules should convert diligence into legally operative exceptions, not operate as a late-stage data dump. Cooley's explanation is useful because it shows why schedules matter in both investments and acquisitions: the agreement asks the questions, and the schedules supply the answer set that makes the representations true. In a startup sale, that usually means the schedule package should be designed around the issues most likely to break the deal later, including capitalization, SAFEs and notes, option and warrant treatment, IP assignments, OSS, data or AI exceptions, key contracts, and required consents. [[CITE:0]][[CITE:1]][[CITE:2]]\n\nClosing deliverables should prove that the cleanup actually happened. Depending on the deal, that can include board and stockholder consents, drag-along documentation, payoff or termination letters, SAFE or note payoff documents, equity-award notices, updated capitalization schedules, assignment confirmations, or representative and escrow documents. The drafting goal is not to collect paper for its own sake. It is to keep known startup frictions out of post-closing fights about consideration, ownership, or who was bound to what. [[CITE:3]][[CITE:0]][[CITE:4]]",
+      "citations": [
+        {
+          "firm": "Cooley GO",
+          "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Y Combinator",
+          "url": "https://www.ycombinator.com/documents",
+          "excerpt": ""
+        },
+        {
+          "firm": "NVCA",
+          "url": "https://nvca.org/model-legal-documents/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Delaware Code Online",
+          "url": "https://delcode.delaware.gov/title8/c001/sc07/index.html",
+          "excerpt": ""
+        },
+        {
+          "firm": "Venable",
+          "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+          "excerpt": ""
+        }
+      ]
+    },
+    {
+      "question": "How should indemnity, escrow, earnouts, and insurance be approached in a startup SPA?",
+      "answer": "Risk allocation should be drafted from current data and identified risks, not from generic memory of the last private-company form. SRS Acquiom's 2026 study preview highlights two themes that matter here: earnouts remain important in private-target M&A, and indemnification protections are increasingly customized based on diligence findings rather than copied wholesale. That fits startup practice. Venture-backed targets often have a few concentrated risks that matter far more than the rest of the rep package, such as cap-table defects, IP ownership gaps, or product and data issues.\n\nFor the same reason, counsel should draft seller exposure intentionally. If a merger structure is used, Venable's Cigna discussion is a reminder that post-closing obligations should not be smuggled in later through a letter of transmittal or left open-ended for non-signing holders. In a stock purchase, that concern often pushes the team toward cleaner signature planning, express escrow mechanics, and specific treatment of any contingent payments. If earnouts are used, the metric definitions and operating covenants need just as much care as the indemnity basket and cap.",
+      "answer_inline": "Risk allocation should be drafted from current data and identified risks, not from generic memory of the last private-company form. SRS Acquiom's 2026 study preview highlights two themes that matter here: earnouts remain important in private-target M&A, and indemnification protections are increasingly customized based on diligence findings rather than copied wholesale. That fits startup practice. Venture-backed targets often have a few concentrated risks that matter far more than the rest of the rep package, such as cap-table defects, IP ownership gaps, or product and data issues. [[CITE:0]]\n\nFor the same reason, counsel should draft seller exposure intentionally. If a merger structure is used, Venable's Cigna discussion is a reminder that post-closing obligations should not be smuggled in later through a letter of transmittal or left open-ended for non-signing holders. In a stock purchase, that concern often pushes the team toward cleaner signature planning, express escrow mechanics, and specific treatment of any contingent payments. If earnouts are used, the metric definitions and operating covenants need just as much care as the indemnity basket and cap. [[CITE:1]][[CITE:0]]",
+      "citations": [
+        {
+          "firm": "SRS Acquiom",
+          "url": "https://www.srsacquiom.com/our-insights/deal-terms-study/",
+          "excerpt": ""
+        },
+        {
+          "firm": "Venable",
+          "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+          "excerpt": ""
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "firm": "Delaware Code Online",
+      "title": "Title 8, Chapter 1, Subchapter VI. Stock Transfers",
+      "url": "https://delcode.delaware.gov/title8/c001/sc06/index.html",
+      "date": "current"
+    },
+    {
+      "firm": "Delaware Code Online",
+      "title": "Title 8, Chapter 1, Subchapter VII. Meetings, Elections, Voting and Notice",
+      "url": "https://delcode.delaware.gov/title8/c001/sc07/index.html",
+      "date": "current"
+    },
+    {
+      "firm": "Delaware Code Online",
+      "title": "Title 8, Chapter 1, Subchapter IX. Merger, Consolidation or Conversion",
+      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+      "date": "current"
+    },
+    {
+      "firm": "Delaware Code Online",
+      "title": "Title 8, Chapter 1, Subchapter X. Sale of Assets; Dissolution",
+      "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+      "date": "current"
+    },
+    {
+      "firm": "U.S. Code",
+      "title": "17 U.S.C. § 204",
+      "url": "https://www.law.cornell.edu/uscode/text/17/204",
+      "date": "current"
+    },
+    {
+      "firm": "U.S. Code",
+      "title": "35 U.S.C. § 261",
+      "url": "https://www.law.cornell.edu/uscode/text/35/261",
+      "date": "current"
+    },
+    {
+      "firm": "ABA Business Law Today",
+      "title": "Announcing the Model Short Stock Purchase Agreement (U.S. Version)",
+      "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+      "date": "2026-04"
+    },
+    {
+      "firm": "NVCA",
+      "title": "Model Legal Documents",
+      "url": "https://nvca.org/model-legal-documents/",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "NVCA",
+      "title": "NVCA Model Document Stock Purchase Agreement",
+      "url": "https://nvca.org/document/nvca-model-document-stock-purchase-agreement-2/",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Y Combinator",
+      "title": "Safe Financing Documents",
+      "url": "https://www.ycombinator.com/documents",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Cooley GO",
+      "title": "What is a Drag-Along?",
+      "url": "https://www.cooleygo.com/what-is-a-drag-along/",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Cooley GO",
+      "title": "What is a Disclosure Schedule, and Why Do I Need to Prepare One?",
+      "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
+      "date": "2025-12-09"
+    },
+    {
+      "firm": "Pillsbury Propel",
+      "title": "Startup IP Myths That Can Cost You Millions (or Kill Your Exit)",
+      "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+      "date": "2025-10-01"
+    },
+    {
+      "firm": "Davis Polk",
+      "title": "Navigating Generative AI in M&A Transactions",
+      "url": "https://www.davispolk.com/insights/client-update/navigating-generative-ai-m-transactions",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "SRS Acquiom",
+      "title": "2026 M&A Deal Terms Study",
+      "url": "https://www.srsacquiom.com/our-insights/deal-terms-study/",
+      "date": "accessed 2026-04-10"
+    },
+    {
+      "firm": "Venable",
+      "title": "Structuring a Private Company Acquisition as a Merger in Delaware? Be Careful with Post-Closing Obligations for Non-Signing Shareholders",
+      "url": "https://www.venable.com/insights/publications/2021/07/structuring-a-private-company-acquisition-as-a",
+      "date": "2021-07-12"
+    }
+  ],
+  "executive_summary_inline": "This note is about drafting a stock purchase agreement for the acquisition of a Delaware-incorporated venture-backed startup. It is not a general private-M&A survey and it is not a merger-agreement note. The maintainable core is narrower: start with orthodox SPA architecture, then tailor it around the startup document stack that actually governs the target, including charter rights, investor agreements, transfer restrictions, SAFEs or notes, employee equity, and software-driven product risk. [[CITE:0]][[CITE:1]][[CITE:2]]\n\nGeneric private-company precedent usually breaks first on structure, capitalization math, and rep-and-schedule design. Delaware law makes clear that stock transfers, mergers, and asset sales do not operate the same way, and startup sources show why venture-backed targets add a second layer of drafting complexity on top of that baseline. A useful startup SPA note should therefore stay focused on the drafting issues that repeatedly change the agreement itself: structure, approvals, cap table treatment, startup-specific reps and schedules, and post-closing risk allocation. [[CITE:3]][[CITE:4]][[CITE:5]][[CITE:6]][[CITE:7]]",
+  "firm_consensus_inline": "The strongest public practitioner sources converge on a simple point: a startup SPA should not be drafted as if it were merely a shorter version of a generic private-company purchase agreement. The ABA's new Model Short SPA is explicit that even a modern public drafting aid is only a starting point for experienced counsel and must be tailored to the target, industry, and transaction. Cooley, Pillsbury, and Davis Polk each identify startup-specific drafting pressure points that standard forms routinely miss, while SRS Acquiom's current deal-terms work reinforces that indemnity, escrow, earnout, and insurance architecture still turn on transaction-specific design rather than folklore about what is supposedly \"market.\" [[CITE:0]][[CITE:1]][[CITE:2]][[CITE:3]][[CITE:4]][[CITE:5]]\n\nThe same sources also support a more startup-specific consensus: before the SPA can allocate risk intelligently, the parties have to reconcile the venture stack sitting underneath the sale. For Delaware startups that often means charter rights, voting agreements, drag-along mechanics, transfer restrictions, preferred stock economics, SAFEs, options, and disclosure schedules that convert diligence findings into legally operative exceptions. [[CITE:6]][[CITE:7]][[CITE:8]][[CITE:9]][[CITE:1]][[CITE:2]]",
+  "firm_differences_inline": "The real differences are differences of emphasis, not doctrinal conflict. Venable and the Delaware statutory materials do structure work: they explain why stock purchases, mergers, and asset sales produce different approval mechanics and different consequences for post-closing obligations. Cooley focuses on shareholder coordination and schedules, which is where many startup deals become operationally difficult. Pillsbury pushes hardest on code ownership, contractor papering, and open-source hygiene. Davis Polk adds a newer warning that AI and data issues now need explicit transaction drafting rather than being left to generic IP language. SRS Acquiom is least startup-specific, but most useful for current market architecture on earnouts, escrow, and indemnity customization. [[CITE:0]][[CITE:1]][[CITE:2]][[CITE:3]][[CITE:4]][[CITE:5]]\n\nThat split matters for scope. A durable note should not try to become a full startup-exit treatise covering every tax, securities, compensation, and employment issue that may arise in a sale. The more maintainable path is a Delaware drafting note that stays close to the agreement itself and flags narrower overlays, such as QSBS, 280G, or securities-law questions, only when the specific deal requires them. [[CITE:6]][[CITE:0]]",
+  "_metadata": {
+    "topic": "startup_sale",
+    "state": "DE",
+    "jurisdiction": "DE",
+    "country": "",
+    "country_code": "US",
+    "title_subject": "Startup Stock Purchase Agreement",
+    "title": "Startup Stock Purchase Agreement in Delaware — What 10 Law Firms Say",
+    "last_updated": "2026-04-10",
+    "firm_count": 10,
+    "template_slug": ""
+  }
+}
