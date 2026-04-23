@@ -1,407 +1,218 @@
 {
-  "executive_summary": "Wyoming now has a two-track non-compete regime. For contracts entered into on or after July 1, 2025, Senate File 107, codified at W.S. 1-23-108, voids any covenant not to compete that restricts the right of any person to receive compensation for skilled or unskilled labor, subject only to four listed exceptions: sale-of-business covenants, trade-secret protection, capped expense-recovery provisions, and covenants for executive and management personnel and their professional staff. The same enactment separately voids physician non-compete provisions and protects disclosure of new contact information to patients with rare disorders.\n\nPre-July 1, 2025 agreements were not retroactively voided, but they were not made easy to enforce either. Wyoming common law already treated non-competes as presumptively invalid restraints on trade, placed the burden on the employer to justify them, required reasonable consideration, and after *Hassler* forbade courts from blue-penciling unreasonable covenants to save them. *Brown* also confirms that continued employment alone is not sufficient consideration when an existing employee is asked to sign later.\n\nThe remaining Wyoming questions are interpretive, not structural. State-specific firm analyses broadly read the statute's \"any person\" language to reach independent contractors as well as employees, but they also emphasize that Wyoming courts still have not defined the executive-and-management personnel category or resolved whether customer nonsolicits, employee nonsolicits, broad confidentiality clauses, or similar restraints will be treated as prohibited covenants not to compete.",
-  "executive_summary_citations": [
-    {
-      "firm": "Wyoming Legislature",
-      "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-      "excerpt": ""
-    },
-    {
-      "firm": "Ogletree Deakins",
-      "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
-      "excerpt": ""
-    },
-    {
-      "firm": "Faegre Drinker",
-      "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
-      "excerpt": ""
-    },
-    {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "url": "https://law.justia.com/cases/wyoming/supreme-court/2021/s-20-0270.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0140.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0132.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Littler Mendelson",
-      "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
-      "excerpt": ""
-    },
-    {
-      "firm": "Fisher Phillips",
-      "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Holland & Hart",
-      "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-      "excerpt": ""
-    }
-  ],
-  "firm_consensus": "Ogletree, Littler, Faegre, Fisher Phillips, and Holland & Hart all read SF 107 as a major narrowing of Wyoming practice, not a minor adjustment. They agree that the statute is prospective only, that the four statutory exceptions are the operative post-July 1, 2025 carveouts, and that physician non-competes are separately voided by subsection (b). They also agree that employers cannot assume old template language will survive a simple rollover after the effective date.\n\nThose firm analyses also sit on top of a demanding Wyoming case-law baseline. *Brown* and *Malave* describe non-competes as restraints that are strictly construed, and *Hassler* makes drafting error much more expensive by eliminating blue-penciling. So even where a restraint arguably fits a statutory exception, Wyoming-specific commentary does not treat that as a license for careless drafting.",
-  "firm_consensus_citations": [
-    {
-      "firm": "Ogletree Deakins",
-      "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
-      "excerpt": ""
-    },
-    {
-      "firm": "Littler Mendelson",
-      "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
-      "excerpt": ""
-    },
-    {
-      "firm": "Faegre Drinker",
-      "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
-      "excerpt": ""
-    },
-    {
-      "firm": "Fisher Phillips",
-      "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Holland & Hart",
-      "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-      "excerpt": ""
-    },
-    {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "url": "https://law.justia.com/cases/wyoming/supreme-court/2021/s-20-0270.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0140.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0132.html",
-      "excerpt": ""
-    }
-  ],
-  "firm_differences": "The sharpest source-level disagreement is over adjacent restraints. Brownstein takes the most employer-friendly view and says the statute does not affect non-solicitation, non-recruitment, or confidentiality agreements. Littler and Fisher Phillips are more cautious: Littler says the lack of an express non-solicit exception leaves the issue unclear, and Fisher says courts still must decide whether customer nonsolicits, employee nonsolicits, broad confidentiality provisions, or anti-moonlighting clauses count as covered non-compete covenants under the new language. The safest Wyoming-specific synthesis is uncertainty, not a blanket rule of safety.\n\nThe firms also vary in how aggressively they use Colorado analogies for the executive-and-management exception. Fisher Phillips and Holland & Hart develop Colorado comparisons in some detail, while Faegre and Littler mainly emphasize the absence of Wyoming definitions. The common denominator is narrower: titles alone are not enough, and any future Wyoming analysis is likely to focus on actual authority, autonomy, and managerial function.\n\nFinally, the physician subsection raises a textual edge the sources handle cautiously. Littler and Holland & Hart both note that subsection (b) speaks of agreements \"between physicians,\" which can create a question about contracts with hospitals or other non-physician entities. The note therefore treats the physician carveout's application beyond the statutory text as unsettled rather than overstating certainty.",
-  "firm_differences_citations": [
-    {
-      "firm": "Brownstein Hyatt Farber Schreck",
-      "url": "https://www.bhfs.com/insights/alerts-articles/2025/wyoming-adopts-statutory-limits-for-noncompetes",
-      "excerpt": ""
-    },
-    {
-      "firm": "Littler Mendelson",
-      "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
-      "excerpt": ""
-    },
-    {
-      "firm": "Fisher Phillips",
-      "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
-      "excerpt": ""
-    },
-    {
-      "firm": "Holland & Hart",
-      "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-      "excerpt": ""
-    },
-    {
-      "firm": "Faegre Drinker",
-      "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
-      "excerpt": ""
-    },
-    {
-      "firm": "Wyoming Legislature",
-      "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-      "excerpt": ""
-    }
-  ],
+  "executive_summary": "Wyoming now has a two-track non-compete regime. For contracts entered into on or after July 1, 2025, Senate File 107, codified at W.S. 1-23-108, voids any covenant not to compete that restricts the right of any person to receive compensation for skilled or unskilled labor, subject only to four listed exceptions: sale-of-business covenants, trade-secret protection, capped expense-recovery provisions, and covenants for executive and management personnel and their professional staff. The same enactment separately voids physician non-compete provisions and protects disclosure of new contact information to patients with rare disorders. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]] [[CITE:cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7]] [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]]\n\nPre-July 1, 2025 agreements were not retroactively voided, but they were not made easy to enforce either. Wyoming common law already treated non-competes as presumptively invalid restraints on trade, placed the burden on the employer to justify them, required reasonable consideration, and after *Hassler* forbade courts from blue-penciling unreasonable covenants to save them. *Brown* also confirms that continued employment alone is not sufficient consideration when an existing employee is asked to sign later. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]] [[CITE:cite_988adf21-88d4-489f-8f57-0443a9491376]] [[CITE:cite_abcd3429-ed74-45a0-b034-4555f6f9a241]] [[CITE:cite_a6264d6f-b101-4b22-b639-17d61d96c7f5]]\n\nThe remaining Wyoming questions are interpretive, not structural. State-specific firm analyses broadly read the statute's \"any person\" language to reach independent contractors as well as employees, but they also emphasize that Wyoming courts still have not defined the executive-and-management personnel category or resolved whether customer nonsolicits, employee nonsolicits, broad confidentiality clauses, or similar restraints will be treated as prohibited covenants not to compete. [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]",
+  "firm_consensus": "Ogletree, Littler, Faegre, Fisher Phillips, and Holland & Hart all read SF 107 as a major narrowing of Wyoming practice, not a minor adjustment. They agree that the statute is prospective only, that the four statutory exceptions are the operative post-July 1, 2025 carveouts, and that physician non-competes are separately voided by subsection (b). They also agree that employers cannot assume old template language will survive a simple rollover after the effective date. [[CITE:cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7]] [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]\n\nThose firm analyses also sit on top of a demanding Wyoming case-law baseline. *Brown* and *Malave* describe non-competes as restraints that are strictly construed, and *Hassler* makes drafting error much more expensive by eliminating blue-penciling. So even where a restraint arguably fits a statutory exception, Wyoming-specific commentary does not treat that as a license for careless drafting. [[CITE:cite_988adf21-88d4-489f-8f57-0443a9491376]] [[CITE:cite_abcd3429-ed74-45a0-b034-4555f6f9a241]] [[CITE:cite_a6264d6f-b101-4b22-b639-17d61d96c7f5]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]",
+  "firm_differences": "The sharpest source-level disagreement is over adjacent restraints. Brownstein takes the most employer-friendly view and says the statute does not affect non-solicitation, non-recruitment, or confidentiality agreements. Littler and Fisher Phillips are more cautious: Littler says the lack of an express non-solicit exception leaves the issue unclear, and Fisher says courts still must decide whether customer nonsolicits, employee nonsolicits, broad confidentiality provisions, or anti-moonlighting clauses count as covered non-compete covenants under the new language. The safest Wyoming-specific synthesis is uncertainty, not a blanket rule of safety. [[CITE:cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb]] [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]]\n\nThe firms also vary in how aggressively they use Colorado analogies for the executive-and-management exception. Fisher Phillips and Holland & Hart develop Colorado comparisons in some detail, while Faegre and Littler mainly emphasize the absence of Wyoming definitions. The common denominator is narrower: titles alone are not enough, and any future Wyoming analysis is likely to focus on actual authority, autonomy, and managerial function. [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]] [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]] [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]]\n\nFinally, the physician subsection raises a textual edge the sources handle cautiously. Littler and Holland & Hart both note that subsection (b) speaks of agreements \"between physicians,\" which can create a question about contracts with hospitals or other non-physician entities. The note therefore treats the physician carveout's application beyond the statutory text as unsettled rather than overstating certainty. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]] [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]",
   "recent_developments": [
     {
       "date": "July 1, 2025",
-      "event": "The new statute took effect for contracts entered into on and after that date, while the act expressly left earlier contracts untouched.",
-      "event_inline": "The new statute took effect for contracts entered into on and after that date, while the act expressly left earlier contracts untouched. [[CITE:0]] [[CITE:1]]",
-      "citations": [
-        {
-          "firm": "Wyoming Legislature",
-          "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-          "excerpt": ""
-        },
-        {
-          "firm": "Ogletree Deakins",
-          "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
-          "excerpt": ""
-        }
-      ]
+      "event": "The new statute took effect for contracts entered into on and after that date, while the act expressly left earlier contracts untouched. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]] [[CITE:cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7]]"
     },
     {
       "date": "March 19, 2025",
-      "event": "Governor Mark Gordon signed Senate File 107, creating W.S. 1-23-108 and replacing Wyoming's prior statute-free regime with a broad prospective ban plus enumerated exceptions.",
-      "event_inline": "Governor Mark Gordon signed Senate File 107, creating W.S. 1-23-108 and replacing Wyoming's prior statute-free regime with a broad prospective ban plus enumerated exceptions. [[CITE:0]]",
-      "citations": [
-        {
-          "firm": "Wyoming Legislature",
-          "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-          "excerpt": ""
-        }
-      ]
+      "event": "Governor Mark Gordon signed Senate File 107, creating W.S. 1-23-108 and replacing Wyoming's prior statute-free regime with a broad prospective ban plus enumerated exceptions. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]]"
     }
   ],
   "questions": [
     {
       "id": "qa_1a57c818-09ed-432a-b3a2-979d509b904f",
       "question": "Are employee non-compete agreements enforceable in Wyoming?",
-      "answer": "For contracts entered into on or after July 1, 2025, usually no. W.S. 1-23-108(a) says any covenant not to compete that restricts the right of any person to receive compensation for skilled or unskilled labor is void unless it fits one of four statutory exceptions. Ogletree, Faegre, Littler, Fisher Phillips, and Holland & Hart all describe that as a broad ban rather than a narrow drafting rule.\n\nBecause the statute applies to \"any person,\" Wyoming-specific firm analyses also read it broadly enough to reach independent contractors, not only employees. That remains an interpretation rather than a Wyoming appellate holding, but it is the dominant state-specific reading in the 2025 firm commentary.",
-      "answer_inline": "For contracts entered into on or after July 1, 2025, usually no. W.S. 1-23-108(a) says any covenant not to compete that restricts the right of any person to receive compensation for skilled or unskilled labor is void unless it fits one of four statutory exceptions. Ogletree, Faegre, Littler, Fisher Phillips, and Holland & Hart all describe that as a broad ban rather than a narrow drafting rule. [[CITE:0]] [[CITE:1]] [[CITE:2]] [[CITE:3]] [[CITE:4]] [[CITE:5]]\n\nBecause the statute applies to \"any person,\" Wyoming-specific firm analyses also read it broadly enough to reach independent contractors, not only employees. That remains an interpretation rather than a Wyoming appellate holding, but it is the dominant state-specific reading in the 2025 firm commentary. [[CITE:3]] [[CITE:2]] [[CITE:4]] [[CITE:5]]",
-      "citations": [
-        {
-          "firm": "Wyoming Legislature",
-          "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-          "excerpt": ""
-        },
-        {
-          "firm": "Ogletree Deakins",
-          "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
-          "excerpt": ""
-        },
-        {
-          "firm": "Faegre Drinker",
-          "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
-          "excerpt": ""
-        },
-        {
-          "firm": "Littler Mendelson",
-          "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
-          "excerpt": ""
-        },
-        {
-          "firm": "Fisher Phillips",
-          "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
-          "excerpt": ""
-        },
-        {
-          "firm": "Holland & Hart",
-          "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-          "excerpt": ""
-        }
-      ]
+      "answer": "For contracts entered into on or after July 1, 2025, usually no. W.S. 1-23-108(a) says any covenant not to compete that restricts the right of any person to receive compensation for skilled or unskilled labor is void unless it fits one of four statutory exceptions. Ogletree, Faegre, Littler, Fisher Phillips, and Holland & Hart all describe that as a broad ban rather than a narrow drafting rule. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]] [[CITE:cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7]] [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]] [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]\n\nBecause the statute applies to \"any person,\" Wyoming-specific firm analyses also read it broadly enough to reach independent contractors, not only employees. That remains an interpretation rather than a Wyoming appellate holding, but it is the dominant state-specific reading in the 2025 firm commentary. [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]"
     },
     {
       "id": "qa_1f62d2c8-06a4-43b2-a14b-bf476cc2f1a6",
       "question": "What law governs agreements signed before July 1, 2025?",
-      "answer": "Section 2(b) of the 2025 act says nothing in the statute alters, amends, or impairs contracts entered into before July 1, 2025, so older covenants continue to be judged under Wyoming common law rather than the new statutory ban.\n\nThat older framework is still demanding. *Malave* restates the traditional Wyoming elements: the covenant must be in writing, part of a contract of employment, supported by reasonable consideration, reasonable in duration and geography, and not against public policy. *Brown* and *Malave* also emphasize that Wyoming strictly construes non-competes and puts the burden on the employer to prove special circumstances making the restraint reasonably necessary. For post-hire covenants, *Brown* says continued employment alone is insufficient consideration; the employer must provide separate contemporaneous consideration.",
-      "answer_inline": "Section 2(b) of the 2025 act says nothing in the statute alters, amends, or impairs contracts entered into before July 1, 2025, so older covenants continue to be judged under Wyoming common law rather than the new statutory ban. [[CITE:0]]\n\nThat older framework is still demanding. *Malave* restates the traditional Wyoming elements: the covenant must be in writing, part of a contract of employment, supported by reasonable consideration, reasonable in duration and geography, and not against public policy. *Brown* and *Malave* also emphasize that Wyoming strictly construes non-competes and puts the burden on the employer to prove special circumstances making the restraint reasonably necessary. For post-hire covenants, *Brown* says continued employment alone is insufficient consideration; the employer must provide separate contemporaneous consideration. [[CITE:1]] [[CITE:2]]",
-      "citations": [
-        {
-          "firm": "Wyoming Legislature",
-          "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-          "excerpt": ""
-        },
-        {
-          "firm": "Supreme Court of Wyoming on Justia",
-          "url": "https://law.justia.com/cases/wyoming/supreme-court/2021/s-20-0270.html",
-          "excerpt": ""
-        },
-        {
-          "firm": "Supreme Court of Wyoming on Justia",
-          "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0140.html",
-          "excerpt": ""
-        }
-      ]
+      "answer": "Section 2(b) of the 2025 act says nothing in the statute alters, amends, or impairs contracts entered into before July 1, 2025, so older covenants continue to be judged under Wyoming common law rather than the new statutory ban. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]]\n\nThat older framework is still demanding. *Malave* restates the traditional Wyoming elements: the covenant must be in writing, part of a contract of employment, supported by reasonable consideration, reasonable in duration and geography, and not against public policy. *Brown* and *Malave* also emphasize that Wyoming strictly construes non-competes and puts the burden on the employer to prove special circumstances making the restraint reasonably necessary. For post-hire covenants, *Brown* says continued employment alone is insufficient consideration; the employer must provide separate contemporaneous consideration. [[CITE:cite_988adf21-88d4-489f-8f57-0443a9491376]] [[CITE:cite_abcd3429-ed74-45a0-b034-4555f6f9a241]]"
     },
     {
       "id": "qa_0ff119ba-f449-4fdc-98b9-d044b0efdb20",
       "question": "Can Wyoming courts blue-pencil or narrow an overbroad covenant?",
-      "answer": "No. In *Hassler*, the Wyoming Supreme Court held that the blue-pencil rule is no longer permitted to make non-compete agreements reasonable, overruled *Hopper* on that point, and concluded that the entire agreement there was void because its duration and geography were unreasonable.\n\nThat matters both for legacy agreements and for post-2025 agreements that try to fit an exception. Wyoming-specific commentary warns employers not to assume a court will rescue overbroad drafting by trimming it back later.",
-      "answer_inline": "No. In *Hassler*, the Wyoming Supreme Court held that the blue-pencil rule is no longer permitted to make non-compete agreements reasonable, overruled *Hopper* on that point, and concluded that the entire agreement there was void because its duration and geography were unreasonable. [[CITE:0]]\n\nThat matters both for legacy agreements and for post-2025 agreements that try to fit an exception. Wyoming-specific commentary warns employers not to assume a court will rescue overbroad drafting by trimming it back later. [[CITE:0]] [[CITE:1]]",
-      "citations": [
-        {
-          "firm": "Supreme Court of Wyoming on Justia",
-          "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0132.html",
-          "excerpt": ""
-        },
-        {
-          "firm": "Holland & Hart",
-          "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-          "excerpt": ""
-        }
-      ]
+      "answer": "No. In *Hassler*, the Wyoming Supreme Court held that the blue-pencil rule is no longer permitted to make non-compete agreements reasonable, overruled *Hopper* on that point, and concluded that the entire agreement there was void because its duration and geography were unreasonable. [[CITE:cite_a6264d6f-b101-4b22-b639-17d61d96c7f5]]\n\nThat matters both for legacy agreements and for post-2025 agreements that try to fit an exception. Wyoming-specific commentary warns employers not to assume a court will rescue overbroad drafting by trimming it back later. [[CITE:cite_a6264d6f-b101-4b22-b639-17d61d96c7f5]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]"
     },
     {
       "id": "qa_0dd353e7-5a41-4f5e-92a9-de45a43d600e",
       "question": "What restrictions remain available after July 1, 2025?",
-      "answer": "The statute leaves four categories in play: sale-of-business covenants, covenants protecting trade secrets as defined by W.S. 6-3-501(a)(xi), capped repayment provisions for relocation, education, and training expense, and covenants with executive and management personnel and their professional staff. The expense-recovery schedule is fixed by tenure: up to 100% for service under two years, up to 66% for between two and less than three years, and up to 33% for between three and less than four years.\n\nEven inside those exceptions, the Wyoming-specific commentary does not treat enforcement as automatic. Holland & Hart warns that Wyoming employers still need a legitimate business fit and reasonable drafting, while Littler says the practical breadth of the trade-secret exception remains uncertain and may depend on how courts understand the relationship between trade-secret protection and post-employment restraint.",
-      "answer_inline": "The statute leaves four categories in play: sale-of-business covenants, covenants protecting trade secrets as defined by W.S. 6-3-501(a)(xi), capped repayment provisions for relocation, education, and training expense, and covenants with executive and management personnel and their professional staff. The expense-recovery schedule is fixed by tenure: up to 100% for service under two years, up to 66% for between two and less than three years, and up to 33% for between three and less than four years. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nEven inside those exceptions, the Wyoming-specific commentary does not treat enforcement as automatic. Holland & Hart warns that Wyoming employers still need a legitimate business fit and reasonable drafting, while Littler says the practical breadth of the trade-secret exception remains uncertain and may depend on how courts understand the relationship between trade-secret protection and post-employment restraint. [[CITE:3]] [[CITE:4]]",
-      "citations": [
-        {
-          "firm": "Wyoming Legislature",
-          "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-          "excerpt": ""
-        },
-        {
-          "firm": "Ogletree Deakins",
-          "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
-          "excerpt": ""
-        },
-        {
-          "firm": "Faegre Drinker",
-          "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
-          "excerpt": ""
-        },
-        {
-          "firm": "Holland & Hart",
-          "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-          "excerpt": ""
-        },
-        {
-          "firm": "Littler Mendelson",
-          "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
-          "excerpt": ""
-        }
-      ]
+      "answer": "The statute leaves four categories in play: sale-of-business covenants, covenants protecting trade secrets as defined by W.S. 6-3-501(a)(xi), capped repayment provisions for relocation, education, and training expense, and covenants with executive and management personnel and their professional staff. The expense-recovery schedule is fixed by tenure: up to 100% for service under two years, up to 66% for between two and less than three years, and up to 33% for between three and less than four years. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]] [[CITE:cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7]] [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]]\n\nEven inside those exceptions, the Wyoming-specific commentary does not treat enforcement as automatic. Holland & Hart warns that Wyoming employers still need a legitimate business fit and reasonable drafting, while Littler says the practical breadth of the trade-secret exception remains uncertain and may depend on how courts understand the relationship between trade-secret protection and post-employment restraint. [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]] [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]]"
     },
     {
       "id": "qa_395c84d1-83d8-4e32-8351-6d12026f72cf",
       "question": "Are customer nonsolicitation, employee nonsolicitation, and confidentiality clauses safe in Wyoming?",
-      "answer": "Not clearly. The statute does not expressly exempt non-solicits. Brownstein reads the act as leaving non-solicitation, non-recruitment, and confidentiality agreements intact. Littler and Fisher Phillips take a more cautious view: Littler says the absence of a non-solicit exception leaves the point unclear, and Fisher says courts still must decide whether customer nonsolicits, employee nonsolicits, broad confidentiality provisions, or anti-moonlighting clauses are really prohibited non-compete covenants under the new text.\n\nBecause the statute is silent and the source set is not unanimous, the safer Wyoming-specific conclusion is that narrow nonsolicits and confidentiality covenants may still be used, but their status is unsettled if they function as de facto non-competes.",
-      "answer_inline": "Not clearly. The statute does not expressly exempt non-solicits. Brownstein reads the act as leaving non-solicitation, non-recruitment, and confidentiality agreements intact. Littler and Fisher Phillips take a more cautious view: Littler says the absence of a non-solicit exception leaves the point unclear, and Fisher says courts still must decide whether customer nonsolicits, employee nonsolicits, broad confidentiality provisions, or anti-moonlighting clauses are really prohibited non-compete covenants under the new text. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nBecause the statute is silent and the source set is not unanimous, the safer Wyoming-specific conclusion is that narrow nonsolicits and confidentiality covenants may still be used, but their status is unsettled if they function as de facto non-competes. [[CITE:1]] [[CITE:2]] [[CITE:0]]",
-      "citations": [
-        {
-          "firm": "Brownstein Hyatt Farber Schreck",
-          "url": "https://www.bhfs.com/insights/alerts-articles/2025/wyoming-adopts-statutory-limits-for-noncompetes",
-          "excerpt": ""
-        },
-        {
-          "firm": "Littler Mendelson",
-          "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
-          "excerpt": ""
-        },
-        {
-          "firm": "Fisher Phillips",
-          "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
-          "excerpt": ""
-        }
-      ]
+      "answer": "Not clearly. The statute does not expressly exempt non-solicits. Brownstein reads the act as leaving non-solicitation, non-recruitment, and confidentiality agreements intact. Littler and Fisher Phillips take a more cautious view: Littler says the absence of a non-solicit exception leaves the point unclear, and Fisher says courts still must decide whether customer nonsolicits, employee nonsolicits, broad confidentiality provisions, or anti-moonlighting clauses are really prohibited non-compete covenants under the new text. [[CITE:cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb]] [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]]\n\nBecause the statute is silent and the source set is not unanimous, the safer Wyoming-specific conclusion is that narrow nonsolicits and confidentiality covenants may still be used, but their status is unsettled if they function as de facto non-competes. [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb]]"
     },
     {
       "id": "qa_4ad5e7c2-d0bb-44cf-93fc-75d87d57a7bf",
       "question": "What special rules apply to physicians in Wyoming?",
-      "answer": "Section 1-23-108(b) separately voids any covenant not to compete provision of an employment, partnership, or corporate agreement between physicians that restricts the right of a physician to practice medicine upon termination, while leaving the rest of the agreement enforceable if otherwise valid. Section 1-23-108(c) then allows a departing physician to disclose continuing practice and new professional contact information to rare-disorder patients without liability to the prior counterparty.\n\nThe hard part is the phrase \"between physicians.\" Littler and Holland & Hart both note that this wording creates a textual question about contracts with hospitals or other non-physician entities, so the cleaner statement is that Wyoming clearly voids physician-to-physician practice restraints and leaves the outer edge of physician-employer application less certain.",
-      "answer_inline": "Section 1-23-108(b) separately voids any covenant not to compete provision of an employment, partnership, or corporate agreement between physicians that restricts the right of a physician to practice medicine upon termination, while leaving the rest of the agreement enforceable if otherwise valid. Section 1-23-108(c) then allows a departing physician to disclose continuing practice and new professional contact information to rare-disorder patients without liability to the prior counterparty. [[CITE:0]]\n\nThe hard part is the phrase \"between physicians.\" Littler and Holland & Hart both note that this wording creates a textual question about contracts with hospitals or other non-physician entities, so the cleaner statement is that Wyoming clearly voids physician-to-physician practice restraints and leaves the outer edge of physician-employer application less certain. [[CITE:1]] [[CITE:2]]",
-      "citations": [
-        {
-          "firm": "Wyoming Legislature",
-          "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-          "excerpt": ""
-        },
-        {
-          "firm": "Littler Mendelson",
-          "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
-          "excerpt": ""
-        },
-        {
-          "firm": "Holland & Hart",
-          "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-          "excerpt": ""
-        }
-      ]
+      "answer": "Section 1-23-108(b) separately voids any covenant not to compete provision of an employment, partnership, or corporate agreement between physicians that restricts the right of a physician to practice medicine upon termination, while leaving the rest of the agreement enforceable if otherwise valid. Section 1-23-108(c) then allows a departing physician to disclose continuing practice and new professional contact information to rare-disorder patients without liability to the prior counterparty. [[CITE:cite_6bea5e33-857a-401d-bbfc-dbc79024265e]]\n\nThe hard part is the phrase \"between physicians.\" Littler and Holland & Hart both note that this wording creates a textual question about contracts with hospitals or other non-physician entities, so the cleaner statement is that Wyoming clearly voids physician-to-physician practice restraints and leaves the outer edge of physician-employer application less certain. [[CITE:cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]"
     },
     {
       "id": "qa_5d3c055d-8c7c-4814-91aa-8b7d4a8f5808",
       "question": "Who qualifies as executive or management personnel in Wyoming?",
-      "answer": "The statute does not define executive, management, professional staff, or the combined executive-and-management personnel category. Faegre flags that drafting gap directly, and Fisher Phillips and Holland & Hart both say Colorado cases construing nearly identical older statutory language may offer nonbinding guidance.\n\nThose sources focus on actual responsibilities rather than titles alone. The recurring factors are supervision, autonomy, hiring or firing authority, and whether the employee plays a meaningful role in implementing executive or management functions. Until Wyoming courts speak directly, that function-over-title approach is the most defensible reading.",
-      "answer_inline": "The statute does not define executive, management, professional staff, or the combined executive-and-management personnel category. Faegre flags that drafting gap directly, and Fisher Phillips and Holland & Hart both say Colorado cases construing nearly identical older statutory language may offer nonbinding guidance. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nThose sources focus on actual responsibilities rather than titles alone. The recurring factors are supervision, autonomy, hiring or firing authority, and whether the employee plays a meaningful role in implementing executive or management functions. Until Wyoming courts speak directly, that function-over-title approach is the most defensible reading. [[CITE:1]] [[CITE:2]]",
-      "citations": [
-        {
-          "firm": "Faegre Drinker",
-          "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
-          "excerpt": ""
-        },
-        {
-          "firm": "Fisher Phillips",
-          "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
-          "excerpt": ""
-        },
-        {
-          "firm": "Holland & Hart",
-          "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-          "excerpt": ""
-        }
-      ]
+      "answer": "The statute does not define executive, management, professional staff, or the combined executive-and-management personnel category. Faegre flags that drafting gap directly, and Fisher Phillips and Holland & Hart both say Colorado cases construing nearly identical older statutory language may offer nonbinding guidance. [[CITE:cite_ecb401c7-3646-47c5-b7b7-a00cd4571171]] [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]\n\nThose sources focus on actual responsibilities rather than titles alone. The recurring factors are supervision, autonomy, hiring or firing authority, and whether the employee plays a meaningful role in implementing executive or management functions. Until Wyoming courts speak directly, that function-over-title approach is the most defensible reading. [[CITE:cite_f9ff7411-d73d-493f-9cf5-671550d81383]] [[CITE:cite_6d928bb1-aeca-490c-8766-95973411634d]]"
     }
   ],
   "references": [
     {
-      "firm": "Wyoming Legislature",
-      "title": "Senate File 107 (Enrolled Act No. 87)",
+      "id": "cite_6bea5e33-857a-401d-bbfc-dbc79024265e",
+      "name": "Wyoming Legislature",
       "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
+      "source_type": "statute",
+      "title": "Senate File 107 (Enrolled Act No. 87)",
       "date": "2025-03-19"
     },
     {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "title": "Brown v. Best Home Health & Hospice, LLC",
+      "id": "cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7",
+      "name": "Ogletree Deakins",
+      "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Enacts Law to Restrict the Use of Noncompete Agreements",
+      "date": "2025-03-19"
+    },
+    {
+      "id": "cite_ecb401c7-3646-47c5-b7b7-a00cd4571171",
+      "name": "Faegre Drinker",
+      "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Enacts Significant Restrictions on Noncompete Agreements",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "cite_988adf21-88d4-489f-8f57-0443a9491376",
+      "name": "Supreme Court of Wyoming on Justia",
       "url": "https://law.justia.com/cases/wyoming/supreme-court/2021/s-20-0270.html",
+      "source_type": "case_law",
+      "title": "Brown v. Best Home Health & Hospice, LLC",
       "date": "2021-07-15"
     },
     {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "title": "Malave v. Western Wyoming Beverages, Inc.",
+      "id": "cite_abcd3429-ed74-45a0-b034-4555f6f9a241",
+      "name": "Supreme Court of Wyoming on Justia",
       "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0140.html",
+      "source_type": "case_law",
+      "title": "Malave v. Western Wyoming Beverages, Inc.",
       "date": "2022-01-28"
     },
     {
-      "firm": "Supreme Court of Wyoming on Justia",
-      "title": "Hassler v. Circle C Resources",
+      "id": "cite_a6264d6f-b101-4b22-b639-17d61d96c7f5",
+      "name": "Supreme Court of Wyoming on Justia",
       "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0132.html",
+      "source_type": "case_law",
+      "title": "Hassler v. Circle C Resources",
       "date": "2022-02-25"
     },
     {
-      "firm": "Holland & Hart",
-      "title": "Wyoming Legislature Takes a Bite Out of Covenants Not to Compete",
-      "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-      "date": "2025-03-21"
-    },
-    {
-      "firm": "Ogletree Deakins",
-      "title": "Wyoming Enacts Law to Restrict the Use of Noncompete Agreements",
-      "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
-      "date": "2025-03-19"
-    },
-    {
-      "firm": "Littler Mendelson",
-      "title": "Wyoming Bans Non-Compete Covenants with Some Exceptions",
+      "id": "cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1",
+      "name": "Littler Mendelson",
       "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Bans Non-Compete Covenants with Some Exceptions",
       "date": "2025-03-27"
     },
     {
-      "firm": "Faegre Drinker",
-      "title": "Wyoming Enacts Significant Restrictions on Noncompete Agreements",
-      "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
-      "date": "2025-03-21"
-    },
-    {
-      "firm": "Fisher Phillips",
-      "title": "New Law Voids Most Wyoming Non-Compete Agreements: Key Takeaways for Employers",
+      "id": "cite_f9ff7411-d73d-493f-9cf5-671550d81383",
+      "name": "Fisher Phillips",
       "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
+      "source_type": "law_firm_commentary",
+      "title": "New Law Voids Most Wyoming Non-Compete Agreements: Key Takeaways for Employers",
       "date": "2025-06-01"
     },
     {
-      "firm": "Brownstein Hyatt Farber Schreck",
-      "title": "Wyoming Adopts Statutory Limits for Noncompetes",
+      "id": "cite_6d928bb1-aeca-490c-8766-95973411634d",
+      "name": "Holland & Hart",
+      "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Legislature Takes a Bite Out of Covenants Not to Compete",
+      "date": "2025-03-21"
+    },
+    {
+      "id": "cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb",
+      "name": "Brownstein Hyatt Farber Schreck",
       "url": "https://www.bhfs.com/insights/alerts-articles/2025/wyoming-adopts-statutory-limits-for-noncompetes",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Adopts Statutory Limits for Noncompetes",
       "date": "2025-05-14"
     }
   ],
-  "executive_summary_inline": "Wyoming now has a two-track non-compete regime. For contracts entered into on or after July 1, 2025, Senate File 107, codified at W.S. 1-23-108, voids any covenant not to compete that restricts the right of any person to receive compensation for skilled or unskilled labor, subject only to four listed exceptions: sale-of-business covenants, trade-secret protection, capped expense-recovery provisions, and covenants for executive and management personnel and their professional staff. The same enactment separately voids physician non-compete provisions and protects disclosure of new contact information to patients with rare disorders. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nPre-July 1, 2025 agreements were not retroactively voided, but they were not made easy to enforce either. Wyoming common law already treated non-competes as presumptively invalid restraints on trade, placed the burden on the employer to justify them, required reasonable consideration, and after *Hassler* forbade courts from blue-penciling unreasonable covenants to save them. *Brown* also confirms that continued employment alone is not sufficient consideration when an existing employee is asked to sign later. [[CITE:0]] [[CITE:3]] [[CITE:4]] [[CITE:5]]\n\nThe remaining Wyoming questions are interpretive, not structural. State-specific firm analyses broadly read the statute's \"any person\" language to reach independent contractors as well as employees, but they also emphasize that Wyoming courts still have not defined the executive-and-management personnel category or resolved whether customer nonsolicits, employee nonsolicits, broad confidentiality clauses, or similar restraints will be treated as prohibited covenants not to compete. [[CITE:6]] [[CITE:2]] [[CITE:7]] [[CITE:8]]",
-  "firm_consensus_inline": "Ogletree, Littler, Faegre, Fisher Phillips, and Holland & Hart all read SF 107 as a major narrowing of Wyoming practice, not a minor adjustment. They agree that the statute is prospective only, that the four statutory exceptions are the operative post-July 1, 2025 carveouts, and that physician non-competes are separately voided by subsection (b). They also agree that employers cannot assume old template language will survive a simple rollover after the effective date. [[CITE:0]] [[CITE:1]] [[CITE:2]] [[CITE:3]] [[CITE:4]]\n\nThose firm analyses also sit on top of a demanding Wyoming case-law baseline. *Brown* and *Malave* describe non-competes as restraints that are strictly construed, and *Hassler* makes drafting error much more expensive by eliminating blue-penciling. So even where a restraint arguably fits a statutory exception, Wyoming-specific commentary does not treat that as a license for careless drafting. [[CITE:5]] [[CITE:6]] [[CITE:7]] [[CITE:4]]",
-  "firm_differences_inline": "The sharpest source-level disagreement is over adjacent restraints. Brownstein takes the most employer-friendly view and says the statute does not affect non-solicitation, non-recruitment, or confidentiality agreements. Littler and Fisher Phillips are more cautious: Littler says the lack of an express non-solicit exception leaves the issue unclear, and Fisher says courts still must decide whether customer nonsolicits, employee nonsolicits, broad confidentiality provisions, or anti-moonlighting clauses count as covered non-compete covenants under the new language. The safest Wyoming-specific synthesis is uncertainty, not a blanket rule of safety. [[CITE:0]] [[CITE:1]] [[CITE:2]]\n\nThe firms also vary in how aggressively they use Colorado analogies for the executive-and-management exception. Fisher Phillips and Holland & Hart develop Colorado comparisons in some detail, while Faegre and Littler mainly emphasize the absence of Wyoming definitions. The common denominator is narrower: titles alone are not enough, and any future Wyoming analysis is likely to focus on actual authority, autonomy, and managerial function. [[CITE:2]] [[CITE:3]] [[CITE:4]] [[CITE:1]]\n\nFinally, the physician subsection raises a textual edge the sources handle cautiously. Littler and Holland & Hart both note that subsection (b) speaks of agreements \"between physicians,\" which can create a question about contracts with hospitals or other non-physician entities. The note therefore treats the physician carveout's application beyond the statutory text as unsettled rather than overstating certainty. [[CITE:5]] [[CITE:1]] [[CITE:3]]",
+  "citations": {
+    "cite_6bea5e33-857a-401d-bbfc-dbc79024265e": {
+      "id": "cite_6bea5e33-857a-401d-bbfc-dbc79024265e",
+      "name": "Wyoming Legislature",
+      "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
+      "source_type": "statute",
+      "title": "Senate File 107 (Enrolled Act No. 87)",
+      "date": "2025-03-19"
+    },
+    "cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7": {
+      "id": "cite_63f1ec55-f05d-49f1-9b8a-8f09dd5bc9e7",
+      "name": "Ogletree Deakins",
+      "url": "https://ogletree.com/insights-resources/blog-posts/wyoming-enacts-law-to-restrict-the-use-of-noncompete-agreements/",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Enacts Law to Restrict the Use of Noncompete Agreements",
+      "date": "2025-03-19"
+    },
+    "cite_ecb401c7-3646-47c5-b7b7-a00cd4571171": {
+      "id": "cite_ecb401c7-3646-47c5-b7b7-a00cd4571171",
+      "name": "Faegre Drinker",
+      "url": "https://www.faegredrinker.com/en/insights/publications/2025/3/wyoming-enacts-significant-restrictions-on-noncompete-agreements",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Enacts Significant Restrictions on Noncompete Agreements",
+      "date": "2025-03-21"
+    },
+    "cite_988adf21-88d4-489f-8f57-0443a9491376": {
+      "id": "cite_988adf21-88d4-489f-8f57-0443a9491376",
+      "name": "Supreme Court of Wyoming on Justia",
+      "url": "https://law.justia.com/cases/wyoming/supreme-court/2021/s-20-0270.html",
+      "source_type": "case_law",
+      "title": "Brown v. Best Home Health & Hospice, LLC",
+      "date": "2021-07-15"
+    },
+    "cite_abcd3429-ed74-45a0-b034-4555f6f9a241": {
+      "id": "cite_abcd3429-ed74-45a0-b034-4555f6f9a241",
+      "name": "Supreme Court of Wyoming on Justia",
+      "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0140.html",
+      "source_type": "case_law",
+      "title": "Malave v. Western Wyoming Beverages, Inc.",
+      "date": "2022-01-28"
+    },
+    "cite_a6264d6f-b101-4b22-b639-17d61d96c7f5": {
+      "id": "cite_a6264d6f-b101-4b22-b639-17d61d96c7f5",
+      "name": "Supreme Court of Wyoming on Justia",
+      "url": "https://law.justia.com/cases/wyoming/supreme-court/2022/s-21-0132.html",
+      "source_type": "case_law",
+      "title": "Hassler v. Circle C Resources",
+      "date": "2022-02-25"
+    },
+    "cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1": {
+      "id": "cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1",
+      "name": "Littler Mendelson",
+      "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Bans Non-Compete Covenants with Some Exceptions",
+      "date": "2025-03-27"
+    },
+    "cite_f9ff7411-d73d-493f-9cf5-671550d81383": {
+      "id": "cite_f9ff7411-d73d-493f-9cf5-671550d81383",
+      "name": "Fisher Phillips",
+      "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
+      "source_type": "law_firm_commentary",
+      "title": "New Law Voids Most Wyoming Non-Compete Agreements: Key Takeaways for Employers",
+      "date": "2025-06-01"
+    },
+    "cite_6d928bb1-aeca-490c-8766-95973411634d": {
+      "id": "cite_6d928bb1-aeca-490c-8766-95973411634d",
+      "name": "Holland & Hart",
+      "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Legislature Takes a Bite Out of Covenants Not to Compete",
+      "date": "2025-03-21"
+    },
+    "cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb": {
+      "id": "cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb",
+      "name": "Brownstein Hyatt Farber Schreck",
+      "url": "https://www.bhfs.com/insights/alerts-articles/2025/wyoming-adopts-statutory-limits-for-noncompetes",
+      "source_type": "law_firm_commentary",
+      "title": "Wyoming Adopts Statutory Limits for Noncompetes",
+      "date": "2025-05-14"
+    }
+  },
   "_metadata": {
     "topic": "non-compete",
     "state": "WY",
@@ -409,10 +220,10 @@
     "country": "",
     "country_code": "US",
     "title_subject": "",
-    "title": "Non Compete in Wyoming — What 8 Law Firms Say",
+    "title": "Non Compete in Wyoming — What 6 Law Firms Say",
     "bundle_title": "Non Compete in Wyoming",
     "last_updated": "2026-04-14",
-    "firm_count": 8,
+    "firm_count": 6,
     "id": "pn_d075b40c-f692-44c1-be5c-d1a9bf03a53d",
     "description": "Multi-firm analysis of non compete in Wyoming.",
     "labels": [
