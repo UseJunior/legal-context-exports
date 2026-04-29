@@ -1,61 +1,61 @@
 {
-  "executive_summary": "This note is about drafting a stock purchase agreement for the acquisition of a Delaware-incorporated venture-backed startup. It is not a general private-M&A survey and it is not a merger-agreement note. The maintainable core is narrower: start with orthodox SPA architecture,[[CITE:cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b]] then tailor it around the startup document stack that actually governs the target, including charter rights, investor agreements, transfer restrictions,[[CITE:cite_f288cd43-7b0b-4eea-9695-01ebf5739835]] SAFEs[[CITE:cite_35580cae-b796-4761-bf2f-7ca95686c1c5]] or notes, employee equity, and software-driven product risk.\n\nGeneric private-company precedent usually breaks first on structure, capitalization math, and rep-and-schedule design. Delaware law makes clear that stock transfers,[[CITE:cite_295fc761-1908-4708-9c6f-f7438e6f1e7d]] mergers,[[CITE:cite_5da1edaf-1356-4497-bba9-e3db327a5545]] and asset sales[[CITE:cite_5747d905-71c4-4b66-b6b2-41d4cc55029d]] do not operate the same way, and startup sources show why venture-backed targets add a second layer of drafting complexity on top of that baseline. A useful startup SPA note should therefore stay focused on the drafting issues that repeatedly change the agreement itself: structure, approvals,[[CITE:cite_276ef753-8bf0-44df-8da4-778d703c31fa]] cap table treatment, startup-specific reps and schedules,[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]] and post-closing risk allocation.",
-  "firm_consensus": "The strongest public practitioner sources converge on a simple point: a startup SPA should not be drafted as if it were merely a shorter version of a generic private-company purchase agreement. The ABA's new Model Short SPA is explicit that even a modern public drafting aid is only a starting point for experienced counsel and must be tailored to the target, industry, and transaction.[[CITE:cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b]] Cooley,[[CITE:cite_276ef753-8bf0-44df-8da4-778d703c31fa]][[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]] Pillsbury,[[CITE:cite_c011e229-cbb6-4698-929e-5c72fec72587]] and Davis Polk[[CITE:cite_2a018b66-6589-45d7-845d-b091d8b11884]] each identify startup-specific drafting pressure points that standard forms routinely miss, while SRS Acquiom's current deal-terms work reinforces that indemnity, escrow, earnout, and insurance architecture still turn on transaction-specific design rather than folklore about what is supposedly \"market.\"[[CITE:cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48]]\n\nThe same sources also support a more startup-specific consensus: before the SPA can allocate risk intelligently, the parties have to reconcile the venture stack sitting underneath the sale. For Delaware startups that often means charter rights,[[CITE:cite_f288cd43-7b0b-4eea-9695-01ebf5739835]] voting agreements,[[CITE:cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7]] drag-along mechanics,[[CITE:cite_276ef753-8bf0-44df-8da4-778d703c31fa]] transfer restrictions,[[CITE:cite_295fc761-1908-4708-9c6f-f7438e6f1e7d]] preferred stock economics, SAFEs, options,[[CITE:cite_35580cae-b796-4761-bf2f-7ca95686c1c5]] and disclosure schedules that convert diligence findings into legally operative exceptions.[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]]",
-  "firm_differences": "The real differences are differences of emphasis, not doctrinal conflict. Venable and the Delaware statutory materials do structure work: they explain why stock purchases, mergers, and asset sales produce different approval mechanics and different consequences for post-closing obligations.[[CITE:cite_2377d441-3b0d-471e-ab87-68745a871dc2]] Cooley focuses on shareholder coordination[[CITE:cite_276ef753-8bf0-44df-8da4-778d703c31fa]] and schedules,[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]] which is where many startup deals become operationally difficult. Pillsbury pushes hardest on code ownership, contractor papering, and open-source hygiene.[[CITE:cite_c011e229-cbb6-4698-929e-5c72fec72587]] Davis Polk adds a newer warning that AI and data issues now need explicit transaction drafting rather than being left to generic IP language.[[CITE:cite_2a018b66-6589-45d7-845d-b091d8b11884]] SRS Acquiom is least startup-specific, but most useful for current market architecture on earnouts, escrow, and indemnity customization.[[CITE:cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48]]\n\nThat split matters for scope. A durable note should not try to become a full startup-exit treatise covering every tax, securities, compensation, and employment issue that may arise in a sale. The more maintainable path is a Delaware drafting note that stays close to the agreement itself[[CITE:cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b]] and flags narrower overlays, such as QSBS, 280G, or securities-law questions, only when the specific deal requires them.[[CITE:cite_2377d441-3b0d-471e-ab87-68745a871dc2]]",
+  "executive_summary": "This note is about drafting a stock purchase agreement for the acquisition of a Delaware-incorporated venture-backed startup. It is not a general private-M&A survey and it is not a merger-agreement note. The maintainable core is narrower: start with orthodox SPA architecture,[[FN:fn_6b90f145-7e36-41d5-b57e-e44ec4469e38]] then tailor it around the startup document stack that actually governs the target, including charter rights, investor agreements, transfer restrictions,[[FN:fn_ddd0b709-0f15-4024-875c-32f19868602b]] SAFEs[[FN:fn_140a8766-321f-4372-b5ef-86a8aa8ff3e1]] or notes, employee equity, and software-driven product risk.\n\nGeneric private-company precedent usually breaks first on structure, capitalization math, and rep-and-schedule design. Delaware law makes clear that stock transfers,[[FN:fn_833e7992-afef-431e-a885-2c8d64ce104c]] mergers,[[FN:fn_f657575a-6649-4fdf-8521-a19bf66add4f]] and asset sales[[FN:fn_7ac8c2b3-49c3-447e-a3f0-0c5bbfe9df5f]] do not operate the same way, and startup sources show why venture-backed targets add a second layer of drafting complexity on top of that baseline. A useful startup SPA note should therefore stay focused on the drafting issues that repeatedly change the agreement itself: structure, approvals,[[FN:fn_8a3b90de-f080-427d-afa2-36c93795b12d]] cap table treatment, startup-specific reps and schedules,[[FN:fn_e5cac2ef-b918-4638-a5c4-d8119c2f53a7]] and post-closing risk allocation.",
+  "firm_consensus": "The strongest public practitioner sources converge on a simple point: a startup SPA should not be drafted as if it were merely a shorter version of a generic private-company purchase agreement. The ABA's new Model Short SPA is explicit that even a modern public drafting aid is only a starting point for experienced counsel and must be tailored to the target, industry, and transaction.[[FN:fn_c8d7c614-011e-47fb-b14c-29c0ca780d65]] Cooley,[[FN:fn_6c4044ce-770d-4f9c-a1e0-2b9fe96681a7]][[FN:fn_bca96c2f-11e1-4b17-b274-f8e6659029ce]] Pillsbury,[[FN:fn_fe753391-c4cc-4ea7-aed6-9f581bab87f5]] and Davis Polk[[FN:fn_9d04e8a7-d3b3-4537-814a-85a0bbb87f53]] each identify startup-specific drafting pressure points that standard forms routinely miss, while SRS Acquiom's current deal-terms work reinforces that indemnity, escrow, earnout, and insurance architecture still turn on transaction-specific design rather than folklore about what is supposedly \"market.\"[[FN:fn_592e566d-5688-46a4-8c76-75a2659bd310]]\n\nThe same sources also support a more startup-specific consensus: before the SPA can allocate risk intelligently, the parties have to reconcile the venture stack sitting underneath the sale. For Delaware startups that often means charter rights,[[FN:fn_f9c5bc63-1421-47ed-9906-00aef0d351b2]] voting agreements,[[FN:fn_b2d86a42-e9db-46e8-b975-e785caa1a783]] drag-along mechanics,[[FN:fn_fca27b2e-18de-491c-a768-a9cbffe5014f]] transfer restrictions,[[FN:fn_5e2aa401-2fb4-4195-93ed-d25f1325c943]] preferred stock economics, SAFEs, options,[[FN:fn_08281db3-752e-4b4a-9baf-ae63cf948065]] and disclosure schedules that convert diligence findings into legally operative exceptions.[[FN:fn_fceb9730-b700-4193-be71-50ca4f9692a0]]",
+  "firm_differences": "The real differences are differences of emphasis, not doctrinal conflict. Venable and the Delaware statutory materials do structure work: they explain why stock purchases, mergers, and asset sales produce different approval mechanics and different consequences for post-closing obligations.[[FN:fn_f6c176a1-6644-4270-9846-78d8774767a9]] Cooley focuses on shareholder coordination[[FN:fn_c20cf73f-6f6b-4edb-91a7-c1d0a0496459]] and schedules,[[FN:fn_386ead5e-133c-46f5-a669-46e71009e504]] which is where many startup deals become operationally difficult. Pillsbury pushes hardest on code ownership, contractor papering, and open-source hygiene.[[FN:fn_b64a8212-f9aa-4586-a617-4c246bc19302]] Davis Polk adds a newer warning that AI and data issues now need explicit transaction drafting rather than being left to generic IP language.[[FN:fn_4ab48b20-8e47-4dab-b941-656e0ed2edcf]] SRS Acquiom is least startup-specific, but most useful for current market architecture on earnouts, escrow, and indemnity customization.[[FN:fn_8f1f79b5-da89-4438-8eb1-7b061f47c798]]\n\nThat split matters for scope. A durable note should not try to become a full startup-exit treatise covering every tax, securities, compensation, and employment issue that may arise in a sale. The more maintainable path is a Delaware drafting note that stays close to the agreement itself[[FN:fn_b12f4fec-dc42-497a-b687-585a95bcfaf2]] and flags narrower overlays, such as QSBS, 280G, or securities-law questions, only when the specific deal requires them.[[FN:fn_bfb63a14-2973-43bb-9de2-e05dd5e41cf9]]",
   "recent_developments": [
     {
       "date": "2026-04",
-      "event": "ABA Business Law Today announced the Model Short Stock Purchase Agreement (U.S. Version) as a new public drafting aid for private stock purchases and emphasized that it is only a starting point for experienced counsel, not a safe form to use without deal-specific tailoring.[[CITE:cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b]]"
+      "event": "ABA Business Law Today announced the Model Short Stock Purchase Agreement (U.S. Version) as a new public drafting aid for private stock purchases and emphasized that it is only a starting point for experienced counsel, not a safe form to use without deal-specific tailoring.[[FN:fn_ff9077e8-88c2-48c3-9a3b-6699a41b24e0]]"
     },
     {
       "date": "2026-04",
-      "event": "SRS Acquiom previewed its 2026 M&A Deal Terms Study and highlighted rising earnout usage plus diligence-driven customization of indemnification protections across more than 2,300 private-target acquisitions.[[CITE:cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48]]"
+      "event": "SRS Acquiom previewed its 2026 M&A Deal Terms Study and highlighted rising earnout usage plus diligence-driven customization of indemnification protections across more than 2,300 private-target acquisitions.[[FN:fn_99e8679d-c58b-47a9-bd0b-1c3b2f4c7678]]"
     },
     {
       "date": "2025-10-01",
-      "event": "Pillsbury published updated startup IP guidance warning that unclear code ownership and weak OSS hygiene can derail financing or acquisitions.[[CITE:cite_c011e229-cbb6-4698-929e-5c72fec72587]]"
+      "event": "Pillsbury published updated startup IP guidance warning that unclear code ownership and weak OSS hygiene can derail financing or acquisitions.[[FN:fn_0d5f6904-3858-42c6-8f93-8549be5b6284]]"
     }
   ],
   "questions": [
     {
       "id": "qa_245ba969-d92a-48a1-86fe-7c23a65ed9b7",
       "question": "What makes a startup stock purchase agreement different from a generic private-company SPA?",
-      "answer": "A startup SPA is still a stock purchase agreement, so the baseline private-M&A architecture remains recognizable. But Delaware law does not let counsel flatten structure. Stock transfers are governed by DGCL sections 201 and 202, which tie the sale to Article 8 mechanics and to enforceable transfer restrictions.[[CITE:cite_295fc761-1908-4708-9c6f-f7438e6f1e7d]] Mergers and asset sales instead run through different statutory paths, including sections 251, 259,[[CITE:cite_5da1edaf-1356-4497-bba9-e3db327a5545]] and 271,[[CITE:cite_5747d905-71c4-4b66-b6b2-41d4cc55029d]] which change approval mechanics and what happens to assets and liabilities. In other words, \"stock sale\" is not just a label; it changes how the deal works.\n\nThe startup-specific difference is what sits underneath that form. Venture-backed startups often carry multiple preferred series,[[CITE:cite_f288cd43-7b0b-4eea-9695-01ebf5739835]] investor-vote mechanics, drag-along provisions,[[CITE:cite_276ef753-8bf0-44df-8da4-778d703c31fa]] SAFEs,[[CITE:cite_35580cae-b796-4761-bf2f-7ca95686c1c5]] options, and product-centric diligence issues that a generic lower-middle-market precedent may not operationalize cleanly. That is why the better drafting move is not to abandon standard SPA structure,[[CITE:cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b]] but to use it as a framework and then tailor definitions, conditions, schedules, and closing mechanics to the target's actual capitalization and product risk."
+      "answer": "A startup SPA is still a stock purchase agreement, so the baseline private-M&A architecture remains recognizable. But Delaware law does not let counsel flatten structure. Stock transfers are governed by DGCL sections 201 and 202, which tie the sale to Article 8 mechanics and to enforceable transfer restrictions.[[FN:fn_028f24cd-d7f4-4f81-8582-f1f15ee987ab]] Mergers and asset sales instead run through different statutory paths, including sections 251, 259,[[FN:fn_d041e198-70cb-4485-9739-e0faf79910f9]] and 271,[[FN:fn_dd82a31e-dd1a-4554-9fb6-d8218882120d]] which change approval mechanics and what happens to assets and liabilities. In other words, \"stock sale\" is not just a label; it changes how the deal works.\n\nThe startup-specific difference is what sits underneath that form. Venture-backed startups often carry multiple preferred series,[[FN:fn_b8a5959c-9ec7-4197-ae13-2703e5639e69]] investor-vote mechanics, drag-along provisions,[[FN:fn_6a95386c-8461-4186-b78c-33e8a3963b2d]] SAFEs,[[FN:fn_437750fe-e630-4192-bd4c-defa940bde9f]] options, and product-centric diligence issues that a generic lower-middle-market precedent may not operationalize cleanly. That is why the better drafting move is not to abandon standard SPA structure,[[FN:fn_bf36ca7d-e64f-4f2b-85b7-b78f330fe17d]] but to use it as a framework and then tailor definitions, conditions, schedules, and closing mechanics to the target's actual capitalization and product risk."
     },
     {
       "id": "qa_112565c9-4d5d-4aec-8fbd-a818c5fd0e84",
       "question": "What approvals and venture-document constraints should be cleared before the SPA is treated as executable?",
-      "answer": "For a Delaware startup, the approval stack usually begins before the SPA itself. Counsel needs to identify which board approvals, stockholder approvals, class or series votes, charter rights,[[CITE:cite_f288cd43-7b0b-4eea-9695-01ebf5739835]] voting-agreement obligations, drag-along mechanics, ROFR or co-sale limits, and notice requirements must be satisfied so that the signing path matches both Delaware law and the existing venture documents. DGCL section 228 is important because it permits stockholder action by written consent if the requisite votes are obtained and delivered correctly,[[CITE:cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7]] while section 202 matters because transfer restrictions are enforceable only if the deal team accounts for how they bind the holders and securities involved.[[CITE:cite_295fc761-1908-4708-9c6f-f7438e6f1e7d]]\n\nCooley's drag-along guidance is useful because it explains the practical reason these provisions dominate startup sale mechanics: they are designed to force coordinated support for a company sale once the stated conditions are met.[[CITE:cite_276ef753-8bf0-44df-8da4-778d703c31fa]] That means the startup SPA should be drafted only after counsel has mapped which holders can actually be dragged, which signatures are still needed, and which closing conditions should remain tied to affirmative consents rather than assumed cooperation.[[CITE:cite_2377d441-3b0d-471e-ab87-68745a871dc2]]"
+      "answer": "For a Delaware startup, the approval stack usually begins before the SPA itself. Counsel needs to identify which board approvals, stockholder approvals, class or series votes, charter rights,[[FN:fn_1bfa3026-c2e0-4ad4-9bc4-cdf47d9af98e]] voting-agreement obligations, drag-along mechanics, ROFR or co-sale limits, and notice requirements must be satisfied so that the signing path matches both Delaware law and the existing venture documents. DGCL section 228 is important because it permits stockholder action by written consent if the requisite votes are obtained and delivered correctly,[[FN:fn_32d6d69a-9168-42ae-b654-1ca1ee71ac8d]] while section 202 matters because transfer restrictions are enforceable only if the deal team accounts for how they bind the holders and securities involved.[[FN:fn_ec718ce8-43f5-4bde-93cd-bfb399523f6c]]\n\nCooley's drag-along guidance is useful because it explains the practical reason these provisions dominate startup sale mechanics: they are designed to force coordinated support for a company sale once the stated conditions are met.[[FN:fn_e587b158-7099-4a1b-9fa4-e0200bc3a36a]] That means the startup SPA should be drafted only after counsel has mapped which holders can actually be dragged, which signatures are still needed, and which closing conditions should remain tied to affirmative consents rather than assumed cooperation.[[FN:fn_8e819ca2-aad0-4e5d-bcc6-4b6ece306fad]]"
     },
     {
       "id": "qa_ea94037a-32f8-4695-9895-047b1eb5011b",
       "question": "How should capitalization and purchase-price mechanics be drafted for a venture-backed target?",
-      "answer": "The purchase-price section has to reflect the target's real cap table, not the company's preferred story about the cap table. For a venture-backed startup that usually means working from a consideration spreadsheet that captures common and preferred stock, options and other awards, warrants, SAFEs, convertible notes, transaction bonuses, debt, and transaction expenses.[[CITE:cite_f288cd43-7b0b-4eea-9695-01ebf5739835]][[CITE:cite_7e729751-b0e8-44cf-a0bb-e4fc35763b94]] The drafting objective is not just descriptive accuracy. It is to make sure the agreement tells the paying agent, representative, and counsel exactly how consideration moves through the capitalization stack.[[CITE:cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b]]\n\nYC's SAFE materials[[CITE:cite_35580cae-b796-4761-bf2f-7ca95686c1c5]] are especially helpful here because they explain why startup acquisition math cannot stop at outstanding shares. YC designed the post-money SAFE so founders and investors can calculate ownership precisely, and its documents and user guide treat conversion and liquidity-event mechanics as part of the instrument itself. That means a startup SPA should expressly state how each SAFE or similar instrument is being cashed out, converted, canceled, or otherwise handled at closing instead of leaving the answer to an informal funds-flow memo."
+      "answer": "The purchase-price section has to reflect the target's real cap table, not the company's preferred story about the cap table. For a venture-backed startup that usually means working from a consideration spreadsheet that captures common and preferred stock, options and other awards, warrants, SAFEs, convertible notes, transaction bonuses, debt, and transaction expenses.[[FN:fn_f1064739-b853-4fe9-95fe-6e9380e6e092]][[FN:fn_6fefeac5-e673-4aef-bd8a-af5d101c3943]] The drafting objective is not just descriptive accuracy. It is to make sure the agreement tells the paying agent, representative, and counsel exactly how consideration moves through the capitalization stack.[[FN:fn_9892c01b-13be-43f6-8d4b-bf59d9266a9f]]\n\nYC's SAFE materials[[FN:fn_af634f9d-e261-4433-b1c0-ad75bd595090]] are especially helpful here because they explain why startup acquisition math cannot stop at outstanding shares. YC designed the post-money SAFE so founders and investors can calculate ownership precisely, and its documents and user guide treat conversion and liquidity-event mechanics as part of the instrument itself. That means a startup SPA should expressly state how each SAFE or similar instrument is being cashed out, converted, canceled, or otherwise handled at closing instead of leaving the answer to an informal funds-flow memo."
     },
     {
       "id": "qa_728efc29-4540-4f79-8560-bb5b7e20d633",
       "question": "Where do generic reps and schedules usually fail in a startup stock deal?",
-      "answer": "The failure point is usually not the existence of the rep section. It is the mismatch between generic rep categories and startup-specific facts. Startup deals routinely need sharper work on capitalization accuracy, transfer restrictions, equity-plan history, founder and contractor IP assignments, OSS usage, key product or data rights, and schedule architecture for customer or vendor concentration.[[CITE:cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b]] Cooley's disclosure-schedule guidance is useful because it frames the schedules as the answer set to the representations' questions.[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]] In a startup transaction, that Q&A logic should be applied deliberately rather than treated as a clerical exercise at the end of diligence.\n\nThe practical consequence is that startup-specific reps should usually be paired with startup-specific data pulls. If the target depends on SAFEs, the schedules need instrument-level treatment. If it depends on OSS or contractor-developed code, the schedules need code-ownership and license disclosures.[[CITE:cite_c011e229-cbb6-4698-929e-5c72fec72587]] If it depends on AI or data licensing, the schedules should not hide those issues inside a generic IP basket.[[CITE:cite_2a018b66-6589-45d7-845d-b091d8b11884]] The schedule set is where diligence becomes executable drafting.[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]]"
+      "answer": "The failure point is usually not the existence of the rep section. It is the mismatch between generic rep categories and startup-specific facts. Startup deals routinely need sharper work on capitalization accuracy, transfer restrictions, equity-plan history, founder and contractor IP assignments, OSS usage, key product or data rights, and schedule architecture for customer or vendor concentration.[[FN:fn_db8eb484-8fd9-4280-b3ef-7bf50893b841]] Cooley's disclosure-schedule guidance is useful because it frames the schedules as the answer set to the representations' questions.[[FN:fn_300f3f5c-c8b0-4669-962b-308d09059a8c]] In a startup transaction, that Q&A logic should be applied deliberately rather than treated as a clerical exercise at the end of diligence.\n\nThe practical consequence is that startup-specific reps should usually be paired with startup-specific data pulls. If the target depends on SAFEs, the schedules need instrument-level treatment. If it depends on OSS or contractor-developed code, the schedules need code-ownership and license disclosures.[[FN:fn_cac040ee-3460-483f-83ed-3f3d4a943ce2]] If it depends on AI or data licensing, the schedules should not hide those issues inside a generic IP basket.[[FN:fn_9fc0106f-5b87-4be5-b093-c581ffd3397a]] The schedule set is where diligence becomes executable drafting.[[FN:fn_50d5d45a-43b2-4b90-94ad-416e516abdc3]]"
     },
     {
       "id": "qa_0f7d97ff-b984-4aa7-9e09-12eaaafcc5c8",
       "question": "How should IP chain of title and open-source issues be handled?",
-      "answer": "Startup buyers often care less about the abstract existence of IP reps than about whether the company actually owns what it thinks it owns. The federal backbone is straightforward. Copyright transfers are generally not valid unless they are in writing and signed by the rights holder,[[CITE:cite_eed385cd-4bf0-4c56-bdec-20564b11275c]] and patent interests are assignable by written instrument.[[CITE:cite_c54253ca-5683-4ddd-b983-98b82e770b54]] Pillsbury's startup IP guidance translates that rule into startup practice: paying a developer is not enough if the company never obtained a written assignment, and weak OSS hygiene can surface as an acquisition problem rather than as a mere engineering preference.[[CITE:cite_c011e229-cbb6-4698-929e-5c72fec72587]]\n\nDrafting should therefore separate three questions that generic forms often collapse together: whether the company has documented ownership of code and other core IP,[[CITE:cite_c011e229-cbb6-4698-929e-5c72fec72587]] whether any exceptions belong on a schedule, and whether identified gaps need a closing deliverable, special indemnity, or purchase-price adjustment.[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]] Open-source use should likewise be treated as a specific diligence-and-schedule problem, not buried in a conclusory statement that the company \"owns or has rights to use\" its IP."
+      "answer": "Startup buyers often care less about the abstract existence of IP reps than about whether the company actually owns what it thinks it owns. The federal backbone is straightforward. Copyright transfers are generally not valid unless they are in writing and signed by the rights holder,[[FN:fn_d185abe6-728a-4e80-9e15-77efa590cdba]] and patent interests are assignable by written instrument.[[FN:fn_bcf66354-0c5c-4bc0-a5ce-c66801171ccf]] Pillsbury's startup IP guidance translates that rule into startup practice: paying a developer is not enough if the company never obtained a written assignment, and weak OSS hygiene can surface as an acquisition problem rather than as a mere engineering preference.[[FN:fn_a8aead4d-6b4d-448b-81ec-18e8e1157677]]\n\nDrafting should therefore separate three questions that generic forms often collapse together: whether the company has documented ownership of code and other core IP,[[FN:fn_66258347-c743-4f06-bbaf-a3197b8447e8]] whether any exceptions belong on a schedule, and whether identified gaps need a closing deliverable, special indemnity, or purchase-price adjustment.[[FN:fn_35529179-658a-4450-adaa-c1e8f4d44b15]] Open-source use should likewise be treated as a specific diligence-and-schedule problem, not buried in a conclusory statement that the company \"owns or has rights to use\" its IP."
     },
     {
       "id": "qa_79ddf8ed-c111-495d-a630-02e4756b52b3",
       "question": "How should AI, data, and product-compliance issues show up in the SPA?",
-      "answer": "Davis Polk's generative-AI transaction guidance[[CITE:cite_2a018b66-6589-45d7-845d-b091d8b11884]] makes the modern point clearly: for AI-enabled targets, transaction documents now need to ask narrower questions about training data rights, third-party model dependencies, output ownership, product-change controls, and compliance risk. A startup SPA should not automatically add a long AI appendix to every software deal, but it should also not pretend that a generic IP rep fully captures an AI product's legal risk surface.\n\nThe maintainable drafting rule is to make the rep package track the actual product. If the startup's value is tied to training data, model tuning, or licensed datasets, counsel should say so directly in reps, covenants, or schedules.[[CITE:cite_2a018b66-6589-45d7-845d-b091d8b11884]] If the startup is not meaningfully AI-dependent, counsel should resist ornamental AI language and focus instead on the more durable startup issues: IP ownership, OSS, customer-facing product obligations, and incident history.[[CITE:cite_c011e229-cbb6-4698-929e-5c72fec72587]]"
+      "answer": "Davis Polk's generative-AI transaction guidance[[FN:fn_415df029-a698-43ac-91cd-8bf7d4a3fbc1]] makes the modern point clearly: for AI-enabled targets, transaction documents now need to ask narrower questions about training data rights, third-party model dependencies, output ownership, product-change controls, and compliance risk. A startup SPA should not automatically add a long AI appendix to every software deal, but it should also not pretend that a generic IP rep fully captures an AI product's legal risk surface.\n\nThe maintainable drafting rule is to make the rep package track the actual product. If the startup's value is tied to training data, model tuning, or licensed datasets, counsel should say so directly in reps, covenants, or schedules.[[FN:fn_64a29565-fc02-4d17-97b5-85275e6e8a6a]] If the startup is not meaningfully AI-dependent, counsel should resist ornamental AI language and focus instead on the more durable startup issues: IP ownership, OSS, customer-facing product obligations, and incident history.[[FN:fn_d6ef2319-39dd-4d40-b5fe-f1bbaa62131d]]"
     },
     {
       "id": "qa_941972be-554c-4431-9b95-ddbe1dd674d0",
       "question": "What should disclosure schedules and closing deliverables actually do in a startup stock deal?",
-      "answer": "Disclosure schedules should convert diligence into legally operative exceptions, not operate as a late-stage data dump. Cooley's explanation is useful because it shows why schedules matter in both investments and acquisitions: the agreement asks the questions, and the schedules supply the answer set that makes the representations true.[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]] In a startup sale, that usually means the schedule package should be designed around the issues most likely to break the deal later, including capitalization,[[CITE:cite_f288cd43-7b0b-4eea-9695-01ebf5739835]] SAFEs[[CITE:cite_35580cae-b796-4761-bf2f-7ca95686c1c5]] and notes, option and warrant treatment, IP assignments, OSS, data or AI exceptions, key contracts, and required consents.\n\nClosing deliverables should prove that the cleanup actually happened. Depending on the deal, that can include board and stockholder consents,[[CITE:cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7]] drag-along documentation, payoff or termination letters, SAFE or note payoff documents, equity-award notices, updated capitalization schedules,[[CITE:cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f]] assignment confirmations, or representative and escrow documents. The drafting goal is not to collect paper for its own sake. It is to keep known startup frictions out of post-closing fights about consideration, ownership, or who was bound to what.[[CITE:cite_2377d441-3b0d-471e-ab87-68745a871dc2]]"
+      "answer": "Disclosure schedules should convert diligence into legally operative exceptions, not operate as a late-stage data dump. Cooley's explanation is useful because it shows why schedules matter in both investments and acquisitions: the agreement asks the questions, and the schedules supply the answer set that makes the representations true.[[FN:fn_d8354d8d-3228-4ba2-8e20-8e7107ffdce7]] In a startup sale, that usually means the schedule package should be designed around the issues most likely to break the deal later, including capitalization,[[FN:fn_14ab5fbd-8023-409a-88b0-668589a2dfc0]] SAFEs[[FN:fn_aada94fc-efdc-4ad9-b5ab-31886c676980]] and notes, option and warrant treatment, IP assignments, OSS, data or AI exceptions, key contracts, and required consents.\n\nClosing deliverables should prove that the cleanup actually happened. Depending on the deal, that can include board and stockholder consents,[[FN:fn_48b59dbc-0519-404e-9967-7a6a173290c1]] drag-along documentation, payoff or termination letters, SAFE or note payoff documents, equity-award notices, updated capitalization schedules,[[FN:fn_b002f655-6d60-47bc-9edd-d3474f13292c]] assignment confirmations, or representative and escrow documents. The drafting goal is not to collect paper for its own sake. It is to keep known startup frictions out of post-closing fights about consideration, ownership, or who was bound to what.[[FN:fn_2fd94efa-855d-4181-a488-3191229ede60]]"
     },
     {
       "id": "qa_1c8848e1-8604-4455-a853-1e9291d5e7c6",
       "question": "How should indemnity, escrow, earnouts, and insurance be approached in a startup SPA?",
-      "answer": "Risk allocation should be drafted from current data and identified risks, not from generic memory of the last private-company form. SRS Acquiom's 2026 study preview[[CITE:cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48]] highlights two themes that matter here: earnouts remain important in private-target M&A, and indemnification protections are increasingly customized based on diligence findings rather than copied wholesale. That fits startup practice. Venture-backed targets often have a few concentrated risks that matter far more than the rest of the rep package, such as cap-table defects, IP ownership gaps, or product and data issues.\n\nFor the same reason, counsel should draft seller exposure intentionally. If a merger structure is used, Venable's Cigna discussion[[CITE:cite_2377d441-3b0d-471e-ab87-68745a871dc2]] is a reminder that post-closing obligations should not be smuggled in later through a letter of transmittal or left open-ended for non-signing holders. In a stock purchase, that concern often pushes the team toward cleaner signature planning, express escrow mechanics, and specific treatment of any contingent payments. If earnouts are used, the metric definitions and operating covenants need just as much care as the indemnity basket and cap.[[CITE:cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48]]"
+      "answer": "Risk allocation should be drafted from current data and identified risks, not from generic memory of the last private-company form. SRS Acquiom's 2026 study preview[[FN:fn_8ca7dcfc-9a98-4a8f-a853-a8ca090d5a0a]] highlights two themes that matter here: earnouts remain important in private-target M&A, and indemnification protections are increasingly customized based on diligence findings rather than copied wholesale. That fits startup practice. Venture-backed targets often have a few concentrated risks that matter far more than the rest of the rep package, such as cap-table defects, IP ownership gaps, or product and data issues.\n\nFor the same reason, counsel should draft seller exposure intentionally. If a merger structure is used, Venable's Cigna discussion[[FN:fn_1aa0e210-49fc-47a7-8ec4-aacb10b6d6dd]] is a reminder that post-closing obligations should not be smuggled in later through a letter of transmittal or left open-ended for non-signing holders. In a stock purchase, that concern often pushes the team toward cleaner signature planning, express escrow mechanics, and specific treatment of any contingent payments. If earnouts are used, the metric definitions and operating covenants need just as much care as the indemnity basket and cap.[[FN:fn_97220ba8-32b0-4fbc-8a5a-a414d85b9db5]]"
     }
   ],
   "references": [
@@ -318,10 +318,862 @@
       "date": "current"
     }
   },
+  "footnotes": {
+    "fn_6b90f145-7e36-41d5-b57e-e44ec4469e38": {
+      "id": "fn_6b90f145-7e36-41d5-b57e-e44ec4469e38",
+      "cite_id": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "announcing a model short stock purchase agreement designed to provide the basic framework for private acquisitions",
+      "pull_quote": "The Model Short SPA attempts to provide the basic framework (at least from the buyer’s perspective, as noted below) of a stock purchase agreement typically used in lower middle-market transactions",
+      "pull_quote_verified_at": "2026-04-29T19:03:19.345327+00:00",
+      "pull_quote_verified_hash": "ab0c467b152063601dc508f01bae5b46eddf6643ba1b87a6c27be6bc48850d7d"
+    },
+    "fn_ddd0b709-0f15-4024-875c-32f19868602b": {
+      "id": "fn_ddd0b709-0f15-4024-875c-32f19868602b",
+      "cite_id": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing model forms for the core venture document stack, including certificates of incorporation, investors' rights agreements, and right of first refusal and co-sale agreements",
+      "pull_quote": "The NVCA Model Legal Documents serve as the industry-embraced model documents to be used in venture capital financings.",
+      "pull_quote_verified_at": "2026-04-29T19:04:36.249391+00:00",
+      "pull_quote_verified_hash": "590441ffc9b99d238e436f6749548001be3b1e979a84f9c14d1d26a526d500b8"
+    },
+    "fn_140a8766-321f-4372-b5ef-86a8aa8ff3e1": {
+      "id": "fn_140a8766-321f-4372-b5ef-86a8aa8ff3e1",
+      "cite_id": "cite_35580cae-b796-4761-bf2f-7ca95686c1c5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing standard forms and guidance for the Simple Agreement for Future Equity (SAFE), a primary instrument for early-stage startup fundraising",
+      "pull_quote": "Y Combinator introduced the safe (simple agreement for future equity) in late 2013, and since then, it has been used by almost all YC startups and countless non-YC startups as the main instrument for early-stage fundraising.",
+      "pull_quote_verified_at": "2026-04-29T19:05:37.664563+00:00",
+      "pull_quote_verified_hash": "17793490f1be5deb8183afba1bb6734321bf7bd94b66bf4d9230501c8975942e"
+    },
+    "fn_833e7992-afef-431e-a885-2c8d64ce104c": {
+      "id": "fn_833e7992-afef-431e-a885-2c8d64ce104c",
+      "cite_id": "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "governing the transfer of stock and restrictions on transfer under Delaware law",
+      "pull_quote": "Except as otherwise provided in this chapter, the transfer of stock and the certificates of stock which represent the stock or uncertificated stock shall be governed by Article 8 of subtitle I of Title 6.",
+      "pull_quote_verified_at": "2026-04-29T19:06:22.115934+00:00",
+      "pull_quote_verified_hash": "1299d90944fb3e2a85b3fc1c49062f3c71257adb6e9e2b23f094247cb04dde9e"
+    },
+    "fn_f657575a-6649-4fdf-8521-a19bf66add4f": {
+      "id": "fn_f657575a-6649-4fdf-8521-a19bf66add4f",
+      "cite_id": "cite_5da1edaf-1356-4497-bba9-e3db327a5545",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "setting forth the statutory framework governing corporate mergers and consolidations in Delaware"
+    },
+    "fn_7ac8c2b3-49c3-447e-a3f0-0c5bbfe9df5f": {
+      "id": "fn_7ac8c2b3-49c3-447e-a3f0-0c5bbfe9df5f",
+      "cite_id": "cite_5747d905-71c4-4b66-b6b2-41d4cc55029d",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "setting forth the statutory requirements for a corporation to sell, lease, or exchange all or substantially all of its assets"
+    },
+    "fn_8a3b90de-f080-427d-afa2-36c93795b12d": {
+      "id": "fn_8a3b90de-f080-427d-afa2-36c93795b12d",
+      "cite_id": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that drag-along provisions provide a mechanism to efficiently collect necessary stockholder approvals for a company sale",
+      "pull_quote": "a drag-along provision assists the sale efforts by providing a mechanism to efficiently collect the necessary votes once the board of directors and a smaller group of stockholders have approved the sale.",
+      "pull_quote_verified_at": "2026-04-29T19:07:45.779546+00:00",
+      "pull_quote_verified_hash": "daa8a12dad75be65841fe0b031ea3ca1b91491af6f65a42581e2d672a3675376"
+    },
+    "fn_e5cac2ef-b918-4638-a5c4-d8119c2f53a7": {
+      "id": "fn_e5cac2ef-b918-4638-a5c4-d8119c2f53a7",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining the function of representations and disclosure schedules in venture investments and acquisitions",
+      "pull_quote": "The representations function together with the disclosure schedule as a kind of Q&A, where the representations are the question and the disclosure schedule is the answer.",
+      "pull_quote_verified_at": "2026-04-29T19:08:40.580943+00:00",
+      "pull_quote_verified_hash": "9865e01038faade7beb24bb9993ad88ddbd5b0800bf3c714d68ef09d85267c30"
+    },
+    "fn_c8d7c614-011e-47fb-b14c-29c0ca780d65": {
+      "id": "fn_c8d7c614-011e-47fb-b14c-29c0ca780d65",
+      "cite_id": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that the model agreement is merely a starting point and must be tailored to the specific client, industry, and transaction",
+      "pull_quote": "The Model Short SPA is merely a suggested starting point for buyer’s counsel and not a finished product. Effective documentation must be tailored to the client, industry, and transaction by experienced counsel.",
+      "pull_quote_verified_at": "2026-04-29T19:03:25.799959+00:00",
+      "pull_quote_verified_hash": "766ebe82ea30329d1617937f3ee62ef2d554f17cff27a59e38d300911255101b"
+    },
+    "fn_6c4044ce-770d-4f9c-a1e0-2b9fe96681a7": {
+      "id": "fn_6c4044ce-770d-4f9c-a1e0-2b9fe96681a7",
+      "cite_id": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining how drag-along provisions are used in venture-backed companies to coordinate stockholder votes and facilitate acquisitions",
+      "pull_quote": "In its simplest terms, a “drag-along” is a contract term requiring stockholders to vote in favor of the sale of the company under certain conditions and otherwise cooperate with the sale process",
+      "pull_quote_verified_at": "2026-04-29T19:07:54.962809+00:00",
+      "pull_quote_verified_hash": "08b62a672a10697a58485e663b8b3b074d06d919c3cd39cdc00813d989bc499a"
+    },
+    "fn_bca96c2f-11e1-4b17-b274-f8e6659029ce": {
+      "id": "fn_bca96c2f-11e1-4b17-b274-f8e6659029ce",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that failure to properly prepare disclosure schedules in financings or acquisitions can lead to breach of contract damages or purchase price adjustments",
+      "pull_quote": "In financing transactions, failure to thoroughly disclose can result in all manner of negative consequences, including breach of contract damages or a retroactive (downward) adjustment to the investment purchase price (i.e., valuation).",
+      "pull_quote_verified_at": "2026-04-29T19:08:47.830521+00:00",
+      "pull_quote_verified_hash": "be587531e5c575c0401db36427cb3c6a02e7d1c2a25ece154b05e05a2b32139f"
+    },
+    "fn_fe753391-c4cc-4ea7-aed6-9f581bab87f5": {
+      "id": "fn_fe753391-c4cc-4ea7-aed6-9f581bab87f5",
+      "cite_id": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "identifying common intellectual property pitfalls for startups, such as failing to secure written IP assignments from developers or misunderstanding open-source licenses",
+      "pull_quote": "Without a clear written agreement assigning IP rights, the developer (or their employer) may retain ownership.",
+      "pull_quote_verified_at": "2026-04-29T19:10:42.729878+00:00",
+      "pull_quote_verified_hash": "16f5df56e8d9ef35edcbd7435434383fb8cf8d94e6e7b5df67a0d95f81f4f15d"
+    },
+    "fn_9d04e8a7-d3b3-4537-814a-85a0bbb87f53": {
+      "id": "fn_9d04e8a7-d3b3-4537-814a-85a0bbb87f53",
+      "cite_id": "cite_2a018b66-6589-45d7-845d-b091d8b11884",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that acquisitions of generative AI companies require tailored representations and warranties beyond standard intellectual property and privacy provisions",
+      "pull_quote": "potential investors and acquirers may want to include representations and warranties in the relevant transaction agreement that are specifically designed to backstop their due diligence",
+      "pull_quote_verified_at": "2026-04-29T19:11:51.611123+00:00",
+      "pull_quote_verified_hash": "184f9e9e581525c1e31cec493e38891bd751608db8099d8366275d08ab448427"
+    },
+    "fn_592e566d-5688-46a4-8c76-75a2659bd310": {
+      "id": "fn_592e566d-5688-46a4-8c76-75a2659bd310",
+      "cite_id": "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "highlighting trends in earnouts, escrows, and indemnification based on data from over 2,300 private-target acquisitions",
+      "pull_quote": "The study contains data, insights, and M&A trends not found anywhere else about earnouts, purchase price adjustments (PPAs), escrows, indemnification, and more.",
+      "pull_quote_verified_at": "2026-04-29T19:12:54.133174+00:00",
+      "pull_quote_verified_hash": "89cb278476caac6c02a150a452eb7334b0408d4fb590e6cff823650ea8ac9376"
+    },
+    "fn_f9c5bc63-1421-47ed-9906-00aef0d351b2": {
+      "id": "fn_f9c5bc63-1421-47ed-9906-00aef0d351b2",
+      "cite_id": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "including a model certificate of incorporation in its standard suite of venture financing documents",
+      "pull_quote": "Certificate of Incorporation",
+      "pull_quote_verified_at": "2026-04-29T19:04:47.825362+00:00",
+      "pull_quote_verified_hash": "6df2b4fa4f1efeead5b9f4fd572f1acd36c6f05896b2b59cc21b659f40a6050e"
+    },
+    "fn_b2d86a42-e9db-46e8-b975-e785caa1a783": {
+      "id": "fn_b2d86a42-e9db-46e8-b975-e785caa1a783",
+      "cite_id": "cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "authorizing written voting agreements among stockholders",
+      "pull_quote": "An agreement between 2 or more stockholders, if in writing and signed by the parties thereto, may provide that in exercising any voting rights, the shares held by them shall be voted as provided by the agreement, or as the parties may agree, or as determined in accordance with a procedure agreed upon by them.",
+      "pull_quote_verified_at": "2026-04-29T19:13:56.165871+00:00",
+      "pull_quote_verified_hash": "99dfbac8865f1eb3e6b9b6573cc5e5063bef0ee6b5343253d4d8f9fa0f5b61e1"
+    },
+    "fn_fca27b2e-18de-491c-a768-a9cbffe5014f": {
+      "id": "fn_fca27b2e-18de-491c-a768-a9cbffe5014f",
+      "cite_id": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that drag-along provisions are common in venture financings of Delaware-incorporated companies",
+      "pull_quote": "Drag-along provisions have become common, though not universal, in venture financings of Delaware-incorporated companies, especially after the Series Seed stage",
+      "pull_quote_verified_at": "2026-04-29T19:08:04.873579+00:00",
+      "pull_quote_verified_hash": "4fc6777fb11be44dc0783172f67fd184b29ce0d570950af6eeac6f58a37f5ea9"
+    },
+    "fn_5e2aa401-2fb4-4195-93ed-d25f1325c943": {
+      "id": "fn_5e2aa401-2fb4-4195-93ed-d25f1325c943",
+      "cite_id": "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "governing the enforceability and mechanics of transfer restrictions on corporate securities",
+      "pull_quote": "A restriction on the transfer or registration of transfer of securities of a corporation, or on the amount of a corporationâs securities that may be owned by any person or group of persons, may be imposed by the certificate of incorporation or by the bylaws or by an agreement among any number of security holders or among such holders and the corporation.",
+      "pull_quote_verified_at": "2026-04-29T19:06:33.055458+00:00",
+      "pull_quote_verified_hash": "42e7a856795683b4967a70481aa1d015e3efce206319735191dc47d211ba4cf7"
+    },
+    "fn_08281db3-752e-4b4a-9baf-ae63cf948065": {
+      "id": "fn_08281db3-752e-4b4a-9baf-ae63cf948065",
+      "cite_id": "cite_35580cae-b796-4761-bf2f-7ca95686c1c5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining the mechanics and widespread use of SAFEs as a primary instrument for early-stage startup fundraising",
+      "pull_quote": "Y Combinator introduced the safe (simple agreement for future equity) in late 2013, and since then, it has been used by almost all YC startups and countless non-YC startups as the main instrument for early-stage fundraising.",
+      "pull_quote_verified_at": "2026-04-29T19:05:46.067838+00:00",
+      "pull_quote_verified_hash": "17793490f1be5deb8183afba1bb6734321bf7bd94b66bf4d9230501c8975942e"
+    },
+    "fn_fceb9730-b700-4193-be71-50ca4f9692a0": {
+      "id": "fn_fceb9730-b700-4193-be71-50ca4f9692a0",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that disclosure schedules function with representations as a Q&A to mitigate risk and ensure accurate statements of fact",
+      "pull_quote": "The representations function together with the disclosure schedule as a kind of Q&A, where the representations are the question and the disclosure schedule is the answer.",
+      "pull_quote_verified_at": "2026-04-29T19:09:11.446522+00:00",
+      "pull_quote_verified_hash": "9865e01038faade7beb24bb9993ad88ddbd5b0800bf3c714d68ef09d85267c30"
+    },
+    "fn_f6c176a1-6644-4270-9846-78d8774767a9": {
+      "id": "fn_f6c176a1-6644-4270-9846-78d8774767a9",
+      "cite_id": "cite_2377d441-3b0d-471e-ab87-68745a871dc2",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining how Delaware merger structures allow closing without unanimous consent but complicate the enforcement of post-closing obligations against non-signing shareholders",
+      "pull_quote": "Mergers are a popular structure for a private company acquisition for many reasons, one of which is that under Section 251 of the Delaware General Corporation Law (DGCL) and similar statutes in other states, a deal can be closed without the unanimous consent of all shareholders, as long as it is approved by the requisite number of shareholders under the company's governing documents and applicable law.",
+      "pull_quote_verified_at": "2026-04-29T19:14:55.034535+00:00",
+      "pull_quote_verified_hash": "76ebdd2e12b99d9c52e79e6e010a289a3e153f861dfe7dc827a149b829407dc8"
+    },
+    "fn_c20cf73f-6f6b-4edb-91a7-c1d0a0496459": {
+      "id": "fn_c20cf73f-6f6b-4edb-91a7-c1d0a0496459",
+      "cite_id": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that coordinating stockholder votes can be time-consuming and distracting to the sale process",
+      "pull_quote": "Since most companies have many stockholders by the time they are sold – and coordinating their votes can be time-consuming and distracting to the sale process – a drag-along provision assists the sale efforts by providing a mechanism to efficiently collect the necessary votes once the board of directors and a smaller group of stockholders have approved the sale.",
+      "pull_quote_verified_at": "2026-04-29T19:08:10.945199+00:00",
+      "pull_quote_verified_hash": "d15474ca95dd66655c099320f5f5396b765d28c82ccf891bb35c6477230b091f"
+    },
+    "fn_386ead5e-133c-46f5-a669-46e71009e504": {
+      "id": "fn_386ead5e-133c-46f5-a669-46e71009e504",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining the purpose and preparation of disclosure schedules in venture investments and acquisitions",
+      "pull_quote": "When a company receives a venture investment, or is acquired, it typically must prepare a “disclosure schedule” (also sometimes called a “schedule of exceptions” or “disclosure letter”).",
+      "pull_quote_verified_at": "2026-04-29T19:09:31.330343+00:00",
+      "pull_quote_verified_hash": "2aa8357816502f91396e63ded27a101bec27aaab098ea22f439d0646a778c44b"
+    },
+    "fn_b64a8212-f9aa-4586-a617-4c246bc19302": {
+      "id": "fn_b64a8212-f9aa-4586-a617-4c246bc19302",
+      "cite_id": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "debunking myths about developer code ownership and open-source software to warn startups about IP risks",
+      "pull_quote": "Without a clear written agreement assigning IP rights, the developer (or their employer) may retain ownership.",
+      "pull_quote_verified_at": "2026-04-29T19:10:56.346403+00:00",
+      "pull_quote_verified_hash": "16f5df56e8d9ef35edcbd7435434383fb8cf8d94e6e7b5df67a0d95f81f4f15d"
+    },
+    "fn_4ab48b20-8e47-4dab-b941-656e0ed2edcf": {
+      "id": "fn_4ab48b20-8e47-4dab-b941-656e0ed2edcf",
+      "cite_id": "cite_2a018b66-6589-45d7-845d-b091d8b11884",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "advising that acquirers should include representations and warranties specifically designed for AI tools in addition to standard IP representations",
+      "pull_quote": "Accordingly, and in light of the diligence considerations outlined above, potential investors and acquirers may want to include representations and warranties in the relevant transaction agreement that are specifically designed to backstop their due diligence (including with respect to the nature and provenance of the training data and any safeguards employed in the development of such GAI tool), in addition to a typical, fulsome set of IP, IT, privacy and cybersecurity representations and warranties.",
+      "pull_quote_verified_at": "2026-04-29T19:12:05.358336+00:00",
+      "pull_quote_verified_hash": "84cd4626da8952195c42d3464e3a96528dbd40d30e4fb138c17280f457bc2af6"
+    },
+    "fn_8f1f79b5-da89-4438-8eb1-7b061f47c798": {
+      "id": "fn_8f1f79b5-da89-4438-8eb1-7b061f47c798",
+      "cite_id": "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing data and trends on earnouts, escrows, and indemnification in private-target acquisitions",
+      "pull_quote": "The study contains data, insights, and M&A trends not found anywhere else about earnouts, purchase price adjustments (PPAs), escrows, indemnification, and more.",
+      "pull_quote_verified_at": "2026-04-29T19:13:06.219122+00:00",
+      "pull_quote_verified_hash": "89cb278476caac6c02a150a452eb7334b0408d4fb590e6cff823650ea8ac9376"
+    },
+    "fn_b12f4fec-dc42-497a-b687-585a95bcfaf2": {
+      "id": "fn_b12f4fec-dc42-497a-b687-585a95bcfaf2",
+      "cite_id": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "emphasizing that effective documentation must be tailored to the specific client, industry, and transaction",
+      "pull_quote": "Effective documentation must be tailored to the client, industry, and transaction by experienced counsel.",
+      "pull_quote_verified_at": "2026-04-29T19:03:36.702866+00:00",
+      "pull_quote_verified_hash": "d6df5151ffa88e770b9ea5386ccd86b026d8e168ff5522eb5cb2f5e32e909065"
+    },
+    "fn_bfb63a14-2973-43bb-9de2-e05dd5e41cf9": {
+      "id": "fn_bfb63a14-2973-43bb-9de2-e05dd5e41cf9",
+      "cite_id": "cite_2377d441-3b0d-471e-ab87-68745a871dc2",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that specific deal structures, such as mergers involving non-signatory shareholders, raise distinct issues that buyers must address",
+      "pull_quote": "Even though the holding was limited to the case's specific facts and circumstances, it raises some issues that buyers need to keep in mind in negotiating and effecting a merger involving non-signatory shareholders.",
+      "pull_quote_verified_at": "2026-04-29T19:15:22.166540+00:00",
+      "pull_quote_verified_hash": "745cd96e257bac3372631316aa7016e6595117373d320971c5380d6b8feff9fe"
+    },
+    "fn_ff9077e8-88c2-48c3-9a3b-6699a41b24e0": {
+      "id": "fn_ff9077e8-88c2-48c3-9a3b-6699a41b24e0",
+      "cite_id": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that the model agreement is not a finished product and must be tailored by experienced counsel",
+      "pull_quote": "The Model Short SPA is merely a suggested starting point for buyer’s counsel and not a finished product. Effective documentation must be tailored to the client, industry, and transaction by experienced counsel.",
+      "pull_quote_verified_at": "2026-04-29T19:03:45.908499+00:00",
+      "pull_quote_verified_hash": "766ebe82ea30329d1617937f3ee62ef2d554f17cff27a59e38d300911255101b"
+    },
+    "fn_99e8679d-c58b-47a9-bd0b-1c3b2f4c7678": {
+      "id": "fn_99e8679d-c58b-47a9-bd0b-1c3b2f4c7678",
+      "cite_id": "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "summarizing trends in earnouts and indemnification structures across over 2,300 private-target acquisitions",
+      "pull_quote": "The 2026 M&A Deal Terms Study analyzes 2,300+ private-target acquisitions, valued at $569 billion that closed between 2020 and 2025 for which SRS Acquiom provided services.",
+      "pull_quote_verified_at": "2026-04-29T19:13:12.387685+00:00",
+      "pull_quote_verified_hash": "b9e30c7f76c93681ccdccb4ef962c6fc014ccc37074d69d3568c6fc08e1de7e5"
+    },
+    "fn_0d5f6904-3858-42c6-8f93-8549be5b6284": {
+      "id": "fn_0d5f6904-3858-42c6-8f93-8549be5b6284",
+      "cite_id": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "warning that failing to secure written IP assignments or mismanaging open-source licenses can create compliance risks and scare off potential acquirers",
+      "pull_quote": "Missteps here can lead to compliance risks and scare off acquirers during due diligence.",
+      "pull_quote_verified_at": "2026-04-29T19:11:02.900955+00:00",
+      "pull_quote_verified_hash": "47e3a0f196ea94b708773d1bc59806d2eb245da67a1e0b64c9a6e9f481293376"
+    },
+    "fn_028f24cd-d7f4-4f81-8582-f1f15ee987ab": {
+      "id": "fn_028f24cd-d7f4-4f81-8582-f1f15ee987ab",
+      "cite_id": "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing that stock transfers are governed by Article 8 and establishing the enforceability of written transfer restrictions",
+      "pull_quote": "Except as otherwise provided in this chapter, the transfer of stock and the certificates of stock which represent the stock or uncertificated stock shall be governed by Article 8 of subtitle I of Title 6.",
+      "pull_quote_verified_at": "2026-04-29T19:06:42.299005+00:00",
+      "pull_quote_verified_hash": "1299d90944fb3e2a85b3fc1c49062f3c71257adb6e9e2b23f094247cb04dde9e"
+    },
+    "fn_d041e198-70cb-4485-9739-e0faf79910f9": {
+      "id": "fn_d041e198-70cb-4485-9739-e0faf79910f9",
+      "cite_id": "cite_5da1edaf-1356-4497-bba9-e3db327a5545",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "setting forth the statutory requirements for mergers, including approval mechanics and the automatic transfer of assets and liabilities",
+      "pull_quote": "all debts, liabilities and duties of the respective constituent corporations shall thenceforth attach to said surviving or resulting corporation, and may be enforced against it to the same extent as if said debts, liabilities and duties had been incurred or contracted by it.",
+      "pull_quote_verified_at": "2026-04-29T19:07:10.887750+00:00",
+      "pull_quote_verified_hash": "65c371f83feb9b408f9f30836a2d7498683a16ae815c698cb0deb5c7dff664a1"
+    },
+    "fn_dd82a31e-dd1a-4554-9fb6-d8218882120d": {
+      "id": "fn_dd82a31e-dd1a-4554-9fb6-d8218882120d",
+      "cite_id": "cite_5747d905-71c4-4b66-b6b2-41d4cc55029d",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "governing the sale, lease, or exchange of all or substantially all of a corporation's assets and the required stockholder approval mechanics",
+      "pull_quote": "Every corporation may at any meeting of its board of directors or governing body sell, lease or exchange all or substantially all of its property and assets",
+      "pull_quote_verified_at": "2026-04-29T19:07:35.790797+00:00",
+      "pull_quote_verified_hash": "4c5b29f1234f6dd4a7ce8943e6f18b9548f822c83d3f0ffd51e3aa5c7d3f25f2"
+    },
+    "fn_b8a5959c-9ec7-4197-ae13-2703e5639e69": {
+      "id": "fn_b8a5959c-9ec7-4197-ae13-2703e5639e69",
+      "cite_id": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing the industry-standard model documents used to structure venture capital financings",
+      "pull_quote": "The NVCA Model Legal Documents serve as the industry-embraced model documents to be used in venture capital financings.",
+      "pull_quote_verified_at": "2026-04-29T19:04:58.615943+00:00",
+      "pull_quote_verified_hash": "590441ffc9b99d238e436f6749548001be3b1e979a84f9c14d1d26a526d500b8"
+    },
+    "fn_6a95386c-8461-4186-b78c-33e8a3963b2d": {
+      "id": "fn_6a95386c-8461-4186-b78c-33e8a3963b2d",
+      "cite_id": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that drag-along provisions have become common in venture financings of Delaware-incorporated companies",
+      "pull_quote": "Drag-along provisions have become common, though not universal, in venture financings of Delaware-incorporated companies, especially after the Series Seed stage, and are nearly universal in other non-US jurisdictions where 100% of a company’s stockholder base must be party to a sale transaction.",
+      "pull_quote_verified_at": "2026-04-29T19:08:23.574326+00:00",
+      "pull_quote_verified_hash": "4bd7231bbda225a0463dfa7505ef014a791475b5011a6be74c2144f251307565"
+    },
+    "fn_437750fe-e630-4192-bd4c-defa940bde9f": {
+      "id": "fn_437750fe-e630-4192-bd4c-defa940bde9f",
+      "cite_id": "cite_35580cae-b796-4761-bf2f-7ca95686c1c5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that SAFEs are used by countless startups as the main instrument for early-stage fundraising",
+      "pull_quote": "Y Combinator introduced the safe (simple agreement for future equity) in late 2013, and since then, it has been used by almost all YC startups and countless non-YC startups as the main instrument for early-stage fundraising.",
+      "pull_quote_verified_at": "2026-04-29T19:05:58.658673+00:00",
+      "pull_quote_verified_hash": "17793490f1be5deb8183afba1bb6734321bf7bd94b66bf4d9230501c8975942e"
+    },
+    "fn_bf36ca7d-e64f-4f2b-85b7-b78f330fe17d": {
+      "id": "fn_bf36ca7d-e64f-4f2b-85b7-b78f330fe17d",
+      "cite_id": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that standard forms provide a starting point but must be tailored to the specific transaction and client",
+      "pull_quote": "The Model Short SPA is merely a suggested starting point for buyer’s counsel and not a finished product. Effective documentation must be tailored to the client, industry, and transaction by experienced counsel.",
+      "pull_quote_verified_at": "2026-04-29T19:03:56.876038+00:00",
+      "pull_quote_verified_hash": "766ebe82ea30329d1617937f3ee62ef2d554f17cff27a59e38d300911255101b"
+    },
+    "fn_1bfa3026-c2e0-4ad4-9bc4-cdf47d9af98e": {
+      "id": "fn_1bfa3026-c2e0-4ad4-9bc4-cdf47d9af98e",
+      "cite_id": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing industry-standard model documents for venture capital financings, including certificates of incorporation and voting agreements that establish these rights",
+      "pull_quote": "The NVCA Model Legal Documents serve as the industry-embraced model documents to be used in venture capital financings.",
+      "pull_quote_verified_at": "2026-04-29T19:05:10.898582+00:00",
+      "pull_quote_verified_hash": "590441ffc9b99d238e436f6749548001be3b1e979a84f9c14d1d26a526d500b8"
+    },
+    "fn_32d6d69a-9168-42ae-b654-1ca1ee71ac8d": {
+      "id": "fn_32d6d69a-9168-42ae-b654-1ca1ee71ac8d",
+      "cite_id": "cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "permitting stockholder action by written consent without a meeting if signed by holders with the minimum votes required to authorize the action",
+      "pull_quote": "any action required by this chapter to be taken at any annual or special meeting of stockholders of a corporation, or any action which may be taken at any annual or special meeting of such stockholders, may be taken without a meeting, without prior notice and without a vote, if a consent or consents, setting forth the action so taken, shall be signed by the holders of outstanding stock having not less than the minimum number of votes that would be necessary to authorize or take such action at a meeting at which all shares entitled to vote thereon were present and voted and shall be delivered to the corporation in the manner required by this section.",
+      "pull_quote_verified_at": "2026-04-29T19:14:15.483464+00:00",
+      "pull_quote_verified_hash": "d16b72276e7dcb7a01a19fe14baf9ef742ea59edb24103d766f063bf98aa8d9f"
+    },
+    "fn_ec718ce8-43f5-4bde-93cd-bfb399523f6c": {
+      "id": "fn_ec718ce8-43f5-4bde-93cd-bfb399523f6c",
+      "cite_id": "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "establishing the conditions under which restrictions on the transfer of corporate securities are enforceable against holders",
+      "pull_quote": "No restrictions so imposed shall be binding with respect to securities issued prior to the adoption of the restriction unless the holders of the securities are parties to an agreement or voted in favor of the restriction.",
+      "pull_quote_verified_at": "2026-04-29T19:06:51.281994+00:00",
+      "pull_quote_verified_hash": "95b712b60df26f7813b0f2207187f140b3965c96684a3bdc98c6f559df5e4d62"
+    },
+    "fn_e587b158-7099-4a1b-9fa4-e0200bc3a36a": {
+      "id": "fn_e587b158-7099-4a1b-9fa4-e0200bc3a36a",
+      "cite_id": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that a drag-along provision requires stockholders to vote for and cooperate with a company sale under certain conditions",
+      "pull_quote": "In its simplest terms, a “drag-along” is a contract term requiring stockholders to vote in favor of the sale of the company under certain conditions and otherwise cooperate with the sale process – in other words, it allows certain parties to “drag” other stockholders to support such a transaction.",
+      "pull_quote_verified_at": "2026-04-29T19:08:31.239966+00:00",
+      "pull_quote_verified_hash": "0cf655b649e4f0fc916a579b412d001c4d37d9535830e03aa755b06672fac638"
+    },
+    "fn_8e819ca2-aad0-4e5d-bcc6-4b6ece306fad": {
+      "id": "fn_8e819ca2-aad0-4e5d-bcc6-4b6ece306fad",
+      "cite_id": "cite_2377d441-3b0d-471e-ab87-68745a871dc2",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "recommending that buyers review drag-along provisions and condition closing on the affirmative consent of shareholders whose acceptance of post-closing obligations is crucial",
+      "pull_quote": "If the consent of certain shareholders to certain post-closing obligations is crucial, condition the closing on their acceptance.",
+      "pull_quote_verified_at": "2026-04-29T19:15:31.913741+00:00",
+      "pull_quote_verified_hash": "f003e6aa94b96d16a59ba9da55b3424b50bbf280a7db872a93066e7d9a955c61"
+    },
+    "fn_f1064739-b853-4fe9-95fe-6e9380e6e092": {
+      "id": "fn_f1064739-b853-4fe9-95fe-6e9380e6e092",
+      "cite_id": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "providing the industry-standard model documents used in venture capital financings that create the complex capitalization structures of venture-backed startups"
+    },
+    "fn_6fefeac5-e673-4aef-bd8a-af5d101c3943": {
+      "id": "fn_6fefeac5-e673-4aef-bd8a-af5d101c3943",
+      "cite_id": "cite_7e729751-b0e8-44cf-a0bb-e4fc35763b94",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "providing a model stock purchase agreement designed to handle the complex capitalization structures of venture-backed targets"
+    },
+    "fn_9892c01b-13be-43f6-8d4b-bf59d9266a9f": {
+      "id": "fn_9892c01b-13be-43f6-8d4b-bf59d9266a9f",
+      "cite_id": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that complex provisions in transaction documents are often necessary to address detailed circumstances and prevent parties from getting burned",
+      "pull_quote": "Transaction documents have evolved over time, and provisions became lengthier and more complex to address ever-evolving case law or more detailed circumstances, often because someone got “burned” in a specific way (or saw a way they could get “burned”) and added language as protection.",
+      "pull_quote_verified_at": "2026-04-29T19:04:10.961843+00:00",
+      "pull_quote_verified_hash": "def9509520354783f68d4b5e121d28b6d69e3fed43949b3db3ac044b40eea870"
+    },
+    "fn_af634f9d-e261-4433-b1c0-ad75bd595090": {
+      "id": "fn_af634f9d-e261-4433-b1c0-ad75bd595090",
+      "cite_id": "cite_35580cae-b796-4761-bf2f-7ca95686c1c5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that the post-money SAFE allows founders and investors to calculate immediately and precisely how much ownership of the company has been sold",
+      "pull_quote": "The post-money safe has what we think is a huge advantage for both founders and investors - the ability to calculate immediately and precisely how much ownership of the company has been sold.",
+      "pull_quote_verified_at": "2026-04-29T19:06:06.129644+00:00",
+      "pull_quote_verified_hash": "97ed674c47a802508ad19bca0e429c85199203c91bf59370a2d38987dee0db88"
+    },
+    "fn_db8eb484-8fd9-4280-b3ef-7bf50893b841": {
+      "id": "fn_db8eb484-8fd9-4280-b3ef-7bf50893b841",
+      "cite_id": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that standard purchase agreements must be tailored to include additional representations reflecting the specific business of the target company",
+      "pull_quote": "Buyer’s counsel who utilize the Model Short SPA will need to tailor the Model Short SPA to address the circumstances of the particular transaction and client, such as additional representations reflecting the business of the target company and other terms to reflect the business deal.",
+      "pull_quote_verified_at": "2026-04-29T19:04:22.018109+00:00",
+      "pull_quote_verified_hash": "fcf49dddd3c621092fd4a332de536854a1f017d9fca13c7a15c4c0e7c4f94498"
+    },
+    "fn_300f3f5c-c8b0-4669-962b-308d09059a8c": {
+      "id": "fn_300f3f5c-c8b0-4669-962b-308d09059a8c",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that representations and disclosure schedules function as a Q&A where the representations are the questions and the schedule is the answer",
+      "pull_quote": "The representations function together with the disclosure schedule as a kind of Q&A, where the representations are the question and the disclosure schedule is the answer.",
+      "pull_quote_verified_at": "2026-04-29T19:09:42.050276+00:00",
+      "pull_quote_verified_hash": "9865e01038faade7beb24bb9993ad88ddbd5b0800bf3c714d68ef09d85267c30"
+    },
+    "fn_cac040ee-3460-483f-83ed-3f3d4a943ce2": {
+      "id": "fn_cac040ee-3460-483f-83ed-3f3d4a943ce2",
+      "cite_id": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that open-source licenses carry obligations that can scare off acquirers and that paying a developer does not guarantee code ownership",
+      "pull_quote": "But open-source licenses come with obligations—some can force you to share your proprietary code. Missteps here can lead to compliance risks and scare off acquirers during due diligence.",
+      "pull_quote_verified_at": "2026-04-29T19:11:13.644392+00:00",
+      "pull_quote_verified_hash": "a610dfb0cd4d7b5f509b7b0a67fc4e1db1d598af75f062d141556dbdee45fa4e"
+    },
+    "fn_9fc0106f-5b87-4be5-b093-c581ffd3397a": {
+      "id": "fn_9fc0106f-5b87-4be5-b093-c581ffd3397a",
+      "cite_id": "cite_2a018b66-6589-45d7-845d-b091d8b11884",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "advising acquirers to include specific representations and warranties for AI tools in addition to standard intellectual property provisions",
+      "pull_quote": "potential investors and acquirers may want to include representations and warranties in the relevant transaction agreement that are specifically designed to backstop their due diligence (including with respect to the nature and provenance of the training data and any safeguards employed in the development of such GAI tool), in addition to a typical, fulsome set of IP, IT, privacy and cybersecurity representations and warranties.",
+      "pull_quote_verified_at": "2026-04-29T19:12:17.540985+00:00",
+      "pull_quote_verified_hash": "862fdb2ad4627719ee4420da460e218ba1f636a117b75464eafd3e8fa23c5abf"
+    },
+    "fn_50d5d45a-43b2-4b90-94ad-416e516abdc3": {
+      "id": "fn_50d5d45a-43b2-4b90-94ad-416e516abdc3",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting the close relationship between the due diligence process and the preparation of disclosure schedules",
+      "pull_quote": "Preparing disclosure schedules (and the related due diligence process) is much more difficult, time-consuming and stressful if the company needs to chase down corporate information and records in real time.",
+      "pull_quote_verified_at": "2026-04-29T19:10:09.540869+00:00",
+      "pull_quote_verified_hash": "2b44172ef70c5973cfa0e9c510bbcbdbb249257a3291d206190224557ce58aeb"
+    },
+    "fn_d185abe6-728a-4e80-9e15-77efa590cdba": {
+      "id": "fn_d185abe6-728a-4e80-9e15-77efa590cdba",
+      "cite_id": "cite_eed385cd-4bf0-4c56-bdec-20564b11275c",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "stating that a transfer of copyright ownership is valid only if it is in writing and signed by the copyright owner",
+      "pull_quote": "a transfer of copyright ownership (other than one brought about by operation of law) is valid only if there exists an instrument of conveyance, or alternatively a “note or memorandum of the transfer,” which is in writing and signed by the copyright owner",
+      "pull_quote_verified_at": "2026-04-29T19:16:14.194159+00:00",
+      "pull_quote_verified_hash": "769fa4f193676357c69a6376576ada7b0c2363129e7cc0bee2e3879509b817c9"
+    },
+    "fn_bcf66354-0c5c-4bc0-a5ce-c66801171ccf": {
+      "id": "fn_bcf66354-0c5c-4bc0-a5ce-c66801171ccf",
+      "cite_id": "cite_c54253ca-5683-4ddd-b983-98b82e770b54",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "stating that patents and patent interests are assignable by an instrument in writing",
+      "pull_quote": "Applications for patent, patents, or any interest therein, shall be assignable in law by an instrument in writing.",
+      "pull_quote_verified_at": "2026-04-29T19:16:25.247427+00:00",
+      "pull_quote_verified_hash": "c4863a7c261cd683ae1933e464a96cacd0eae06921e32183b3df11f281fa3b52"
+    },
+    "fn_a8aead4d-6b4d-448b-81ec-18e8e1157677": {
+      "id": "fn_a8aead4d-6b4d-448b-81ec-18e8e1157677",
+      "cite_id": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that paying for work does not guarantee ownership without a written assignment and that open-source missteps can scare off acquirers",
+      "pull_quote": "Just because you paid for the work doesn’t mean you own it. Without a clear written agreement assigning IP rights, the developer (or their employer) may retain ownership.",
+      "pull_quote_verified_at": "2026-04-29T19:11:22.814731+00:00",
+      "pull_quote_verified_hash": "bbbeb7039a0acae6322b6f7fbdac00150812521530ed774a84d351e1643e5a13"
+    },
+    "fn_66258347-c743-4f06-bbaf-a3197b8447e8": {
+      "id": "fn_66258347-c743-4f06-bbaf-a3197b8447e8",
+      "cite_id": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that paying a developer does not guarantee code ownership without a clear written agreement assigning IP rights",
+      "pull_quote": "Without a clear written agreement assigning IP rights, the developer (or their employer) may retain ownership.",
+      "pull_quote_verified_at": "2026-04-29T19:11:34.240893+00:00",
+      "pull_quote_verified_hash": "16f5df56e8d9ef35edcbd7435434383fb8cf8d94e6e7b5df67a0d95f81f4f15d"
+    },
+    "fn_35529179-658a-4450-adaa-c1e8f4d44b15": {
+      "id": "fn_35529179-658a-4450-adaa-c1e8f4d44b15",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that failure to disclose issues can lead to adverse outcomes such as a reduced purchase price",
+      "pull_quote": "Likewise, in acquisitions, failure to thoroughly disclose can lead to a range of adverse outcomes, including allowing the buyer to walk away from closing and/or reduce the purchase price.",
+      "pull_quote_verified_at": "2026-04-29T19:10:18.653828+00:00",
+      "pull_quote_verified_hash": "556b554ade74063c1b93cd4758186da0e65d51a167173e717eaeaf69a55c0166"
+    },
+    "fn_415df029-a698-43ac-91cd-8bf7d4a3fbc1": {
+      "id": "fn_415df029-a698-43ac-91cd-8bf7d4a3fbc1",
+      "cite_id": "cite_2a018b66-6589-45d7-845d-b091d8b11884",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that M&A transactions involving generative AI targets require specific due diligence and representations regarding training data, IP ownership, and regulatory compliance",
+      "pull_quote": "potential investors and acquirers may want to include representations and warranties in the relevant transaction agreement that are specifically designed to backstop their due diligence (including with respect to the nature and provenance of the training data and any safeguards employed in the development of such GAI tool)",
+      "pull_quote_verified_at": "2026-04-29T19:12:25.732423+00:00",
+      "pull_quote_verified_hash": "cc4d9b103690ce4dad2a3859917a07a978478c2d28a2692ffac66188b6ecae93"
+    },
+    "fn_64a29565-fc02-4d17-97b5-85275e6e8a6a": {
+      "id": "fn_64a29565-fc02-4d17-97b5-85275e6e8a6a",
+      "cite_id": "cite_2a018b66-6589-45d7-845d-b091d8b11884",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "advising acquirers to include specific representations, warranties, and covenants regarding the nature and provenance of training data when acquiring generative AI targets",
+      "pull_quote": "Accordingly, and in light of the diligence considerations outlined above, potential investors and acquirers may want to include representations and warranties in the relevant transaction agreement that are specifically designed to backstop their due diligence (including with respect to the nature and provenance of the training data and any safeguards employed in the development of such GAI tool), in addition to a typical, fulsome set of IP, IT, privacy and cybersecurity representations and warranties.",
+      "pull_quote_verified_at": "2026-04-29T19:12:39.949453+00:00",
+      "pull_quote_verified_hash": "84cd4626da8952195c42d3464e3a96528dbd40d30e4fb138c17280f457bc2af6"
+    },
+    "fn_d6ef2319-39dd-4d40-b5fe-f1bbaa62131d": {
+      "id": "fn_d6ef2319-39dd-4d40-b5fe-f1bbaa62131d",
+      "cite_id": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "highlighting code ownership and open-source software compliance as critical intellectual property issues that can derail startup acquisitions"
+    },
+    "fn_d8354d8d-3228-4ba2-8e20-8e7107ffdce7": {
+      "id": "fn_d8354d8d-3228-4ba2-8e20-8e7107ffdce7",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that representations and disclosure schedules function as a Q&A where the schedule provides the answers to make the representations true",
+      "pull_quote": "The representations function together with the disclosure schedule as a kind of Q&A, where the representations are the question and the disclosure schedule is the answer.",
+      "pull_quote_verified_at": "2026-04-29T19:10:24.165090+00:00",
+      "pull_quote_verified_hash": "9865e01038faade7beb24bb9993ad88ddbd5b0800bf3c714d68ef09d85267c30"
+    },
+    "fn_14ab5fbd-8023-409a-88b0-668589a2dfc0": {
+      "id": "fn_14ab5fbd-8023-409a-88b0-668589a2dfc0",
+      "cite_id": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "providing model stock purchase agreements and related documents that govern startup capitalization"
+    },
+    "fn_aada94fc-efdc-4ad9-b5ab-31886c676980": {
+      "id": "fn_aada94fc-efdc-4ad9-b5ab-31886c676980",
+      "cite_id": "cite_35580cae-b796-4761-bf2f-7ca95686c1c5",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "providing standard SAFE forms and explaining their conversion mechanics, which must be accounted for in a startup's capitalization and acquisition schedules"
+    },
+    "fn_48b59dbc-0519-404e-9967-7a6a173290c1": {
+      "id": "fn_48b59dbc-0519-404e-9967-7a6a173290c1",
+      "cite_id": "cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "providing the statutory framework for stockholder action by written consent in lieu of a meeting"
+    },
+    "fn_b002f655-6d60-47bc-9edd-d3474f13292c": {
+      "id": "fn_b002f655-6d60-47bc-9edd-d3474f13292c",
+      "cite_id": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that companies can update disclosure schedules from prior rounds to reflect changes to the company",
+      "pull_quote": "For subsequent financings, companies can generally start with the disclosure schedule from the prior round and update it to reflect changes to the company, as well as to account for any new representations that have been added to the financing documents.",
+      "pull_quote_verified_at": "2026-04-29T19:10:32.710116+00:00",
+      "pull_quote_verified_hash": "2ad65d474ab3391c7a28c5a059615f1778d152e9ae335703c92a83ef4dc3d862"
+    },
+    "fn_2fd94efa-855d-4181-a488-3191229ede60": {
+      "id": "fn_2fd94efa-855d-4181-a488-3191229ede60",
+      "cite_id": "cite_2377d441-3b0d-471e-ab87-68745a871dc2",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "discussing a post-closing dispute over consideration and indemnification that arose because the buyer failed to secure proper agreements from non-signing shareholders before closing"
+    },
+    "fn_8ca7dcfc-9a98-4a8f-a853-a8ca090d5a0a": {
+      "id": "fn_8ca7dcfc-9a98-4a8f-a853-a8ca090d5a0a",
+      "cite_id": "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "identifying trends in earnouts and the impact of heightened due diligence on escrow and indemnity structures as key topics in the 2026 study"
+    },
+    "fn_1aa0e210-49fc-47a7-8ec4-aacb10b6d6dd": {
+      "id": "fn_1aa0e210-49fc-47a7-8ec4-aacb10b6d6dd",
+      "cite_id": "cite_2377d441-3b0d-471e-ab87-68745a871dc2",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "discussing the Cigna decision and advising against using letters of transmittal to impose post-closing obligations on non-signing shareholders",
+      "pull_quote": "Avoid using letters of transmittal to impose any obligations on non-signing shareholders, as the Cigna case questions the enforceability of such obligations.",
+      "pull_quote_verified_at": "2026-04-29T19:15:51.846534+00:00",
+      "pull_quote_verified_hash": "17e6c99afca8618bf58a7ed92cfef5dea0b204250b0980a605f8bc1cf28ea175"
+    },
+    "fn_97220ba8-32b0-4fbc-8a5a-a414d85b9db5": {
+      "id": "fn_97220ba8-32b0-4fbc-8a5a-a414d85b9db5",
+      "cite_id": "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "see_generally",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "analyzing trends in earnouts, escrows, and indemnification structures across more than 2,300 private-target acquisitions"
+    }
+  },
   "_sources": {
-    "cite_5da1edaf-1356-4497-bba9-e3db327a5545": {
-      "source_ref": "cite_5da1edaf-1356-4497-bba9-e3db327a5545",
-      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
+    "cite_c54253ca-5683-4ddd-b983-98b82e770b54": {
+      "source_ref": "cite_c54253ca-5683-4ddd-b983-98b82e770b54",
+      "url": "https://www.law.cornell.edu/uscode/text/35/261",
+      "source_type": "statute",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "statute"
+      }
+    },
+    "cite_276ef753-8bf0-44df-8da4-778d703c31fa": {
+      "source_ref": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
+      "url": "https://www.cooleygo.com/what-is-a-drag-along/",
+      "source_type": "law_firm_commentary",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "firm_article"
+      }
+    },
+    "cite_35580cae-b796-4761-bf2f-7ca95686c1c5": {
+      "source_ref": "cite_35580cae-b796-4761-bf2f-7ca95686c1c5",
+      "url": "https://www.ycombinator.com/documents",
+      "source_type": "other",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": false,
+        "topic_match": true,
+        "source_class": "official_guidance"
+      }
+    },
+    "cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7": {
+      "source_ref": "cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7",
+      "url": "https://delcode.delaware.gov/title8/c001/sc07/index.html",
+      "source_type": "statute",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "statute"
+      }
+    },
+    "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d": {
+      "source_ref": "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d",
+      "url": "https://delcode.delaware.gov/title8/c001/sc06/index.html",
+      "source_type": "statute",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "statute"
+      }
+    },
+    "cite_eed385cd-4bf0-4c56-bdec-20564b11275c": {
+      "source_ref": "cite_eed385cd-4bf0-4c56-bdec-20564b11275c",
+      "url": "https://www.law.cornell.edu/uscode/text/17/204",
       "source_type": "statute",
       "status": "accepted",
       "quality_signals": {
@@ -333,6 +1185,72 @@
     "cite_c011e229-cbb6-4698-929e-5c72fec72587": {
       "source_ref": "cite_c011e229-cbb6-4698-929e-5c72fec72587",
       "url": "https://www.pillsburypropel.com/guidance/startup-ip-myths-that-can-cost-you-millions-or-kill-your-exit",
+      "source_type": "law_firm_commentary",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": false,
+        "topic_match": true,
+        "source_class": "firm_article"
+      }
+    },
+    "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b": {
+      "source_ref": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
+      "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
+      "source_type": "scholarship",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": false,
+        "topic_match": true,
+        "source_class": "official_guidance"
+      }
+    },
+    "cite_f288cd43-7b0b-4eea-9695-01ebf5739835": {
+      "source_ref": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
+      "url": "https://nvca.org/model-legal-documents/",
+      "source_type": "trade_association",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": false,
+        "topic_match": true,
+        "source_class": "official_guidance"
+      }
+    },
+    "cite_2a018b66-6589-45d7-845d-b091d8b11884": {
+      "source_ref": "cite_2a018b66-6589-45d7-845d-b091d8b11884",
+      "url": "https://www.davispolk.com/insights/client-update/navigating-generative-ai-m-transactions",
+      "source_type": "law_firm_commentary",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": false,
+        "topic_match": true,
+        "source_class": "firm_article"
+      }
+    },
+    "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48": {
+      "source_ref": "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48",
+      "url": "https://www.srsacquiom.com/our-insights/deal-terms-study/",
+      "source_type": "other",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": false,
+        "topic_match": true,
+        "source_class": "official_guidance"
+      }
+    },
+    "cite_5747d905-71c4-4b66-b6b2-41d4cc55029d": {
+      "source_ref": "cite_5747d905-71c4-4b66-b6b2-41d4cc55029d",
+      "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+      "source_type": "statute",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "statute"
+      }
+    },
+    "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f": {
+      "source_ref": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
+      "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
       "source_type": "law_firm_commentary",
       "status": "accepted",
       "quality_signals": {
@@ -363,136 +1281,15 @@
         "source_class": "official_guidance"
       }
     },
-    "cite_276ef753-8bf0-44df-8da4-778d703c31fa": {
-      "source_ref": "cite_276ef753-8bf0-44df-8da4-778d703c31fa",
-      "url": "https://www.cooleygo.com/what-is-a-drag-along/",
-      "source_type": "law_firm_commentary",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "firm_article"
-      }
-    },
-    "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f": {
-      "source_ref": "cite_3d8bfe3e-1e6f-4c9a-b243-97f4058b1a0f",
-      "url": "https://www.cooleygo.com/what-is-a-disclosure-schedule-and-why-do-i-need-to-prepare-one/",
-      "source_type": "law_firm_commentary",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": false,
-        "topic_match": true,
-        "source_class": "firm_article"
-      }
-    },
-    "cite_35580cae-b796-4761-bf2f-7ca95686c1c5": {
-      "source_ref": "cite_35580cae-b796-4761-bf2f-7ca95686c1c5",
-      "url": "https://www.ycombinator.com/documents",
-      "source_type": "other",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": false,
-        "topic_match": true,
-        "source_class": "official_guidance"
-      }
-    },
-    "cite_5747d905-71c4-4b66-b6b2-41d4cc55029d": {
-      "source_ref": "cite_5747d905-71c4-4b66-b6b2-41d4cc55029d",
-      "url": "https://delcode.delaware.gov/title8/c001/sc10/index.html",
+    "cite_5da1edaf-1356-4497-bba9-e3db327a5545": {
+      "source_ref": "cite_5da1edaf-1356-4497-bba9-e3db327a5545",
+      "url": "https://delcode.delaware.gov/title8/c001/sc09/index.html",
       "source_type": "statute",
       "status": "accepted",
       "quality_signals": {
         "jurisdiction_match": true,
         "topic_match": true,
         "source_class": "statute"
-      }
-    },
-    "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48": {
-      "source_ref": "cite_9c4d12f0-d2c9-46b8-bf57-59e2d6971f48",
-      "url": "https://www.srsacquiom.com/our-insights/deal-terms-study/",
-      "source_type": "other",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": false,
-        "topic_match": true,
-        "source_class": "official_guidance"
-      }
-    },
-    "cite_eed385cd-4bf0-4c56-bdec-20564b11275c": {
-      "source_ref": "cite_eed385cd-4bf0-4c56-bdec-20564b11275c",
-      "url": "https://www.law.cornell.edu/uscode/text/17/204",
-      "source_type": "statute",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "statute"
-      }
-    },
-    "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b": {
-      "source_ref": "cite_0993a1c0-c6a4-4ee2-9b32-67745c986e6b",
-      "url": "https://businesslawtoday.org/2026/04/announcing-model-short-stock-purchase-agreement-us-version/",
-      "source_type": "scholarship",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": false,
-        "topic_match": true,
-        "source_class": "official_guidance"
-      }
-    },
-    "cite_2a018b66-6589-45d7-845d-b091d8b11884": {
-      "source_ref": "cite_2a018b66-6589-45d7-845d-b091d8b11884",
-      "url": "https://www.davispolk.com/insights/client-update/navigating-generative-ai-m-transactions",
-      "source_type": "law_firm_commentary",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": false,
-        "topic_match": true,
-        "source_class": "firm_article"
-      }
-    },
-    "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d": {
-      "source_ref": "cite_295fc761-1908-4708-9c6f-f7438e6f1e7d",
-      "url": "https://delcode.delaware.gov/title8/c001/sc06/index.html",
-      "source_type": "statute",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "statute"
-      }
-    },
-    "cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7": {
-      "source_ref": "cite_a9266ab0-76b7-4cc6-9559-f649d93bc3e7",
-      "url": "https://delcode.delaware.gov/title8/c001/sc07/index.html",
-      "source_type": "statute",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "statute"
-      }
-    },
-    "cite_c54253ca-5683-4ddd-b983-98b82e770b54": {
-      "source_ref": "cite_c54253ca-5683-4ddd-b983-98b82e770b54",
-      "url": "https://www.law.cornell.edu/uscode/text/35/261",
-      "source_type": "statute",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "statute"
-      }
-    },
-    "cite_f288cd43-7b0b-4eea-9695-01ebf5739835": {
-      "source_ref": "cite_f288cd43-7b0b-4eea-9695-01ebf5739835",
-      "url": "https://nvca.org/model-legal-documents/",
-      "source_type": "trade_association",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": false,
-        "topic_match": true,
-        "source_class": "official_guidance"
       }
     }
   },

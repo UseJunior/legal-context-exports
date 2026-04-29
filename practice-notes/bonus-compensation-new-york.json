@@ -1,82 +1,82 @@
 {
-  "executive_summary": "In New York, a bonus dispute usually turns on classification, not label. The central question is whether the payment is discretionary incentive compensation outside Labor Law article 6,[[CITE:cite_785f2e93-9bb4-4b44-af6d-2adacb481db3]] or earned, vested, non-discretionary compensation tied to the employee's own labor or services.[[CITE:cite_a2686ce9-192a-464f-9163-1dae9e59337a]] If it is the latter, New York courts treat it as wages, which brings section 193 non-deduction rules and section 198 remedies into play.[[CITE:cite_75e129b4-d019-4cec-86af-22ec4ea7a70b]]\n\nThe main control surface is the plan. Courts repeatedly ask who controls entitlement and amount, whether the payment depends on individual productivity or enterprise success,[[CITE:cite_703ce749-75b6-403c-b14b-7d2fb852dd7b]] what event makes the bonus earned,[[CITE:cite_06c0911e-20a5-46a4-8cf8-ecd454185668]] and whether a continued-employment clause defines when the compensation is earned or instead operates as a forfeiture of pay already earned.[[CITE:cite_b21d5ddc-1efc-4589-a059-e70752cc423c]] The practical result is that New York bonus law is really a drafting-and-administration problem built on a stable doctrinal spine.",
-  "firm_consensus": "The strongest public sources and the selected firm commentary align on the same core point: New York does not treat every \"bonus\" alike. Orrick's Ryan write-up emphasizes that properly drafted discretionary bonus policies still work in New York, but only where the employer truly retained discretion and the bonus had not vested.[[CITE:cite_f63ad33a-7564-4513-8ac2-24bfae82f321]] RPJ's William Mattar note, like the case itself, treats a formulaic, earned, fee-based bonus very differently from a discretionary bonus because once the compensation is earned wages, a current-employment condition can fail as a matter of public policy.[[CITE:cite_d3e3c8b9-47e6-48f2-ada3-ea2d9e55c4e5]] Proskauer's 2021 discussion adds the remedies overlay, explaining that New York's statutory amendments were aimed at making total nonpayment of allegedly owed wages and wage supplements actionable under sections 193 and 198 as well.[[CITE:cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e]]\n\nThat consensus maps cleanly onto the primary authorities. Truelove[[CITE:cite_785f2e93-9bb4-4b44-af6d-2adacb481db3]] remains the leading statement that discretionary, firm-success-linked incentive compensation is generally not wages. Ryan[[CITE:cite_a2686ce9-192a-464f-9163-1dae9e59337a]] remains the leading Court of Appeals statement that a bonus expressly linked to services, and guaranteed and non-discretionary as a term of employment, can be wages. Kolchins,[[CITE:cite_06c0911e-20a5-46a4-8cf8-ecd454185668]] Doolittle,[[CITE:cite_703ce749-75b6-403c-b14b-7d2fb852dd7b]] Gutt,[[CITE:cite_6aa077ce-0494-4e42-86d2-9d62a0aee689]] and William Mattar[[CITE:cite_b21d5ddc-1efc-4589-a059-e70752cc423c]] all operate inside that same framework rather than displacing it.",
-  "firm_differences": "The differences are mostly about emphasis, not doctrine. Orrick reads Ryan as a drafting lesson for employers: if the business wants discretion, the documents must actually reserve it, and at-will language by itself is not enough.[[CITE:cite_f63ad33a-7564-4513-8ac2-24bfae82f321]] Proskauer focuses on litigation posture and exposure after the 2021 amendments, especially the move away from the old argument that only a partial line-item deduction could trigger section 193.[[CITE:cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e]] RPJ focuses on post-termination payout restrictions, using William Mattar to stress that a still-employed-on-the-payment-date requirement is not a safe back-end protection once the bonus is already earned and nondiscretionary.[[CITE:cite_d3e3c8b9-47e6-48f2-ada3-ea2d9e55c4e5]]\n\nThat split in emphasis is useful for maintenance. It suggests the canonical page should stay narrow and doctrine-first, while recent-change monitoring should watch three distinct buckets: classification cases, post-termination forfeiture cases, and statutory or DOL developments affecting remedies or claim channels.",
+  "executive_summary": "In New York, a bonus dispute usually turns on classification, not label. The central question is whether the payment is discretionary incentive compensation outside Labor Law article 6,[[FN:fn_94cc7332-8413-4476-ae11-e0143cc07506]] or earned, vested, non-discretionary compensation tied to the employee's own labor or services.[[FN:fn_7afb3ad8-c51f-498b-a6c5-8f315aace82b]] If it is the latter, New York courts treat it as wages, which brings section 193 non-deduction rules and section 198 remedies into play.[[FN:fn_451e112f-9a76-4384-a048-ed09d0ac2730]]\n\nThe main control surface is the plan. Courts repeatedly ask who controls entitlement and amount, whether the payment depends on individual productivity or enterprise success,[[FN:fn_97ea7786-f586-41f0-a563-5e33820a41d1]] what event makes the bonus earned,[[FN:fn_156abdf9-c0b0-4784-a374-7d863486cdd8]] and whether a continued-employment clause defines when the compensation is earned or instead operates as a forfeiture of pay already earned.[[FN:fn_e2cd5573-1cc1-4cce-83eb-32a8b46058c0]] The practical result is that New York bonus law is really a drafting-and-administration problem built on a stable doctrinal spine.",
+  "firm_consensus": "The strongest public sources and the selected firm commentary align on the same core point: New York does not treat every \"bonus\" alike. Orrick's Ryan write-up emphasizes that properly drafted discretionary bonus policies still work in New York, but only where the employer truly retained discretion and the bonus had not vested.[[FN:fn_c3d7b87d-ff1c-4ef3-8ca7-c807ce3cd6ad]] RPJ's William Mattar note, like the case itself, treats a formulaic, earned, fee-based bonus very differently from a discretionary bonus because once the compensation is earned wages, a current-employment condition can fail as a matter of public policy.[[FN:fn_12125946-1d7a-407e-9848-3a5d43a65d64]] Proskauer's 2021 discussion adds the remedies overlay, explaining that New York's statutory amendments were aimed at making total nonpayment of allegedly owed wages and wage supplements actionable under sections 193 and 198 as well.[[FN:fn_15c7168a-57ae-4e57-a29b-24909d7637c4]]\n\nThat consensus maps cleanly onto the primary authorities. Truelove[[FN:fn_eb94608d-18f1-4cc5-89be-bc6fa4b704b2]] remains the leading statement that discretionary, firm-success-linked incentive compensation is generally not wages. Ryan[[FN:fn_b4e522af-111b-41d0-95b1-0405b680207f]] remains the leading Court of Appeals statement that a bonus expressly linked to services, and guaranteed and non-discretionary as a term of employment, can be wages. Kolchins,[[FN:fn_0b77d5da-6623-4d19-848b-df28264305f1]] Doolittle,[[FN:fn_48336dcd-9d6f-44ed-b4b9-588a38839b98]] Gutt,[[FN:fn_44845cf0-7a7e-4b82-b913-932bef547cb9]] and William Mattar[[FN:fn_6240c3b6-1a53-49dc-8c98-2742178d28c8]] all operate inside that same framework rather than displacing it.",
+  "firm_differences": "The differences are mostly about emphasis, not doctrine. Orrick reads Ryan as a drafting lesson for employers: if the business wants discretion, the documents must actually reserve it, and at-will language by itself is not enough.[[FN:fn_741f6f22-ecfc-425f-82f8-2965f97d9fe4]] Proskauer focuses on litigation posture and exposure after the 2021 amendments, especially the move away from the old argument that only a partial line-item deduction could trigger section 193.[[FN:fn_d70f005c-d5e7-404b-a40d-44b40242afcb]] RPJ focuses on post-termination payout restrictions, using William Mattar to stress that a still-employed-on-the-payment-date requirement is not a safe back-end protection once the bonus is already earned and nondiscretionary.[[FN:fn_ff53f7ab-ac6e-4c30-836c-8059836fea1d]]\n\nThat split in emphasis is useful for maintenance. It suggests the canonical page should stay narrow and doctrine-first, while recent-change monitoring should watch three distinct buckets: classification cases, post-termination forfeiture cases, and statutory or DOL developments affecting remedies or claim channels.",
   "recent_developments": [
     {
       "date": "2025-05-02",
-      "event": "In Matter of William Mattar, P.C. v Riley, the Fourth Department held that an earned, fee-based, nondiscretionary bonus was wages, that failure to pay it violated section 193, and that a current-employee restriction could be void as against public policy.[[CITE:cite_b21d5ddc-1efc-4589-a059-e70752cc423c]]"
+      "event": "In Matter of William Mattar, P.C. v Riley, the Fourth Department held that an earned, fee-based, nondiscretionary bonus was wages, that failure to pay it violated section 193, and that a current-employee restriction could be void as against public policy.[[FN:fn_8a04a2ed-a4a4-449a-bc39-d275a706ca9e]]"
     },
     {
       "date": "2025-04-23",
-      "event": "In Gutt v North Am. Partners in Anesthesia, LLP, the Second Department held that bonus claims can still present triable issues where the bonus is tied in part to a revenue pool and the documents are ambiguous about discretion and implementation.[[CITE:cite_6aa077ce-0494-4e42-86d2-9d62a0aee689]]"
+      "event": "In Gutt v North Am. Partners in Anesthesia, LLP, the Second Department held that bonus claims can still present triable issues where the bonus is tied in part to a revenue pool and the documents are ambiguous about discretion and implementation.[[FN:fn_ecd5e7b0-126d-4455-bc9d-8b5ad45fd9b9]]"
     },
     {
       "date": "2024-03-13",
-      "event": "The New York Department of Labor raised the executive, administrative, and professional employee threshold for wage-supplement claims from $900 to $1,300 per week,[[CITE:cite_88cf957b-813c-4429-952b-5a792819cde9]] which matters for agency complaint routes even though it does not erase contract or court remedies generally.[[CITE:cite_ce90fb8d-cf11-4293-b543-6b2847986de5]]"
+      "event": "The New York Department of Labor raised the executive, administrative, and professional employee threshold for wage-supplement claims from $900 to $1,300 per week,[[FN:fn_fccf61fa-42c5-49f2-9eee-892f86466e9b]] which matters for agency complaint routes even though it does not erase contract or court remedies generally.[[FN:fn_476d2c50-d352-41f4-97fe-6f9e00677c31]]"
     },
     {
       "date": "2021-08-20",
-      "event": "New York enacted the No Wage Theft Loophole Act,[[CITE:cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e]] adding matching language to sections 193[[CITE:cite_2d974e31-419e-4f96-8418-0e31ce86a858]] and 198[[CITE:cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe]] that there is no exception to liability for the unauthorized failure to pay wages, benefits, or wage supplements."
+      "event": "New York enacted the No Wage Theft Loophole Act,[[FN:fn_0957c3c7-8a8c-476e-89ae-cd91007dc493]] adding matching language to sections 193[[FN:fn_1ec61ab1-bfae-4ad5-b0d4-0471e96ef044]] and 198[[FN:fn_7e57cb72-f4ac-4b91-98ae-c0018cb2f169]] that there is no exception to liability for the unauthorized failure to pay wages, benefits, or wage supplements."
     }
   ],
   "questions": [
     {
       "id": "qa_c85b7592-c33a-44a4-917b-8a3a87b78ed3",
       "question": "What counts as \"wages\" for a New York bonus dispute?",
-      "answer": "New York Labor Law section 190 defines wages broadly as earnings for labor or services rendered, whether determined on a time, piece, commission, or other basis, and it also includes benefits or wage supplements for some article 6 purposes.[[CITE:cite_75e129b4-d019-4cec-86af-22ec4ea7a70b]] But bonus cases make clear that the broad definition still does not sweep in every incentive payment. The Court of Appeals in Truelove held that discretionary additional remuneration tied to the employer's financial success and allocated in the employer's sole discretion was outside article 6 wage protection.[[CITE:cite_785f2e93-9bb4-4b44-af6d-2adacb481db3]] By contrast, Ryan held that a bonus expressly linked to the employee's own services, and guaranteed and non-discretionary as a term of employment, could be wages.[[CITE:cite_a2686ce9-192a-464f-9163-1dae9e59337a]]\n\nThe working rule for a maintained explainer should therefore be functional: a \"bonus\" can be wages if it behaves like compensation for the employee's own work and the employee has already satisfied the earning conditions. A \"bonus\" is less likely to be wages if it functions like a profit-sharing or retention incentive where the employer keeps meaningful discretion over whether anything is owed and how much is owed."
+      "answer": "New York Labor Law section 190 defines wages broadly as earnings for labor or services rendered, whether determined on a time, piece, commission, or other basis, and it also includes benefits or wage supplements for some article 6 purposes.[[FN:fn_a1a6dbd5-f35e-4088-a7ca-9850a1ee72b9]] But bonus cases make clear that the broad definition still does not sweep in every incentive payment. The Court of Appeals in Truelove held that discretionary additional remuneration tied to the employer's financial success and allocated in the employer's sole discretion was outside article 6 wage protection.[[FN:fn_f67aa80b-5b4a-4925-9eaa-68bcd7074ea5]] By contrast, Ryan held that a bonus expressly linked to the employee's own services, and guaranteed and non-discretionary as a term of employment, could be wages.[[FN:fn_f6516ebd-06d2-4976-ab53-550c47039349]]\n\nThe working rule for a maintained explainer should therefore be functional: a \"bonus\" can be wages if it behaves like compensation for the employee's own work and the employee has already satisfied the earning conditions. A \"bonus\" is less likely to be wages if it functions like a profit-sharing or retention incentive where the employer keeps meaningful discretion over whether anything is owed and how much is owed."
     },
     {
       "id": "qa_68a7a048-e4dc-4bef-bc15-841dcf6ca1f0",
       "question": "What is the core New York rule distinguishing discretionary bonuses from earned bonuses?",
-      "answer": "Truelove and Ryan remain the cleanest pairing. Truelove[[CITE:cite_785f2e93-9bb4-4b44-af6d-2adacb481db3]] says compensation that depends on employer success and stays discretionary is not wages. Ryan[[CITE:cite_a2686ce9-192a-464f-9163-1dae9e59337a]] says compensation becomes wages where it is expressly linked to labor or services personally rendered and is guaranteed and non-discretionary. Later cases do not replace that contrast; they apply it to harder fact patterns.\n\nFor practical drafting and review, the key variables are:\n\n- whether the plan gives the employer discretion over entitlement, amount, or both\n- whether the payment formula tracks individual productivity, generated fees, or a defined threshold\n- whether the payment depends on the firm's overall profitability or another enterprise-level metric\n- whether the employee has already completed the services required to earn the payment\n\nIf those variables point toward vested compensation for completed services, New York courts are more willing to treat the payment as wages.[[CITE:cite_703ce749-75b6-403c-b14b-7d2fb852dd7b]][[CITE:cite_6aa077ce-0494-4e42-86d2-9d62a0aee689]] If they point toward discretionary incentive compensation, the claim is much weaker under article 6.[[CITE:cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475]]"
+      "answer": "Truelove and Ryan remain the cleanest pairing. Truelove[[FN:fn_758a4761-c929-4d50-a3fb-a5a3d5fd464d]] says compensation that depends on employer success and stays discretionary is not wages. Ryan[[FN:fn_ee485ee5-42e3-4d04-9ae2-aff2eebbb602]] says compensation becomes wages where it is expressly linked to labor or services personally rendered and is guaranteed and non-discretionary. Later cases do not replace that contrast; they apply it to harder fact patterns.\n\nFor practical drafting and review, the key variables are:\n\n- whether the plan gives the employer discretion over entitlement, amount, or both\n- whether the payment formula tracks individual productivity, generated fees, or a defined threshold\n- whether the payment depends on the firm's overall profitability or another enterprise-level metric\n- whether the employee has already completed the services required to earn the payment\n\nIf those variables point toward vested compensation for completed services, New York courts are more willing to treat the payment as wages.[[FN:fn_de8759c7-3d19-477c-b438-0775549f683b]][[FN:fn_76e3e649-27b0-4155-af0f-267f964f6e6d]] If they point toward discretionary incentive compensation, the claim is much weaker under article 6.[[FN:fn_a771a23a-110b-47d4-842c-72a5b0e09d7c]]"
     },
     {
       "id": "qa_dcdebd22-6337-4a2d-8e2b-baaf2091a73f",
       "question": "When does a bonus become earned or vested in New York?",
-      "answer": "The safest answer is that the plan controls unless the plan tries to withhold pay that New York law would treat as already earned wages. Ryan[[CITE:cite_a2686ce9-192a-464f-9163-1dae9e59337a]] is the clearest Court of Appeals example that later payment timing does not by itself stop a bonus from being wages once it has already been earned and vested. Kolchins[[CITE:cite_06c0911e-20a5-46a4-8cf8-ecd454185668]] then sharpened the same point by refusing to treat a payout-date employment condition as dispositive where the production bonus may already have been earned wages.\n\nFor commission-like compensation, the Department of Labor's commission FAQ is especially useful because it states that a commission is earned at the time specified in the written agreement and, once earned, is legally considered wages.[[CITE:cite_7bd8b091-ac46-40c1-8a21-c174efdf5883]] That makes agreement drafting on the earning event critical. The same logic carries over to bonus plans that look commission-like in operation even if they use the word \"bonus\"."
+      "answer": "The safest answer is that the plan controls unless the plan tries to withhold pay that New York law would treat as already earned wages. Ryan[[FN:fn_a3790312-40bc-4bf5-ae03-0f71a46ea27a]] is the clearest Court of Appeals example that later payment timing does not by itself stop a bonus from being wages once it has already been earned and vested. Kolchins[[FN:fn_9bfbdb64-fbcf-404e-83f8-db5f0efe3d45]] then sharpened the same point by refusing to treat a payout-date employment condition as dispositive where the production bonus may already have been earned wages.\n\nFor commission-like compensation, the Department of Labor's commission FAQ is especially useful because it states that a commission is earned at the time specified in the written agreement and, once earned, is legally considered wages.[[FN:fn_85cc79ba-e179-4c5c-bb4e-6c39ae5b9986]] That makes agreement drafting on the earning event critical. The same logic carries over to bonus plans that look commission-like in operation even if they use the word \"bonus\"."
     },
     {
       "id": "qa_d5e6f4b9-0db3-4c9d-aafc-db1d89a7f867",
       "question": "Can an employer require the employee to still be employed on the payout date?",
-      "answer": "Sometimes yes, but not as a universal rule. Truelove[[CITE:cite_785f2e93-9bb4-4b44-af6d-2adacb481db3]] allows continued-employment conditions where the payment is still discretionary incentive compensation outside article 6. Kolchins[[CITE:cite_06c0911e-20a5-46a4-8cf8-ecd454185668]] and William Mattar[[CITE:cite_b21d5ddc-1efc-4589-a059-e70752cc423c]] show the other side of the line: where compensation may already be earned wages, a current-employment condition can operate as an unlawful forfeiture and may be void as against public policy.\n\nThe practical question is whether the continued-employment requirement is part of the definition of what must happen before the payment is earned, or whether it is really just a forfeiture mechanism attached to compensation already earned through completed work. William Mattar[[CITE:cite_b21d5ddc-1efc-4589-a059-e70752cc423c]] is particularly important because it applies that public-policy analysis to a fee-based bonus agreement in a modern, operationally realistic setting.[[CITE:cite_d3e3c8b9-47e6-48f2-ada3-ea2d9e55c4e5]]"
+      "answer": "Sometimes yes, but not as a universal rule. Truelove[[FN:fn_b286431f-28d9-4049-a8af-d4b4fd9bb584]] allows continued-employment conditions where the payment is still discretionary incentive compensation outside article 6. Kolchins[[FN:fn_7822242c-cf73-4136-bef1-ac10fed1bd8a]] and William Mattar[[FN:fn_dd3b9654-942b-4285-a84e-15d3c3cfc72d]] show the other side of the line: where compensation may already be earned wages, a current-employment condition can operate as an unlawful forfeiture and may be void as against public policy.\n\nThe practical question is whether the continued-employment requirement is part of the definition of what must happen before the payment is earned, or whether it is really just a forfeiture mechanism attached to compensation already earned through completed work. William Mattar[[FN:fn_67815f76-3c55-47a6-9338-936822b59df1]] is particularly important because it applies that public-policy analysis to a fee-based bonus agreement in a modern, operationally realistic setting.[[FN:fn_db56baf8-da11-476c-aa6d-d23b4555adde]]"
     },
     {
       "id": "qa_6cc24512-b6e7-4226-a700-149e0547422a",
       "question": "What plan language best supports that a bonus is discretionary?",
-      "answer": "Two features matter most: explicit discretion and a structure that does not make the payment look like earned compensation for a defined unit of work. Hunter[[CITE:cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475]] is a clean example that unambiguous contractual language making bonus awards solely and completely discretionary can defeat bonus claims. Orrick reads Ryan the same way from the drafting side: general at-will language is not enough, but real discretion language can still preserve a discretionary bonus regime.[[CITE:cite_f63ad33a-7564-4513-8ac2-24bfae82f321]]\n\nDoolittle[[CITE:cite_703ce749-75b6-403c-b14b-7d2fb852dd7b]] is the important warning case on the other side. The Fourth Department said that unless an employer clearly indicates that bonuses are discretionary, the question whether unpaid incentive compensation is a discretionary bonus or earned wages not subject to forfeiture can remain a fact issue. A maintained note should therefore treat explicit discretion over entitlement and amount as a core drafting principle, not a stylistic preference."
+      "answer": "Two features matter most: explicit discretion and a structure that does not make the payment look like earned compensation for a defined unit of work. Hunter[[FN:fn_ba2b8e2b-05e6-4736-9528-f5b0ddbb90ab]] is a clean example that unambiguous contractual language making bonus awards solely and completely discretionary can defeat bonus claims. Orrick reads Ryan the same way from the drafting side: general at-will language is not enough, but real discretion language can still preserve a discretionary bonus regime.[[FN:fn_213debd5-72d1-40ee-985b-6a1828e93c7e]]\n\nDoolittle[[FN:fn_bfa7bccc-3de8-4dd9-9350-00eaf1e733f0]] is the important warning case on the other side. The Fourth Department said that unless an employer clearly indicates that bonuses are discretionary, the question whether unpaid incentive compensation is a discretionary bonus or earned wages not subject to forfeiture can remain a fact issue. A maintained note should therefore treat explicit discretion over entitlement and amount as a core drafting principle, not a stylistic preference."
     },
     {
       "id": "qa_fdc27d2c-a945-48d5-b4b0-1e2e1e2d9245",
       "question": "What features tend to push a bonus toward wages?",
-      "answer": "Features that make the payment look mandatory, formulaic, and directly tied to the employee's own productivity push hardest toward wage status. Ryan[[CITE:cite_a2686ce9-192a-464f-9163-1dae9e59337a]] involved an oral but allegedly guaranteed bonus tied to the employee's work. William Mattar[[CITE:cite_b21d5ddc-1efc-4589-a059-e70752cc423c]] involved bonus compensation calculated from actual gross receipts attributable to fees the employee generated. Gutt[[CITE:cite_6aa077ce-0494-4e42-86d2-9d62a0aee689]] shows that even where a bonus pool has some profit-participation flavor, the wage question can remain live if the payment is tied in part to the employee's own revenue pool and the documents do not conclusively establish true discretion.\n\nOperationally, the risk signals are:\n\n- a fixed amount or fixed percentage\n- a threshold-based formula\n- payment measured by generated fees, sales, or collected revenue\n- language saying the employee \"shall\" receive the payment upon specified performance\n- weak or missing reservation of employer discretion\n\nThose signals do not make liability automatic, but they move the dispute toward the Ryan/Kolchins/William Mattar side of the line."
+      "answer": "Features that make the payment look mandatory, formulaic, and directly tied to the employee's own productivity push hardest toward wage status. Ryan[[FN:fn_6ee1307f-c48c-424d-9094-5e4640ef3fbe]] involved an oral but allegedly guaranteed bonus tied to the employee's work. William Mattar[[FN:fn_f88c1d35-9b97-49af-bec2-35f6fa31d297]] involved bonus compensation calculated from actual gross receipts attributable to fees the employee generated. Gutt[[FN:fn_32744186-4ae8-4488-89dd-631e8f52ba6e]] shows that even where a bonus pool has some profit-participation flavor, the wage question can remain live if the payment is tied in part to the employee's own revenue pool and the documents do not conclusively establish true discretion.\n\nOperationally, the risk signals are:\n\n- a fixed amount or fixed percentage\n- a threshold-based formula\n- payment measured by generated fees, sales, or collected revenue\n- language saying the employee \"shall\" receive the payment upon specified performance\n- weak or missing reservation of employer discretion\n\nThose signals do not make liability automatic, but they move the dispute toward the Ryan/Kolchins/William Mattar side of the line."
     },
     {
       "id": "qa_afcbb86a-0947-49a7-a810-0aadf4f05b5e",
       "question": "How does New York handle the commission-vs-bonus boundary?",
-      "answer": "The Department of Labor's commission FAQ[[CITE:cite_7bd8b091-ac46-40c1-8a21-c174efdf5883]] gives a practical rule that is better than most generic bonus explainers. A true bonus exists where both the fact and amount of payment are wholly at the employer's discretion. If the employee is led to believe that hitting a stated level of orders or sales produces a stated amount of compensation, the DOL treats that as a commission instead. Once a commission is earned under the written agreement, it is wages and must be paid even after the employment relationship ends.[[CITE:cite_75e129b4-d019-4cec-86af-22ec4ea7a70b]]\n\nThat boundary matters because many New York \"bonus\" disputes are really disputes about commission-like compensation or fee-based incentive pay. A page that does not call out that classification risk will miss a recurring source of drafting error."
+      "answer": "The Department of Labor's commission FAQ[[FN:fn_88a3ca19-d86e-486b-8197-1eefc2066e77]] gives a practical rule that is better than most generic bonus explainers. A true bonus exists where both the fact and amount of payment are wholly at the employer's discretion. If the employee is led to believe that hitting a stated level of orders or sales produces a stated amount of compensation, the DOL treats that as a commission instead. Once a commission is earned under the written agreement, it is wages and must be paid even after the employment relationship ends.[[FN:fn_fa49f1b7-a7fc-4787-8492-a7c9c3e98a08]]\n\nThat boundary matters because many New York \"bonus\" disputes are really disputes about commission-like compensation or fee-based incentive pay. A page that does not call out that classification risk will miss a recurring source of drafting error."
     },
     {
       "id": "qa_981f4bd2-c582-4750-809c-e7d6dab5c40c",
       "question": "What remedies drive risk if an earned bonus is withheld?",
-      "answer": "If the disputed compensation is wages, section 193's non-deduction rule[[CITE:cite_2d974e31-419e-4f96-8418-0e31ce86a858]] and section 198's remedy provisions matter immediately. Section 198 provides for recovery of the underpayment, attorney's fees, prejudgment interest, and liquidated damages, and it preserves a six-year lookback for wages, benefits, and wage supplements.[[CITE:cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe]] After the 2021 amendments, both sections 193 and 198 now say there is no exception to liability for the unauthorized failure to pay wages, benefits, or wage supplements.\n\nProskauer's discussion is useful here because it isolates the post-2021 practical change: plaintiffs can frame some total-nonpayment disputes, including bonus disputes, as section 193 claims rather than being limited to the older \"partial deduction only\" view.[[CITE:cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e]] That raises the leverage of classification fights because once the payment is treated as wages, fees and liquidated-damages exposure come with it."
+      "answer": "If the disputed compensation is wages, section 193's non-deduction rule[[FN:fn_a1aad583-18e0-4abd-aaf7-0e78c97b9e4f]] and section 198's remedy provisions matter immediately. Section 198 provides for recovery of the underpayment, attorney's fees, prejudgment interest, and liquidated damages, and it preserves a six-year lookback for wages, benefits, and wage supplements.[[FN:fn_e83d8d02-e075-4d16-9472-9c9f42bdc586]] After the 2021 amendments, both sections 193 and 198 now say there is no exception to liability for the unauthorized failure to pay wages, benefits, or wage supplements.\n\nProskauer's discussion is useful here because it isolates the post-2021 practical change: plaintiffs can frame some total-nonpayment disputes, including bonus disputes, as section 193 claims rather than being limited to the older \"partial deduction only\" view.[[FN:fn_1de7452f-db6a-4270-bbf5-3bee7e401dc7]] That raises the leverage of classification fights because once the payment is treated as wages, fees and liquidated-damages exposure come with it."
     },
     {
       "id": "qa_632a0653-5d6f-430a-818a-a1fe32bc0977",
       "question": "Can a bonus claim be taken to the New York Department of Labor?",
-      "answer": "Sometimes. The Department's wage-supplement page says it investigates unpaid wage-supplement claims where the employer promised, verbally or in writing, and failed to provide earned bonuses, but it will not accept commission claims from sales.[[CITE:cite_88cf957b-813c-4429-952b-5a792819cde9]] Labor Law section 198-c also limits wage-supplement claims for bona fide executive, administrative, or professional employees earning more than $1,300 per week, effective March 13, 2024.[[CITE:cite_ce90fb8d-cf11-4293-b543-6b2847986de5]]\n\nThat means the DOL route is useful but not universal. A maintained note should treat the DOL materials as practical enforcement guidance, not as the entire law of bonus recovery."
+      "answer": "Sometimes. The Department's wage-supplement page says it investigates unpaid wage-supplement claims where the employer promised, verbally or in writing, and failed to provide earned bonuses, but it will not accept commission claims from sales.[[FN:fn_29ebbd81-a098-4f71-bb36-55fb52cb7b61]] Labor Law section 198-c also limits wage-supplement claims for bona fide executive, administrative, or professional employees earning more than $1,300 per week, effective March 13, 2024.[[FN:fn_c22a2f58-e907-4a9f-b995-782b73cf3cd5]]\n\nThat means the DOL route is useful but not universal. A maintained note should treat the DOL materials as practical enforcement guidance, not as the entire law of bonus recovery."
     },
     {
       "id": "qa_7b2e4f15-51f6-4f99-8066-93b52efaf893",
       "question": "What should employers and reviewers define first in a New York bonus plan?",
-      "answer": "Start with five items:\n\n- whether the employer retains discretion over entitlement, amount, or both\n- what precise event makes the payment earned\n- whether the payment is tied to individual productivity, firm performance, or both\n- how separation before payout is handled, and whether that clause is defining earning or attempting forfeiture\n- whether any commission-like compensation is being mislabeled as a bonus\n\nThe doctrinal through-line from Truelove[[CITE:cite_785f2e93-9bb4-4b44-af6d-2adacb481db3]] through Ryan,[[CITE:cite_a2686ce9-192a-464f-9163-1dae9e59337a]] Kolchins,[[CITE:cite_06c0911e-20a5-46a4-8cf8-ecd454185668]] and Doolittle[[CITE:cite_703ce749-75b6-403c-b14b-7d2fb852dd7b]] to William Mattar[[CITE:cite_b21d5ddc-1efc-4589-a059-e70752cc423c]] shows why those are the right questions. New York bonus law is much less mysterious when the documents make the classification decision obvious up front; it becomes expensive when the documents blur the line between discretionary incentives and earned compensation for completed work."
+      "answer": "Start with five items:\n\n- whether the employer retains discretion over entitlement, amount, or both\n- what precise event makes the payment earned\n- whether the payment is tied to individual productivity, firm performance, or both\n- how separation before payout is handled, and whether that clause is defining earning or attempting forfeiture\n- whether any commission-like compensation is being mislabeled as a bonus\n\nThe doctrinal through-line from Truelove[[FN:fn_40a63955-55b9-4ba4-820e-39da73d1c23e]] through Ryan,[[FN:fn_a6ba3455-0912-4c72-9e44-7198bf3600b4]] Kolchins,[[FN:fn_ffb65511-e874-4caf-a779-5e7659177407]] and Doolittle[[FN:fn_653ee932-c885-4f71-83b2-dc26841b1985]] to William Mattar[[FN:fn_12e35ae5-7de4-443c-bb80-c87fd0a72423]] shows why those are the right questions. New York bonus law is much less mysterious when the documents make the classification decision obvious up front; it becomes expensive when the documents blur the line between discretionary incentives and earned compensation for completed work."
     }
   ],
   "references": [
     {
       "id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
-      "name": "New York Court of Appeals",
-      "url": "https://law.justia.com/cases/new-york/court-of-appeals/2000/95-n-y-2d-220-0.html",
+      "name": "CourtListener (Free Law Project)",
+      "url": "https://www.courtlistener.com/opinion/1994822/truelove-v-northeast-capital-advisory-inc/",
       "source_type": "case_law",
       "title": "Truelove v Northeast Capital & Advisory, Inc.",
       "date": "2000-10-17"
@@ -115,8 +115,8 @@
     },
     {
       "id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
-      "name": "Appellate Division, Fourth Department",
-      "url": "https://law.justia.com/cases/new-york/appellate-division-fourth-department/2025/192-ca-24-00464.html",
+      "name": "CourtListener (Free Law Project)",
+      "url": "https://www.courtlistener.com/opinion/10579969/matter-of-william-mattar-pc-v-riley/",
       "source_type": "case_law",
       "title": "Matter of William Mattar, P.C. v Riley",
       "date": "2025-05-02"
@@ -187,7 +187,7 @@
     {
       "id": "cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475",
       "name": "Appellate Division, First Department",
-      "url": "https://law.justia.com/cases/new-york/appellate-division-first-department/2008/2008-08423.html",
+      "url": "https://www.nycourts.gov/REPORTER/3dseries/2008/2008_08423.htm",
       "source_type": "case_law",
       "title": "Hunter v Deutsche Bank AG, N.Y. Branch",
       "date": "2008-11-06"
@@ -219,8 +219,8 @@
     },
     "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3": {
       "id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
-      "name": "New York Court of Appeals",
-      "url": "https://law.justia.com/cases/new-york/court-of-appeals/2000/95-n-y-2d-220-0.html",
+      "name": "CourtListener (Free Law Project)",
+      "url": "https://www.courtlistener.com/opinion/1994822/truelove-v-northeast-capital-advisory-inc/",
       "source_type": "case_law",
       "title": "Truelove v Northeast Capital & Advisory, Inc.",
       "date": "2000-10-17"
@@ -243,8 +243,8 @@
     },
     "cite_b21d5ddc-1efc-4589-a059-e70752cc423c": {
       "id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
-      "name": "Appellate Division, Fourth Department",
-      "url": "https://law.justia.com/cases/new-york/appellate-division-fourth-department/2025/192-ca-24-00464.html",
+      "name": "CourtListener (Free Law Project)",
+      "url": "https://www.courtlistener.com/opinion/10579969/matter-of-william-mattar-pc-v-riley/",
       "source_type": "case_law",
       "title": "Matter of William Mattar, P.C. v Riley",
       "date": "2025-05-02"
@@ -315,7 +315,7 @@
     "cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475": {
       "id": "cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475",
       "name": "Appellate Division, First Department",
-      "url": "https://law.justia.com/cases/new-york/appellate-division-first-department/2008/2008-08423.html",
+      "url": "https://www.nycourts.gov/REPORTER/3dseries/2008/2008_08423.htm",
       "source_type": "case_law",
       "title": "Hunter v Deutsche Bank AG, N.Y. Branch",
       "date": "2008-11-06"
@@ -328,10 +328,745 @@
       "title": "Payment of Commissions Frequently Asked Questions (FAQ)"
     }
   },
+  "footnotes": {
+    "fn_94cc7332-8413-4476-ae11-e0143cc07506": {
+      "id": "fn_94cc7332-8413-4476-ae11-e0143cc07506",
+      "cite_id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that discretionary incentive compensation falls outside the protection of the statute",
+      "pull_quote": "Discretionary additional remuneration, as a share in a reward to all employees for the success of the employer’s entrepreneurship, falls outside the protection of the statute.",
+      "pull_quote_verified_at": "2026-04-29T18:46:05.668790+00:00",
+      "pull_quote_verified_hash": "6bad13484f210652bfb8bad702d06caae14815574000d14b6ecbaf10bb55aa24"
+    },
+    "fn_7afb3ad8-c51f-498b-a6c5-8f315aace82b": {
+      "id": "fn_7afb3ad8-c51f-498b-a6c5-8f315aace82b",
+      "cite_id": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a guaranteed, non-discretionary bonus linked to an employee's personal labor that is already earned and vested constitutes wages",
+      "pull_quote": "Ryan's bonus had been earned and was vested before he left his job at Kellogg; its payment was guaranteed and non-discretionary as a term and condition of his employment",
+      "pull_quote_verified_at": "2026-04-29T18:47:02.731946+00:00",
+      "pull_quote_verified_hash": "629a612e54e361cfa85827e4eba9eab88d2269358c60220229ea9d35e54a8c91"
+    },
+    "fn_451e112f-9a76-4384-a048-ed09d0ac2730": {
+      "id": "fn_451e112f-9a76-4384-a048-ed09d0ac2730",
+      "cite_id": "cite_75e129b4-d019-4cec-86af-22ec4ea7a70b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "defining wages as the earnings of an employee for labor or services rendered",
+      "pull_quote": "\"Wages\" means the earnings of an employee for labor or services rendered, regardless of whether the amount of earnings is determined on a time, piece, commission or other basis.",
+      "pull_quote_verified_at": "2026-04-29T18:49:04.308262+00:00",
+      "pull_quote_verified_hash": "2e75dc9d8e0d8ff8270e6889b7248dca9f5745c03ccdb326f3faccfc9e5183f2"
+    },
+    "fn_97ea7786-f586-41f0-a563-5e33820a41d1": {
+      "id": "fn_97ea7786-f586-41f0-a563-5e33820a41d1",
+      "cite_id": "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that an employee cannot recover unpaid bonus compensation if the plan vests the employer with absolute discretion over the entitlement and amount",
+      "pull_quote": "a plaintiff cannot recover under New York law for breach of contract due to his employer's failure to pay him compensation pursuant to a plan, where the plan vests the employer with absolute discretion as to the entitlement and amount of any payments thereunder",
+      "pull_quote_verified_at": "2026-04-29T18:49:32.135136+00:00",
+      "pull_quote_verified_hash": "2841bf59fce11b35db921cb7a2d63eb1656477fa9b77740709784d237cbaddef"
+    },
+    "fn_156abdf9-c0b0-4784-a374-7d863486cdd8": {
+      "id": "fn_156abdf9-c0b0-4784-a374-7d863486cdd8",
+      "cite_id": "cite_06c0911e-20a5-46a4-8cf8-ecd454185668",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "analyzing whether a production bonus was earned based on the plaintiff's performance during his final trimester rather than the timing of payment",
+      "pull_quote": "To the extent the production bonus was not discretionary and, instead, was based only on plaintiff's performance as a manager during his final trimester of employment—a question not conclusively answered by the language of the agreement—the bonus could constitute nonforfeitable \"wages.\"",
+      "pull_quote_verified_at": "2026-04-29T18:57:22.671100+00:00",
+      "pull_quote_verified_hash": "f7828d9443b4de70c0809035c4c01c6d2c4dc497928efc0da0cad29b355e7c56"
+    },
+    "fn_e2cd5573-1cc1-4cce-83eb-32a8b46058c0": {
+      "id": "fn_e2cd5573-1cc1-4cce-83eb-32a8b46058c0",
+      "cite_id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a provision restricting bonus payments to current employees was void as against public policy because the compensation constituted earned wages",
+      "pull_quote": "To the extent that the provisions of the relevant \"Bonus Eligibility\" agreement restricted payments of bonuses to current employees, such provisions are void as against public policy",
+      "pull_quote_verified_at": "2026-04-29T18:58:07.324101+00:00",
+      "pull_quote_verified_hash": "321a5174542f60d1c743085e967a334f6c5eac8f425863c504dc8c9f87575faa"
+    },
+    "fn_c3d7b87d-ff1c-4ef3-8ca7-c807ce3cd6ad": {
+      "id": "fn_c3d7b87d-ff1c-4ef3-8ca7-c807ce3cd6ad",
+      "cite_id": "cite_f63ad33a-7564-4513-8ac2-24bfae82f321",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that properly drafted discretionary bonus policies can defeat a bonus claim where the bonus remains unvested and discretionary",
+      "pull_quote": "Significantly, the Court of Appeals confirmed that properly drafted discretionary bonus policies could vitiate a bonus claim",
+      "pull_quote_verified_at": "2026-04-29T18:59:09.805961+00:00",
+      "pull_quote_verified_hash": "1cf9ddfa7303058c773268ddb4b266b28c31bb6f70af0036cc5ac52bd4a6d409"
+    },
+    "fn_12125946-1d7a-407e-9848-3a5d43a65d64": {
+      "id": "fn_12125946-1d7a-407e-9848-3a5d43a65d64",
+      "cite_id": "cite_d3e3c8b9-47e6-48f2-ada3-ea2d9e55c4e5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that restricting payment of a non-discretionary, formulaic bonus to current employees violates public policy",
+      "pull_quote": "It should be noted however, that the ruling pertains to non-discretionary bonuses, where either an amount or calculation formula has been agreed to ahead of time, instead of a discretionary bonus.",
+      "pull_quote_verified_at": "2026-04-29T18:59:31.148899+00:00",
+      "pull_quote_verified_hash": "8042ae763538d58849aae5667e290ca9884c9dc1a81bf56f38674248f7153107"
+    },
+    "fn_15c7168a-57ae-4e57-a29b-24909d7637c4": {
+      "id": "fn_15c7168a-57ae-4e57-a29b-24909d7637c4",
+      "cite_id": "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that the 2021 amendments clarified that employees can bring section 193 claims for the wholesale withholding of wages",
+      "pull_quote": "The Act was intended to clarify that employees can bring § 193 claims not only for unauthorized “line-item” deductions from wages but also for the wholesale withholding of wages alleged to be owed.",
+      "pull_quote_verified_at": "2026-04-29T19:00:10.745065+00:00",
+      "pull_quote_verified_hash": "2394108efde55ae43975639da0c2f579ee8b16d9bff59335e84b8ed1a08ab841"
+    },
+    "fn_eb94608d-18f1-4cc5-89be-bc6fa4b704b2": {
+      "id": "fn_eb94608d-18f1-4cc5-89be-bc6fa4b704b2",
+      "cite_id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that discretionary incentive compensation tied to the employer's overall financial success falls outside the statutory definition of wages",
+      "pull_quote": "Discretionary additional remuneration, as a share in a reward to all employees for the success of the employer’s entrepreneurship, falls outside the protection of the statute.",
+      "pull_quote_verified_at": "2026-04-29T18:46:10.944680+00:00",
+      "pull_quote_verified_hash": "6bad13484f210652bfb8bad702d06caae14815574000d14b6ecbaf10bb55aa24"
+    },
+    "fn_b4e522af-111b-41d0-95b1-0405b680207f": {
+      "id": "fn_b4e522af-111b-41d0-95b1-0405b680207f",
+      "cite_id": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a guaranteed, non-discretionary bonus expressly linked to an employee's labor or services personally rendered constitutes wages",
+      "pull_quote": "Unlike the situation in Truelove, Ryan's bonus was \"expressly link[ed]\" to his \"labor or services personally rendered\" (95 NY2d at 224); namely, his work as a floor broker for Kellogg. Further, Ryan's bonus had been earned and was vested before he left his job at Kellogg; its payment was guaranteed and non-discretionary as a term and condition of his employment",
+      "pull_quote_verified_at": "2026-04-29T18:47:28.155479+00:00",
+      "pull_quote_verified_hash": "ac1fb02ba974d08c8bfe479d54603766f5a836027ab904e1d06d8f61d3c382e6"
+    },
+    "fn_0b77d5da-6623-4d19-848b-df28264305f1": {
+      "id": "fn_0b77d5da-6623-4d19-848b-df28264305f1",
+      "cite_id": "cite_06c0911e-20a5-46a4-8cf8-ecd454185668",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "applying the established framework to hold that a production bonus could constitute nonforfeitable wages if based on personal productivity rather than employer discretion",
+      "pull_quote": "To the extent the production bonus was not discretionary and, instead, was based only on plaintiff's performance as a manager during his final trimester of employment—a question not conclusively answered by the language of the agreement—the bonus could constitute nonforfeitable \"wages.\"",
+      "pull_quote_verified_at": "2026-04-29T18:57:34.936190+00:00",
+      "pull_quote_verified_hash": "f7828d9443b4de70c0809035c4c01c6d2c4dc497928efc0da0cad29b355e7c56"
+    },
+    "fn_48336dcd-9d6f-44ed-b4b9-588a38839b98": {
+      "id": "fn_48336dcd-9d6f-44ed-b4b9-588a38839b98",
+      "cite_id": "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "applying the established framework to hold that the classification of unpaid incentive compensation as a discretionary bonus or earned wages is a question of fact",
+      "pull_quote": "the issue \"whether unpaid incentive compensation under a defendant's bonus plan constitutes a discretionary bonus or earned wages not subject to forfeiture is [one] of fact\"",
+      "pull_quote_verified_at": "2026-04-29T18:49:51.509784+00:00",
+      "pull_quote_verified_hash": "d170af5756ddc54f4746bb3960282b56b96906ebe083e92b07591fadebcc42b8"
+    },
+    "fn_44845cf0-7a7e-4b82-b913-932bef547cb9": {
+      "id": "fn_44845cf0-7a7e-4b82-b913-932bef547cb9",
+      "cite_id": "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "applying the framework established by Truelove and Ryan to determine whether a bonus tied to a revenue pool constituted wages",
+      "pull_quote": "Here, there are triable issues of fact as to whether the plaintiff's bonus, which was tied, in part, to the gross revenue of his specific assigned revenue pool, was expressly linked to his labor and services, and whether the bonus was discretionary or nondiscretionary.",
+      "pull_quote_verified_at": "2026-04-29T19:00:55.496139+00:00",
+      "pull_quote_verified_hash": "a7ac8e5bc9e9afbd6a481a9ccbb089836cfdd9739ae4dac8c6d950effbd3a7cd"
+    },
+    "fn_6240c3b6-1a53-49dc-8c98-2742178d28c8": {
+      "id": "fn_6240c3b6-1a53-49dc-8c98-2742178d28c8",
+      "cite_id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "applying the established framework to conclude that a fee-based bonus was vested and mandatory rather than discretionary",
+      "pull_quote": "There is no dispute that the additional compensation owed to respondent in connection with the relevant underlying fees constituted earned \"wages\" that were \"vested and mandatory as opposed to discretionary and forfeitable\"",
+      "pull_quote_verified_at": "2026-04-29T18:58:18.501024+00:00",
+      "pull_quote_verified_hash": "e5a88911995d98316578d85b94890a0cf4d4219bef45ff25e37fd32d5a84602c"
+    },
+    "fn_741f6f22-ecfc-425f-82f8-2965f97d9fe4": {
+      "id": "fn_741f6f22-ecfc-425f-82f8-2965f97d9fe4",
+      "cite_id": "cite_f63ad33a-7564-4513-8ac2-24bfae82f321",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that properly drafted discretionary bonus policies can defeat a claim, but general at-will statements are insufficient",
+      "pull_quote": "Significantly, the Court of Appeals confirmed that properly drafted discretionary bonus policies could vitiate a bonus claim, but that the at-will statements in the employment application and handbook that Kellogg was relying upon simply did not meet the standard.",
+      "pull_quote_verified_at": "2026-04-29T18:59:15.315323+00:00",
+      "pull_quote_verified_hash": "de95bf56e38af1c2e04adeba51c1de7e354e05c2b60cd4cab88e6ce94b415608"
+    },
+    "fn_d70f005c-d5e7-404b-a40d-44b40242afcb": {
+      "id": "fn_d70f005c-d5e7-404b-a40d-44b40242afcb",
+      "cite_id": "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that the 2021 amendments clarified that section 193 claims apply to wholesale withholding of wages, not just partial line-item deductions",
+      "pull_quote": "The Act was intended to clarify that employees can bring § 193 claims not only for unauthorized “line-item” deductions from wages but also for the wholesale withholding of wages alleged to be owed.",
+      "pull_quote_verified_at": "2026-04-29T19:00:26.948717+00:00",
+      "pull_quote_verified_hash": "2394108efde55ae43975639da0c2f579ee8b16d9bff59335e84b8ed1a08ab841"
+    },
+    "fn_ff53f7ab-ac6e-4c30-836c-8059836fea1d": {
+      "id": "fn_ff53f7ab-ac6e-4c30-836c-8059836fea1d",
+      "cite_id": "cite_d3e3c8b9-47e6-48f2-ada3-ea2d9e55c4e5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "advising employers to reconsider current-employment requirements for non-discretionary bonuses in light of the William Mattar decision",
+      "pull_quote": "Companies should consider the ruling in establishing rules with respect to the currency of employment at the time that bonus or commission payments are to be made to an employee. It should be noted however, that the ruling pertains to non-discretionary bonuses, where either an amount or calculation formula has been agreed to ahead of time, instead of a discretionary bonus.",
+      "pull_quote_verified_at": "2026-04-29T18:59:40.717814+00:00",
+      "pull_quote_verified_hash": "545ce273473ab2e7f28f4415517e4f68f0b22e93d39f79ac2a72acdf6ac1b14c"
+    },
+    "fn_8a04a2ed-a4a4-449a-bc39-d275a706ca9e": {
+      "id": "fn_8a04a2ed-a4a4-449a-bc39-d275a706ca9e",
+      "cite_id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "holding that an earned, fee-based bonus constituted wages, its nonpayment violated section 193, and a current-employee restriction was void against public policy"
+    },
+    "fn_ecd5e7b0-126d-4455-bc9d-8b5ad45fd9b9": {
+      "id": "fn_ecd5e7b0-126d-4455-bc9d-8b5ad45fd9b9",
+      "cite_id": "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that triable issues of fact remained regarding whether a bonus tied to a revenue pool was discretionary or nondiscretionary",
+      "pull_quote": "Here, there are triable issues of fact as to whether the plaintiff's bonus, which was tied, in part, to the gross revenue of his specific assigned revenue pool, was expressly linked to his labor and services, and whether the bonus was discretionary or nondiscretionary.",
+      "pull_quote_verified_at": "2026-04-29T19:01:02.770365+00:00",
+      "pull_quote_verified_hash": "a7ac8e5bc9e9afbd6a481a9ccbb089836cfdd9739ae4dac8c6d950effbd3a7cd"
+    },
+    "fn_fccf61fa-42c5-49f2-9eee-892f86466e9b": {
+      "id": "fn_fccf61fa-42c5-49f2-9eee-892f86466e9b",
+      "cite_id": "cite_88cf957b-813c-4429-952b-5a792819cde9",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that effective March 13, 2024, the pay threshold for executive, administrative, or professional employees increased from $900 to $1,300 per week",
+      "pull_quote": "Effective March 13, 2024 the pay threshold increased from $900 to $1300.",
+      "pull_quote_verified_at": "2026-04-29T19:01:27.369294+00:00",
+      "pull_quote_verified_hash": "cfbc13b250c86291a29c817f56b59a316245915ff832fafde73a31b50b14cb99"
+    },
+    "fn_476d2c50-d352-41f4-97fe-6f9e00677c31": {
+      "id": "fn_476d2c50-d352-41f4-97fe-6f9e00677c31",
+      "cite_id": "cite_ce90fb8d-cf11-4293-b543-6b2847986de5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "limiting the exemption to the provisions of section 198-c, leaving other remedies intact",
+      "pull_quote": "This section shall not apply to any person in a bona fide executive, administrative, or professional capacity whose earnings are in excess of one thousand three hundred dollars a week.",
+      "pull_quote_verified_at": "2026-04-29T19:01:51.082211+00:00",
+      "pull_quote_verified_hash": "fe2e8a7ddd4231263f9a7acfcd4e9038cc092f5bff9df6c830afbc400baf23a2"
+    },
+    "fn_0957c3c7-8a8c-476e-89ae-cd91007dc493": {
+      "id": "fn_0957c3c7-8a8c-476e-89ae-cd91007dc493",
+      "cite_id": "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "discussing the August 20, 2021 enactment of the No Wage Theft Loophole Act",
+      "pull_quote": "On August 20, 2021, four days before his resignation took effect, former Governor Andrew Cuomo signed the “No Wage Theft Loophole Act” (the “Act”), which amended sections 193 and 198 of the Labor Law to state that “[t]here is no exception to liability [under those sections] for the unauthorized failure to pay wages, benefits, or wage supplements.”",
+      "pull_quote_verified_at": "2026-04-29T19:00:37.335197+00:00",
+      "pull_quote_verified_hash": "5aa48f5b3a96a63dac65586fb4ad63a02b05d11b09005d7d743ee3dd8d6c395b"
+    },
+    "fn_1ec61ab1-bfae-4ad5-b0d4-0471e96ef044": {
+      "id": "fn_1ec61ab1-bfae-4ad5-b0d4-0471e96ef044",
+      "cite_id": "cite_2d974e31-419e-4f96-8418-0e31ce86a858",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing that there is no exception to liability for the unauthorized failure to pay wages, benefits, or wage supplements",
+      "pull_quote": "There is no exception to liability under this section for the unauthorized failure to pay wages, benefits or wage supplements.",
+      "pull_quote_verified_at": "2026-04-29T19:02:05.583458+00:00",
+      "pull_quote_verified_hash": "e44fa30c0d3d5abf4f1b0825b9a842a642f28f1e0fb9fe749b2fb0f564fc3b7e"
+    },
+    "fn_7e57cb72-f4ac-4b91-98ae-c0018cb2f169": {
+      "id": "fn_7e57cb72-f4ac-4b91-98ae-c0018cb2f169",
+      "cite_id": "cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "stating that there is no exception to liability for the unauthorized failure to pay wages, benefits, or wage supplements",
+      "pull_quote": "There is no exception to liability under this section for the unauthorized failure to pay wages, benefits or wage supplements.",
+      "pull_quote_verified_at": "2026-04-29T19:02:19.551595+00:00",
+      "pull_quote_verified_hash": "e44fa30c0d3d5abf4f1b0825b9a842a642f28f1e0fb9fe749b2fb0f564fc3b7e"
+    },
+    "fn_a1a6dbd5-f35e-4088-a7ca-9850a1ee72b9": {
+      "id": "fn_a1a6dbd5-f35e-4088-a7ca-9850a1ee72b9",
+      "cite_id": "cite_75e129b4-d019-4cec-86af-22ec4ea7a70b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "defining wages as earnings for labor or services rendered and including benefits or wage supplements for certain purposes",
+      "pull_quote": "\"Wages\" means the earnings of an employee for labor or services rendered, regardless of whether the amount of earnings is determined on a time, piece, commission or other basis. The term \"wages\" also includes benefits or wage supplements as defined in section one hundred ninety-eight-c of this article, except for the purposes of sections one hundred ninety-one and one hundred ninety-two of this article.",
+      "pull_quote_verified_at": "2026-04-29T18:49:10.965937+00:00",
+      "pull_quote_verified_hash": "305cd55eb45e876da574494c73029ca573a718a83fb39337d3e02c8665d9fa29"
+    },
+    "fn_f67aa80b-5b4a-4925-9eaa-68bcd7074ea5": {
+      "id": "fn_f67aa80b-5b4a-4925-9eaa-68bcd7074ea5",
+      "cite_id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that discretionary additional remuneration based on the employer's success and allocated in the employer's sole discretion falls outside the statutory definition of wages",
+      "pull_quote": "Discretionary additional remuneration, as a share in a reward to all employees for the success of the employer’s entrepreneurship, falls outside the protection of the statute.",
+      "pull_quote_verified_at": "2026-04-29T18:46:19.032305+00:00",
+      "pull_quote_verified_hash": "6bad13484f210652bfb8bad702d06caae14815574000d14b6ecbaf10bb55aa24"
+    },
+    "fn_f6516ebd-06d2-4976-ab53-550c47039349": {
+      "id": "fn_f6516ebd-06d2-4976-ab53-550c47039349",
+      "cite_id": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a guaranteed, non-discretionary bonus expressly linked to an employee's labor or services constitutes wages",
+      "pull_quote": "Unlike the situation in Truelove, Ryan's bonus was \"expressly link[ed]\" to his \"labor or services personally rendered\" (95 NY2d at 224); namely, his work as a floor broker for Kellogg. Further, Ryan's bonus had been earned and was vested before he left his job at Kellogg; its payment was guaranteed and non-discretionary as a term and condition of his employment",
+      "pull_quote_verified_at": "2026-04-29T18:47:51.612353+00:00",
+      "pull_quote_verified_hash": "ac1fb02ba974d08c8bfe479d54603766f5a836027ab904e1d06d8f61d3c382e6"
+    },
+    "fn_758a4761-c929-4d50-a3fb-a5a3d5fd464d": {
+      "id": "fn_758a4761-c929-4d50-a3fb-a5a3d5fd464d",
+      "cite_id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a bonus dependent on the employer's financial success and allocated in the employer's discretion falls outside the statutory definition of wages",
+      "pull_quote": "To the contrary, the declaration of a bonus pool was dependent solely upon his employer’s overall financial success. In addition, plaintiffs share in the bonus pool was entirely discretionary and subject to the non-reviewable determination of his employer. These factors, we believe, take plaintiffs bonus payments out of the statutory definition of wages.",
+      "pull_quote_verified_at": "2026-04-29T18:46:28.632034+00:00",
+      "pull_quote_verified_hash": "6bd0d5b55245bc5129234be6a2dc0120d97dfeeb3e076794f70a65a61303153c"
+    },
+    "fn_ee485ee5-42e3-4d04-9ae2-aff2eebbb602": {
+      "id": "fn_ee485ee5-42e3-4d04-9ae2-aff2eebbb602",
+      "cite_id": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a guaranteed, non-discretionary bonus expressly linked to an employee's labor or services constitutes wages under the Labor Law",
+      "pull_quote": "Unlike the situation in Truelove, Ryan's bonus was \"expressly link[ed]\" to his \"labor or services personally rendered\" (95 NY2d at 224); namely, his work as a floor broker for Kellogg. Further, Ryan's bonus had been earned and was vested before he left his job at Kellogg; its payment was guaranteed and non-discretionary as a term and condition of his employment",
+      "pull_quote_verified_at": "2026-04-29T18:48:15.817917+00:00",
+      "pull_quote_verified_hash": "ac1fb02ba974d08c8bfe479d54603766f5a836027ab904e1d06d8f61d3c382e6"
+    },
+    "fn_de8759c7-3d19-477c-b438-0775549f683b": {
+      "id": "fn_de8759c7-3d19-477c-b438-0775549f683b",
+      "cite_id": "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_e_g",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that whether unpaid incentive compensation is a discretionary bonus or earned wages is a question of fact unless clearly indicated as discretionary",
+      "pull_quote": "whether unpaid incentive compensation under a defendant's bonus plan constitutes a discretionary bonus or earned wages not subject to forfeiture is [one] of fact",
+      "pull_quote_verified_at": "2026-04-29T18:50:01.650939+00:00",
+      "pull_quote_verified_hash": "8cba52cf13e6adb00ce5f2927f0d0eac7fca6feb156e1b1d5b6d6753cc04e9ea"
+    },
+    "fn_76e3e649-27b0-4155-af0f-267f964f6e6d": {
+      "id": "fn_76e3e649-27b0-4155-af0f-267f964f6e6d",
+      "cite_id": "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see_also",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "finding a triable issue of fact as to whether a bonus tied to a specific revenue pool was nondiscretionary and expressly linked to the plaintiff's services",
+      "pull_quote": "Here, there are triable issues of fact as to whether the plaintiff's bonus, which was tied, in part, to the gross revenue of his specific assigned revenue pool, was expressly linked to his labor and services, and whether the bonus was discretionary or nondiscretionary.",
+      "pull_quote_verified_at": "2026-04-29T19:01:13.190139+00:00",
+      "pull_quote_verified_hash": "a7ac8e5bc9e9afbd6a481a9ccbb089836cfdd9739ae4dac8c6d950effbd3a7cd"
+    },
+    "fn_a771a23a-110b-47d4-842c-72a5b0e09d7c": {
+      "id": "fn_a771a23a-110b-47d4-842c-72a5b0e09d7c",
+      "cite_id": "cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that unpaid discretionary bonuses do not constitute wages under Labor Law section 193",
+      "pull_quote": "Unpaid bonuses do not constitute \"wages\" under Labor Law § 193",
+      "pull_quote_verified_at": "2026-04-29T19:02:36.753497+00:00",
+      "pull_quote_verified_hash": "70473a7cfdcb2d3ffae9d788f72e9e4ed574a85fac8498e69aa4ee97035565c9"
+    },
+    "fn_a3790312-40bc-4bf5-ae03-0f71a46ea27a": {
+      "id": "fn_a3790312-40bc-4bf5-ae03-0f71a46ea27a",
+      "cite_id": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a guaranteed, non-discretionary bonus that had already been earned and vested constituted wages despite an agreement to delay payment",
+      "pull_quote": "Further, Ryan's bonus had been earned and was vested before he left his job at Kellogg; its payment was guaranteed and non-discretionary as a term and condition of his employment",
+      "pull_quote_verified_at": "2026-04-29T18:48:27.058920+00:00",
+      "pull_quote_verified_hash": "b827fd2eb8b135d046e7d099e03d790c05f86313791d659b50c5eea3862b68c9"
+    },
+    "fn_9bfbdb64-fbcf-404e-83f8-db5f0efe3d45": {
+      "id": "fn_9bfbdb64-fbcf-404e-83f8-db5f0efe3d45",
+      "cite_id": "cite_06c0911e-20a5-46a4-8cf8-ecd454185668",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a payout-date employment condition could be void as against public policy if the production bonus already constituted earned wages",
+      "pull_quote": "In that event, any provision of the 2009 agreement that would operate to deny plaintiff those wages after they were \"earned\" based on the timing of payment would be void as against public policy under article 6 of the Labor Law.",
+      "pull_quote_verified_at": "2026-04-29T18:57:40.185834+00:00",
+      "pull_quote_verified_hash": "b7459c2e0bc35ca986ada872d3bc2524945cc4cd5797e80b12b595f342794689"
+    },
+    "fn_85cc79ba-e179-4c5c-bb4e-6c39ae5b9986": {
+      "id": "fn_85cc79ba-e179-4c5c-bb4e-6c39ae5b9986",
+      "cite_id": "cite_7bd8b091-ac46-40c1-8a21-c174efdf5883",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that commissions are earned at the time specified in the written employment agreement and are thereafter legally considered wages",
+      "pull_quote": "The commission will be considered “earned” at the time specified in the written employment agreement.",
+      "pull_quote_verified_at": "2026-04-29T19:02:54.148108+00:00",
+      "pull_quote_verified_hash": "671eeabb1b088f728c0b49048888cf88a7aaabc9d5760b32a93d69460020b56e"
+    },
+    "fn_b286431f-28d9-4049-a8af-d4b4fd9bb584": {
+      "id": "fn_b286431f-28d9-4049-a8af-d4b4fd9bb584",
+      "cite_id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that an employee was not entitled to remaining bonus payments because the discretionary bonus plan explicitly required continued employment",
+      "pull_quote": "Here, the bonus plan explicitly predicated the continuation of bonus payments upon the recipient’s continued employment status. Because plaintiff resigned shortly after he received his first quarterly payment, he was not entitled to receive the remaining three payments.",
+      "pull_quote_verified_at": "2026-04-29T18:46:34.496549+00:00",
+      "pull_quote_verified_hash": "ac784d3a0ef6f4e62bbe11d2b1a4caaedf3417a078f6ee4a7fa8e4b64708a017"
+    },
+    "fn_7822242c-cf73-4136-bef1-ac10fed1bd8a": {
+      "id": "fn_7822242c-cf73-4136-bef1-ac10fed1bd8a",
+      "cite_id": "cite_06c0911e-20a5-46a4-8cf8-ecd454185668",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that if a bonus constitutes earned wages, a provision denying payment based on employment status at the time of payment is void against public policy",
+      "pull_quote": "In that event, any provision of the 2009 agreement that would operate to deny plaintiff those wages after they were \"earned\" based on the timing of payment would be void as against public policy under article 6 of the Labor Law.",
+      "pull_quote_verified_at": "2026-04-29T18:57:45.409032+00:00",
+      "pull_quote_verified_hash": "b7459c2e0bc35ca986ada872d3bc2524945cc4cd5797e80b12b595f342794689"
+    },
+    "fn_dd3b9654-942b-4285-a84e-15d3c3cfc72d": {
+      "id": "fn_dd3b9654-942b-4285-a84e-15d3c3cfc72d",
+      "cite_id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that provisions restricting bonus payments to current employees are void as against public policy when the compensation constitutes earned wages",
+      "pull_quote": "To the extent that the provisions of the relevant \"Bonus Eligibility\" agreement restricted payments of bonuses to current employees, such provisions are void as against public policy",
+      "pull_quote_verified_at": "2026-04-29T18:58:36.406296+00:00",
+      "pull_quote_verified_hash": "321a5174542f60d1c743085e967a334f6c5eac8f425863c504dc8c9f87575faa"
+    },
+    "fn_67815f76-3c55-47a6-9338-936822b59df1": {
+      "id": "fn_67815f76-3c55-47a6-9338-936822b59df1",
+      "cite_id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that provisions in a fee-based bonus agreement restricting payments to current employees are void as against public policy",
+      "pull_quote": "To the extent that the provisions of the relevant \"Bonus Eligibility\" agreement restricted payments of bonuses to current employees, such provisions are void as against public policy",
+      "pull_quote_verified_at": "2026-04-29T18:58:44.405352+00:00",
+      "pull_quote_verified_hash": "321a5174542f60d1c743085e967a334f6c5eac8f425863c504dc8c9f87575faa"
+    },
+    "fn_db56baf8-da11-476c-aa6d-d23b4555adde": {
+      "id": "fn_db56baf8-da11-476c-aa6d-d23b4555adde",
+      "cite_id": "cite_d3e3c8b9-47e6-48f2-ada3-ea2d9e55c4e5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "discussing the William Mattar decision's application of public policy to void a continued-employment condition for a fee-based bonus",
+      "pull_quote": "the Fourth Department’s application to actual facts in a case last week creates precedent of which companies with employees in New York should take note.",
+      "pull_quote_verified_at": "2026-04-29T18:59:49.950536+00:00",
+      "pull_quote_verified_hash": "9d6d6d1c3c7bf17c468829f4f9b967ecc4a90aa7c09000da28bf14d4d791c3f2"
+    },
+    "fn_ba2b8e2b-05e6-4736-9528-f5b0ddbb90ab": {
+      "id": "fn_ba2b8e2b-05e6-4736-9528-f5b0ddbb90ab",
+      "cite_id": "cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that breach of contract claims for unpaid bonuses fail where unambiguous contractual language makes bonus awards solely a matter of the employer's discretion",
+      "pull_quote": "Plaintiffs' claims for breach of contract lack merit in view of the unambiguous language of their contracts and the employee handbook plainly making bonus awards solely and completely a matter of defendant's discretion",
+      "pull_quote_verified_at": "2026-04-29T19:02:40.894497+00:00",
+      "pull_quote_verified_hash": "b44656443fc304b1fab23fa609544d46184968810b5c0c525450ca6e6ee2442f"
+    },
+    "fn_213debd5-72d1-40ee-985b-6a1828e93c7e": {
+      "id": "fn_213debd5-72d1-40ee-985b-6a1828e93c7e",
+      "cite_id": "cite_f63ad33a-7564-4513-8ac2-24bfae82f321",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that properly drafted discretionary bonus policies can defeat a claim, but general at-will statements are insufficient",
+      "pull_quote": "Significantly, the Court of Appeals confirmed that properly drafted discretionary bonus policies could vitiate a bonus claim, but that the at-will statements in the employment application and handbook that Kellogg was relying upon simply did not meet the standard.",
+      "pull_quote_verified_at": "2026-04-29T18:59:20.826818+00:00",
+      "pull_quote_verified_hash": "de95bf56e38af1c2e04adeba51c1de7e354e05c2b60cd4cab88e6ce94b415608"
+    },
+    "fn_bfa7bccc-3de8-4dd9-9350-00eaf1e733f0": {
+      "id": "fn_bfa7bccc-3de8-4dd9-9350-00eaf1e733f0",
+      "cite_id": "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b",
+      "enrichment_status": "complete",
+      "quote_status": "failed_verification",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "holding that whether unpaid incentive compensation is a discretionary bonus or earned wages is a question of fact unless the employer clearly indicates it is discretionary",
+      "pull_quote": "Thus, unless an employer \"clearly indicate[s] that bonuses are discretionary\" (Ryan v Kellogg Partners Inst. Servs., 79 AD3d 447, 448 [2010], affd 19 NY3d 1 [2012]; see Kaplan v Capital Co. of Am., 298 AD2d 110, 111 [2002], lv denied 99 NY2d 510 [2003]), the issue \"whether unpaid incentive compensation under a defendant's bonus plan constitutes a discretionary bonus or earned wages not subject to forfeiture is [one] of fact\" (Mirchel v RMJ Sec. Corp., 205 AD2d 388, 389 [1994] [internal quotation marks omitted])."
+    },
+    "fn_6ee1307f-c48c-424d-9094-5e4640ef3fbe": {
+      "id": "fn_6ee1307f-c48c-424d-9094-5e4640ef3fbe",
+      "cite_id": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that an oral agreement for a guaranteed, non-discretionary bonus expressly linked to the employee's own labor constituted wages",
+      "pull_quote": "Unlike the situation in Truelove, Ryan's bonus was \"expressly link[ed]\" to his \"labor or services personally rendered\" (95 NY2d at 224); namely, his work as a floor broker for Kellogg. Further, Ryan's bonus had been earned and was vested before he left his job at Kellogg; its payment was guaranteed and non-discretionary as a term and condition of his employment",
+      "pull_quote_verified_at": "2026-04-29T18:48:44.851908+00:00",
+      "pull_quote_verified_hash": "ac1fb02ba974d08c8bfe479d54603766f5a836027ab904e1d06d8f61d3c382e6"
+    },
+    "fn_f88c1d35-9b97-49af-bec2-35f6fa31d297": {
+      "id": "fn_f88c1d35-9b97-49af-bec2-35f6fa31d297",
+      "cite_id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "noting that the bonus compensation was calculated based on actual gross receipts attributable to the employee for legal fees generated during her employment",
+      "pull_quote": "Such bonus compensation was calculated based on the actual gross receipts attributable to respondent for legal fees she generated during her employment",
+      "pull_quote_verified_at": "2026-04-29T18:58:50.180426+00:00",
+      "pull_quote_verified_hash": "ad90b1d8088b89ac6405b028b266a1950db0ad221f01378ad57dd72c7e1b13da"
+    },
+    "fn_32744186-4ae8-4488-89dd-631e8f52ba6e": {
+      "id": "fn_32744186-4ae8-4488-89dd-631e8f52ba6e",
+      "cite_id": "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that triable issues of fact existed regarding whether a bonus tied to a specific revenue pool was discretionary or nondiscretionary wages",
+      "pull_quote": "Here, there are triable issues of fact as to whether the plaintiff's bonus, which was tied, in part, to the gross revenue of his specific assigned revenue pool, was expressly linked to his labor and services, and whether the bonus was discretionary or nondiscretionary.",
+      "pull_quote_verified_at": "2026-04-29T19:01:21.800826+00:00",
+      "pull_quote_verified_hash": "a7ac8e5bc9e9afbd6a481a9ccbb089836cfdd9739ae4dac8c6d950effbd3a7cd"
+    },
+    "fn_88a3ca19-d86e-486b-8197-1eefc2066e77": {
+      "id": "fn_88a3ca19-d86e-486b-8197-1eefc2066e77",
+      "cite_id": "cite_7bd8b091-ac46-40c1-8a21-c174efdf5883",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "distinguishing a true discretionary bonus from a commission based on whether the employee is led to expect specific compensation for hitting sales targets",
+      "pull_quote": "A “bonus” is money paid by an employer to an employee when both the fact and amount of payment are wholly at the discretion at the employer. True bonuses are not considered wages under the Labor Law. If, however, the employee is given reason to believe that if he/she performs a certain amount of orders or sales then he/she will be paid a certain amount of compensation, then the money to be paid is a commission.",
+      "pull_quote_verified_at": "2026-04-29T19:03:05.536282+00:00",
+      "pull_quote_verified_hash": "4af570fea5ca5a9ffcabe5be7b6f3ca9c4985f2b98736e549f3b76afa658ab93"
+    },
+    "fn_fa49f1b7-a7fc-4787-8492-a7c9c3e98a08": {
+      "id": "fn_fa49f1b7-a7fc-4787-8492-a7c9c3e98a08",
+      "cite_id": "cite_75e129b4-d019-4cec-86af-22ec4ea7a70b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "see",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "defining wages to include earnings determined on a commission basis",
+      "pull_quote": "\"Wages\" means the earnings of an employee for labor or services rendered, regardless of whether the amount of earnings is determined on a time, piece, commission or other basis.",
+      "pull_quote_verified_at": "2026-04-29T18:49:22.127082+00:00",
+      "pull_quote_verified_hash": "2e75dc9d8e0d8ff8270e6889b7248dca9f5745c03ccdb326f3faccfc9e5183f2"
+    },
+    "fn_a1aad583-18e0-4abd-aaf7-0e78c97b9e4f": {
+      "id": "fn_a1aad583-18e0-4abd-aaf7-0e78c97b9e4f",
+      "cite_id": "cite_2d974e31-419e-4f96-8418-0e31ce86a858",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "prohibiting employers from making deductions from the wages of an employee, subject to specific exceptions",
+      "pull_quote": "No employer shall make any deduction from the wages of an employee, except deductions which",
+      "pull_quote_verified_at": "2026-04-29T19:02:10.446625+00:00",
+      "pull_quote_verified_hash": "20597954335f258dd2114c9baa8dec8efc7b1559756f6edcd8bc392597f2309e"
+    },
+    "fn_e83d8d02-e075-4d16-9472-9c9f42bdc586": {
+      "id": "fn_e83d8d02-e075-4d16-9472-9c9f42bdc586",
+      "cite_id": "cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "providing for the recovery of underpayments, attorney's fees, prejudgment interest, and liquidated damages, and establishing a six-year lookback period",
+      "pull_quote": "All employees shall have the right to recover full wages, benefits and wage supplements and liquidated damages accrued during the six years previous to the commencing of such action",
+      "pull_quote_verified_at": "2026-04-29T19:02:29.478467+00:00",
+      "pull_quote_verified_hash": "ad6b6d891bed25b418f78e76e80fedc9c6360c03260cf865d2ed225691698fa9"
+    },
+    "fn_1de7452f-db6a-4270-bbf5-3bee7e401dc7": {
+      "id": "fn_1de7452f-db6a-4270-bbf5-3bee7e401dc7",
+      "cite_id": "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "explaining that the 2021 amendments allow employees to bring section 193 claims for the wholesale withholding of wages, not just line-item deductions",
+      "pull_quote": "The Act was intended to clarify that employees can bring § 193 claims not only for unauthorized “line-item” deductions from wages but also for the wholesale withholding of wages alleged to be owed.",
+      "pull_quote_verified_at": "2026-04-29T19:00:45.208549+00:00",
+      "pull_quote_verified_hash": "2394108efde55ae43975639da0c2f579ee8b16d9bff59335e84b8ed1a08ab841"
+    },
+    "fn_29ebbd81-a098-4f71-bb36-55fb52cb7b61": {
+      "id": "fn_29ebbd81-a098-4f71-bb36-55fb52cb7b61",
+      "cite_id": "cite_88cf957b-813c-4429-952b-5a792819cde9",
+      "enrichment_status": "complete",
+      "quote_status": "not_extractable",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": false,
+      "parenthetical": "explaining that the Department accepts claims for promised but unpaid earned bonuses but will not accept claims for commissions from sales"
+    },
+    "fn_c22a2f58-e907-4a9f-b995-782b73cf3cd5": {
+      "id": "fn_c22a2f58-e907-4a9f-b995-782b73cf3cd5",
+      "cite_id": "cite_ce90fb8d-cf11-4293-b543-6b2847986de5",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "exempting bona fide executive, administrative, or professional employees earning over $1,300 per week from the section's wage-supplement protections",
+      "pull_quote": "This section shall not apply to any person in a bona fide executive, administrative, or professional capacity whose earnings are in excess of one thousand three hundred dollars a week.",
+      "pull_quote_verified_at": "2026-04-29T19:01:59.383483+00:00",
+      "pull_quote_verified_hash": "fe2e8a7ddd4231263f9a7acfcd4e9038cc092f5bff9df6c830afbc400baf23a2"
+    },
+    "fn_40a63955-55b9-4ba4-820e-39da73d1c23e": {
+      "id": "fn_40a63955-55b9-4ba4-820e-39da73d1c23e",
+      "cite_id": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a bonus dependent solely on the employer's overall financial success and allocated at the employer's discretion is not wages",
+      "pull_quote": "To the contrary, the declaration of a bonus pool was dependent solely upon his employer’s overall financial success. In addition, plaintiffs share in the bonus pool was entirely discretionary and subject to the non-reviewable determination of his employer. These factors, we believe, take plaintiffs bonus payments out of the statutory definition of wages.",
+      "pull_quote_verified_at": "2026-04-29T18:46:45.540482+00:00",
+      "pull_quote_verified_hash": "6bd0d5b55245bc5129234be6a2dc0120d97dfeeb3e076794f70a65a61303153c"
+    },
+    "fn_a6ba3455-0912-4c72-9e44-7198bf3600b4": {
+      "id": "fn_a6ba3455-0912-4c72-9e44-7198bf3600b4",
+      "cite_id": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a guaranteed, non-discretionary bonus expressly linked to an employee's labor constitutes wages",
+      "pull_quote": "Ryan's bonus had been earned and was vested before he left his job at Kellogg; its payment was guaranteed and non-discretionary as a term and condition of his employment",
+      "pull_quote_verified_at": "2026-04-29T18:48:53.629821+00:00",
+      "pull_quote_verified_hash": "629a612e54e361cfa85827e4eba9eab88d2269358c60220229ea9d35e54a8c91"
+    },
+    "fn_ffb65511-e874-4caf-a779-5e7659177407": {
+      "id": "fn_ffb65511-e874-4caf-a779-5e7659177407",
+      "cite_id": "cite_06c0911e-20a5-46a4-8cf8-ecd454185668",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a production bonus based on personal performance rather than overall firm success could constitute earned wages not subject to forfeiture",
+      "pull_quote": "To the extent the production bonus was not discretionary and, instead, was based only on plaintiff's performance as a manager during his final trimester of employment—a question not conclusively answered by the language of the agreement—the bonus could constitute nonforfeitable \"wages.\"",
+      "pull_quote_verified_at": "2026-04-29T18:57:57.641441+00:00",
+      "pull_quote_verified_hash": "f7828d9443b4de70c0809035c4c01c6d2c4dc497928efc0da0cad29b355e7c56"
+    },
+    "fn_653ee932-c885-4f71-83b2-dc26841b1985": {
+      "id": "fn_653ee932-c885-4f71-83b2-dc26841b1985",
+      "cite_id": "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that whether unpaid incentive compensation is a discretionary bonus or earned wages is a question of fact unless the employer clearly indicates it is discretionary",
+      "pull_quote": "the issue \"whether unpaid incentive compensation under a defendant's bonus plan constitutes a discretionary bonus or earned wages not subject to forfeiture is [one] of fact\"",
+      "pull_quote_verified_at": "2026-04-29T18:50:40.394359+00:00",
+      "pull_quote_verified_hash": "d170af5756ddc54f4746bb3960282b56b96906ebe083e92b07591fadebcc42b8"
+    },
+    "fn_12e35ae5-7de4-443c-bb80-c87fd0a72423": {
+      "id": "fn_12e35ae5-7de4-443c-bb80-c87fd0a72423",
+      "cite_id": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
+      "enrichment_status": "complete",
+      "quote_status": "verified",
+      "signal": "no_signal",
+      "include_quote_in_footnote_body": true,
+      "parenthetical": "holding that a fee-based bonus constituted vested and mandatory wages, rendering a continued-employment condition void as against public policy",
+      "pull_quote": "There is no dispute that the additional compensation owed to respondent in connection with the relevant underlying fees constituted earned \"wages\" that were \"vested and mandatory as opposed to discretionary and forfeitable\"",
+      "pull_quote_verified_at": "2026-04-29T18:59:00.783640+00:00",
+      "pull_quote_verified_hash": "e5a88911995d98316578d85b94890a0cf4d4219bef45ff25e37fd32d5a84602c"
+    }
+  },
   "_sources": {
-    "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689": {
-      "source_ref": "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689",
-      "url": "https://www.nycourts.gov/REPORTER/3dseries/2025/2025_02326.htm",
+    "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e": {
+      "source_ref": "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e",
+      "url": "https://www.lawandtheworkplace.com/2021/09/new-york-labor-law-amendments-expand-scope-of-deductions-claims/",
+      "source_type": "law_firm_commentary",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": "partial",
+        "source_class": "firm_article"
+      }
+    },
+    "cite_7bd8b091-ac46-40c1-8a21-c174efdf5883": {
+      "source_ref": "cite_7bd8b091-ac46-40c1-8a21-c174efdf5883",
+      "url": "https://dol.ny.gov/payment-commissions-faq",
+      "source_type": "agency_guidance",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "agency_guidance"
+      }
+    },
+    "cite_06c0911e-20a5-46a4-8cf8-ecd454185668": {
+      "source_ref": "cite_06c0911e-20a5-46a4-8cf8-ecd454185668",
+      "url": "https://www.nycourts.gov/Reporter/3dseries/2018/2018_02209.htm",
+      "source_type": "case_law",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "case_law"
+      }
+    },
+    "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b": {
+      "source_ref": "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b",
+      "url": "https://www.nycourts.gov/REPORTER/3dseries/2015/2015_02630.htm",
       "source_type": "case_law",
       "status": "accepted",
       "quality_signals": {
@@ -351,9 +1086,42 @@
         "source_class": "statute"
       }
     },
-    "cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475": {
-      "source_ref": "cite_ac95a068-6bc8-42e2-99a9-cc65d93fd475",
-      "url": "https://law.justia.com/cases/new-york/appellate-division-first-department/2008/2008-08423.html",
+    "cite_2d974e31-419e-4f96-8418-0e31ce86a858": {
+      "source_ref": "cite_2d974e31-419e-4f96-8418-0e31ce86a858",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/193",
+      "source_type": "statute",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "statute"
+      }
+    },
+    "cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe": {
+      "source_ref": "cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe",
+      "url": "https://www.nysenate.gov/legislation/laws/LAB/198",
+      "source_type": "statute",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "statute"
+      }
+    },
+    "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689": {
+      "source_ref": "cite_6aa077ce-0494-4e42-86d2-9d62a0aee689",
+      "url": "https://www.nycourts.gov/REPORTER/3dseries/2025/2025_02326.htm",
+      "source_type": "case_law",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "case_law"
+      }
+    },
+    "cite_a2686ce9-192a-464f-9163-1dae9e59337a": {
+      "source_ref": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
+      "url": "https://www.nycourts.gov/Reporter/3dseries/2012/2012_02248.htm",
       "source_type": "case_law",
       "status": "accepted",
       "quality_signals": {
@@ -373,70 +1141,15 @@
         "source_class": "statute"
       }
     },
-    "cite_a2686ce9-192a-464f-9163-1dae9e59337a": {
-      "source_ref": "cite_a2686ce9-192a-464f-9163-1dae9e59337a",
-      "url": "https://www.nycourts.gov/Reporter/3dseries/2012/2012_02248.htm",
-      "source_type": "case_law",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "case_law"
-      }
-    },
-    "cite_7bd8b091-ac46-40c1-8a21-c174efdf5883": {
-      "source_ref": "cite_7bd8b091-ac46-40c1-8a21-c174efdf5883",
-      "url": "https://dol.ny.gov/payment-commissions-faq",
+    "cite_88cf957b-813c-4429-952b-5a792819cde9": {
+      "source_ref": "cite_88cf957b-813c-4429-952b-5a792819cde9",
+      "url": "https://dol.ny.gov/unpaidwithheld-wages-and-wage-supplements",
       "source_type": "agency_guidance",
       "status": "accepted",
       "quality_signals": {
         "jurisdiction_match": true,
         "topic_match": true,
         "source_class": "agency_guidance"
-      }
-    },
-    "cite_b21d5ddc-1efc-4589-a059-e70752cc423c": {
-      "source_ref": "cite_b21d5ddc-1efc-4589-a059-e70752cc423c",
-      "url": "https://law.justia.com/cases/new-york/appellate-division-fourth-department/2025/192-ca-24-00464.html",
-      "source_type": "case_law",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "case_law"
-      }
-    },
-    "cite_f63ad33a-7564-4513-8ac2-24bfae82f321": {
-      "source_ref": "cite_f63ad33a-7564-4513-8ac2-24bfae82f321",
-      "url": "https://www.orrick.com/en/Insights/2012/05/The-New-York-Court-of-Appeals-Latest-Word-on-Bonus-Compensation-Disputes",
-      "source_type": "law_firm_commentary",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "firm_article"
-      }
-    },
-    "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e": {
-      "source_ref": "cite_a0adc158-a2a2-4f3e-b97c-d8fe67b80b0e",
-      "url": "https://www.lawandtheworkplace.com/2021/09/new-york-labor-law-amendments-expand-scope-of-deductions-claims/",
-      "source_type": "law_firm_commentary",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": "partial",
-        "source_class": "firm_article"
-      }
-    },
-    "cite_06c0911e-20a5-46a4-8cf8-ecd454185668": {
-      "source_ref": "cite_06c0911e-20a5-46a4-8cf8-ecd454185668",
-      "url": "https://www.nycourts.gov/Reporter/3dseries/2018/2018_02209.htm",
-      "source_type": "case_law",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "case_law"
       }
     },
     "cite_d3e3c8b9-47e6-48f2-ada3-ea2d9e55c4e5": {
@@ -450,59 +1163,15 @@
         "source_class": "firm_article"
       }
     },
-    "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3": {
-      "source_ref": "cite_785f2e93-9bb4-4b44-af6d-2adacb481db3",
-      "url": "https://law.justia.com/cases/new-york/court-of-appeals/2000/95-n-y-2d-220-0.html",
-      "source_type": "case_law",
+    "cite_f63ad33a-7564-4513-8ac2-24bfae82f321": {
+      "source_ref": "cite_f63ad33a-7564-4513-8ac2-24bfae82f321",
+      "url": "https://www.orrick.com/en/Insights/2012/05/The-New-York-Court-of-Appeals-Latest-Word-on-Bonus-Compensation-Disputes",
+      "source_type": "law_firm_commentary",
       "status": "accepted",
       "quality_signals": {
         "jurisdiction_match": true,
         "topic_match": true,
-        "source_class": "case_law"
-      }
-    },
-    "cite_2d974e31-419e-4f96-8418-0e31ce86a858": {
-      "source_ref": "cite_2d974e31-419e-4f96-8418-0e31ce86a858",
-      "url": "https://www.nysenate.gov/legislation/laws/LAB/193",
-      "source_type": "statute",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "statute"
-      }
-    },
-    "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b": {
-      "source_ref": "cite_703ce749-75b6-403c-b14b-7d2fb852dd7b",
-      "url": "https://www.nycourts.gov/REPORTER/3dseries/2015/2015_02630.htm",
-      "source_type": "case_law",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "case_law"
-      }
-    },
-    "cite_88cf957b-813c-4429-952b-5a792819cde9": {
-      "source_ref": "cite_88cf957b-813c-4429-952b-5a792819cde9",
-      "url": "https://dol.ny.gov/unpaidwithheld-wages-and-wage-supplements",
-      "source_type": "agency_guidance",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "agency_guidance"
-      }
-    },
-    "cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe": {
-      "source_ref": "cite_e6afc38d-f8c7-4e18-8041-c02e7fef8cfe",
-      "url": "https://www.nysenate.gov/legislation/laws/LAB/198",
-      "source_type": "statute",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "statute"
+        "source_class": "firm_article"
       }
     }
   },
