@@ -12,6 +12,80 @@
       "event": "Governor Mark Gordon signed Senate File 107, creating W.S. 1-23-108 and replacing Wyoming's prior statute-free regime with a broad prospective ban plus enumerated exceptions.[[FN:fn_e538797d-215d-434f-b438-7bb48cfcd0f0]]"
     }
   ],
+  "drafting_notes": [
+    {
+      "note_slug": "defining-the-scope-of-protectable-trade-secrets-in-wyoming-agreements",
+      "title": "Defining The Scope Of Protectable Trade Secrets In Wyoming Agreements",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "confidential-information-and-trade-secret-protection",
+      "body": "Practitioners may consider explicitly defining protected information to ensure that the scope of trade secrets aligns with applicable state standards, which helps to clarify the duration of confidentiality obligations and may reduce potential enforceability challenges under Wyoming law.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    },
+    {
+      "note_slug": "evaluating-reasonableness-of-customer-non-solicitation-scope-under-wyoming-law",
+      "title": "Evaluating Reasonableness Of Customer Non-Solicitation Scope Under Wyoming Law",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "non-solicitation-of-customers-vendors-referral-sources-and-business-partners",
+      "body": "Practitioners may want to consider whether the scope of this non-solicitation provision is sufficiently tailored to protect legitimate business interests, as overly broad restrictions might risk enforceability under Wyoming law.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    },
+    {
+      "note_slug": "justifying-geographic-and-temporal-limits-under-wyoming-restrictive-covenant-law",
+      "title": "Justifying Geographic And Temporal Limits Under Wyoming Restrictive Covenant Law",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "non-competition",
+      "body": "Practitioners may consider tailoring the duration and geographic scope of this restriction to align with specific business needs, as such precision likely helps demonstrate reasonableness and reduces the risk of total invalidation under Wyoming law.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    },
+    {
+      "note_slug": "ensuring-compliance-with-recent-national-labor-relations-board-standards",
+      "title": "Ensuring Compliance With Recent National Labor Relations Board Standards",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "non-disparagement",
+      "body": "Practitioners may consider drafting non-disparagement provisions to explicitly exclude protected concerted activity to help ensure compliance with evolving federal labor standards while maintaining enforceability under Wyoming law.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    },
+    {
+      "note_slug": "addressing-wyoming-physician-non-compete-statutory-requirements",
+      "title": "Addressing Wyoming Physician Non-Compete Statutory Requirements",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "physician-specific-rights-and-notices",
+      "body": "This provision is intended to align the agreement with Wyoming statutory protections for physicians by preserving non-compete severability and allowing patient notifications for those diagnosed with rare disorders, which may help mitigate potential enforceability risks.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    },
+    {
+      "note_slug": "enforceability-of-tolling-provisions-under-wyoming-restrictive-covenant-law",
+      "title": "Enforceability Of Tolling Provisions Under Wyoming Restrictive Covenant Law",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "tolling-during-breach",
+      "body": "Practitioners may want to consider that while tolling provisions are intended to preserve the intended duration of a covenant, Wyoming courts might scrutinize such extensions for reasonableness to ensure they do not result in an overly broad restraint on trade.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    },
+    {
+      "note_slug": "addressing-judicial-reformation-and-blue-penciling-in-wyoming-restrictive-covenants",
+      "title": "Addressing Judicial Reformation And Blue Penciling In Wyoming Restrictive Covenants",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "enforceability-severability-and-no-reformation-request",
+      "body": "This clause is intended to mitigate risks by expressly disclaiming judicial reformation, which may help avoid the potential for a court to void the entire agreement if any specific provision is deemed overbroad under Wyoming law.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    },
+    {
+      "note_slug": "selecting-appropriate-wyoming-venue-and-jurisdiction-for-restrictive-covenant-agreements",
+      "title": "Selecting Appropriate Wyoming Venue and Jurisdiction for Restrictive Covenant Agreements",
+      "target_template": "openagreements-restrictive-covenant-wyoming",
+      "target_clause_id": "governing-law-venue-and-dispute-process",
+      "body": "Practitioners may consider that specifying Wyoming as the exclusive venue helps ensure that local courts apply relevant state statutes to the resolution of restrictive covenant disputes.",
+      "authoring_shape": "legacy_section",
+      "source_qa_id": null
+    }
+  ],
   "questions": [
     {
       "id": "qa_1a57c818-09ed-432a-b3a2-979d509b904f",
@@ -978,20 +1052,9 @@
         "source_class": "firm_article"
       }
     },
-    "cite_6bea5e33-857a-401d-bbfc-dbc79024265e": {
-      "source_ref": "cite_6bea5e33-857a-401d-bbfc-dbc79024265e",
-      "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
-      "source_type": "statute",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "statute"
-      }
-    },
-    "cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb": {
-      "source_ref": "cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb",
-      "url": "https://www.bhfs.com/insights/alerts-articles/2025/wyoming-adopts-statutory-limits-for-noncompetes",
+    "cite_f9ff7411-d73d-493f-9cf5-671550d81383": {
+      "source_ref": "cite_f9ff7411-d73d-493f-9cf5-671550d81383",
+      "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
       "source_type": "law_firm_commentary",
       "status": "accepted",
       "quality_signals": {
@@ -1011,9 +1074,31 @@
         "source_class": "firm_article"
       }
     },
-    "cite_f9ff7411-d73d-493f-9cf5-671550d81383": {
-      "source_ref": "cite_f9ff7411-d73d-493f-9cf5-671550d81383",
-      "url": "https://www.fisherphillips.com/en/news-insights/new-law-voids-most-wyoming-non-compete-agreements.html",
+    "cite_6bea5e33-857a-401d-bbfc-dbc79024265e": {
+      "source_ref": "cite_6bea5e33-857a-401d-bbfc-dbc79024265e",
+      "url": "https://wyoleg.gov/2025/Enroll/SF0107.pdf",
+      "source_type": "statute",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "statute"
+      }
+    },
+    "cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1": {
+      "source_ref": "cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1",
+      "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
+      "source_type": "law_firm_commentary",
+      "status": "accepted",
+      "quality_signals": {
+        "jurisdiction_match": true,
+        "topic_match": true,
+        "source_class": "firm_article"
+      }
+    },
+    "cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb": {
+      "source_ref": "cite_39244c4c-0e56-4cc2-b848-51bb57d56bbb",
+      "url": "https://www.bhfs.com/insights/alerts-articles/2025/wyoming-adopts-statutory-limits-for-noncompetes",
       "source_type": "law_firm_commentary",
       "status": "accepted",
       "quality_signals": {
@@ -1025,17 +1110,6 @@
     "cite_6d928bb1-aeca-490c-8766-95973411634d": {
       "source_ref": "cite_6d928bb1-aeca-490c-8766-95973411634d",
       "url": "https://www.hollandhart.com/wyoming-legislature-takes-a-bite-out-of-covenants-not-to-compete-1",
-      "source_type": "law_firm_commentary",
-      "status": "accepted",
-      "quality_signals": {
-        "jurisdiction_match": true,
-        "topic_match": true,
-        "source_class": "firm_article"
-      }
-    },
-    "cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1": {
-      "source_ref": "cite_f8b4911d-66b3-470a-8688-cc4e2e42ecb1",
-      "url": "https://www.littler.com/publication-press/publication/wyoming-bans-non-compete-covenants-some-exceptions",
       "source_type": "law_firm_commentary",
       "status": "accepted",
       "quality_signals": {
