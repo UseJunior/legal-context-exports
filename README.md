@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> **Archived / no longer maintained (July 2026).**
+> These build artifacts were consumed by usejunior.com's Shape-C practice-note
+> pipeline, which has been retired ([UseJunior/dev-website#362](https://github.com/UseJunior/dev-website/pull/362),
+> decision record [#361](https://github.com/UseJunior/dev-website/issues/361)).
+> State-summary legal content is now authored in `UseJunior/legal-explainer`
+> and served at [openagreements.org](https://openagreements.org); usejunior.com
+> `/legal/*` requests redirect there. No downstream consumer of this repository
+> remains. Left read-only for historical reference.
+
 # legal-context-exports
 
 Published build artifacts from the legal-context pipeline. Consumed at build time by [usejunior.com](https://usejunior.com) for template detail pages and practice notes.
